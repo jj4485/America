@@ -1,6 +1,4 @@
-from llama_cpp import Llama
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-llm = Llama.from_pretrained(
-	repo_id="unsloth/Llama-3.3-70B-Instruct-GGUF",
-	filename="Llama-3.3-70B-Instruct-F16/Llama-3.3-70B-Instruct-F16-00001-of-00004.gguf",
-)
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.2-1B")
