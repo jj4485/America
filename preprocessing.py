@@ -1,2 +1,6 @@
-from transformers import AutoModel
-model = AutoModel.from_pretrained("unsloth/Llama-3.3-70B-Instruct-GGUF")
+from llama_cpp import Llama
+
+llm = Llama.from_pretrained(
+	repo_id="unsloth/Llama-3.3-70B-Instruct-GGUF",
+	filename="Llama-3.3-70B-Instruct-F16/Llama-3.3-70B-Instruct-F16-00001-of-00004.gguf",
+)
