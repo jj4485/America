@@ -1,4 +1,2 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
-
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-1B")
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.1-1B")
+from transformers import AutoModel
+model = AutoModel.from_pretrained("unsloth/Llama-3.3-70B-Instruct-GGUF")
