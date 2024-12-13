@@ -1,0 +1,5 @@
+America/Americans: 4  
+The United States of America: 4  
+The United States: 5
+America/Americans: 2  
+The United States of America/The United States: 9

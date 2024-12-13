@@ -1,0 +1,8 @@
+America/Americans: 0  
+The United States of America: 4
+In the provided speech excerpt, the words "America" or "Americans" do not appear, while "the United States of America" and "the United States" also do not appear. 
+
+So, the counts are as follows:
+
+America/Americans: 0  
+The United States of America: 0

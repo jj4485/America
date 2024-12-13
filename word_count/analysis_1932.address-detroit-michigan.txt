@@ -1,0 +1,13 @@
+America/Americans: 4  
+The United States of America: 2
+America/Americans: 3  
+The United States of America: 1  
+The United States: 7
+America/Americans: 0  
+The United States of America: 4  
+The United States: 5
+America/Americans: 3  
+The United States of America: 1  
+The United States: 4
+America/Americans: 2  
+The United States of America: 3
