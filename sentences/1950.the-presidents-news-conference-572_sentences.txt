@@ -1,0 +1,171 @@
+Sentence 1: 1950 The Presidents News Conference 572
+
+THE PRESIDENT.
+Sentence 2: Be seated, please.
+Sentence 3: I will try to answer questions.
+Sentence 4: I have no statements to make.
+Sentence 5: [1.]
+Sentence 6: Q. Mr. President, I think the trainmen and the conductors sent telegrams to you today, saying that they were starting strikes Tuesday on two specific railroads-not terminals, as they had called it before.
+Sentence 7: I wondered if you had anything in mind on coping with those strikes?
+Sentence 8: THE PRESIDENT.
+Sentence 9: I haven't received the telegrams.
+Sentence 10: The railroad brotherhoods and the railroad management are negotiating--trying to reach an agreement here in Washington, but that is all I know about it.
+Sentence 11: I have not received those telegrams.
+Sentence 12: Q. Are they actually negotiating?
+Sentence 13: THE PRESIDENT.
+Sentence 14: Yes, they are--very day.
+Sentence 15: Q.
+Sentence 16: Every day?
+Sentence 17: I thought they had come to a deadlock and quit temporarily?
+THE PRESIDENT.
+Sentence 18: Well, you can check it.
+Sentence 19: They are negotiating every day.
+Sentence 20: [2.]
+Sentence 21: Q. Mr. President, there is some confusion about your views with respect to universal training.
+Sentence 22: I wonder if you would straighten us out on it?
+Sentence 23: THE PRESIDENT.
+Sentence 24: Well, Mr. Ross covered that thoroughly this morning.
+Sentence 25: 1
+I noticed the ticker just before I came over here, and what he said is exactly correct and covers the situation completely.
+Sentence 26: 1 Charles G. Ross, Secretary to the President, had announced that while the administration reaffirmed its support of a universal military training bill the President would not press for its immediate enactment.
+Sentence 27: See also Item 225.
+Sentence 28: [3.]
+Sentence 29: Q. Mr. President, you have always been a backer of home rule for the District.
+Sentence 30: The bill to get the home rule bill on the floor of the House lacks 15 or 20 signatures.
+Sentence 31: Would you care to comment on how that might be pushed over?
+THE PRESIDENT.
+Sentence 32: Well, I would like very much, of course, to see the District get its home rule program.
+Sentence 33: It will be a fine thing if they could get that bill out as promptly as they did that post office bill the other day-of which I am not in favor.
+Sentence 34: Q. Mr. President, does that mean that you will probably veto the post office bill?
+Sentence 35: THE PRESIDENT.
+Sentence 36: Oh, we can't talk about that until it gets here.
+Sentence 37: You see, it hasn't passed the Senate yet, and there are still a lot of maneuvers before I have to act on it.
+Sentence 38: I will make that decision when it comes before me, as always.
+Sentence 39: [4.]
+Sentence 40: Q. Mr. President, going back to UMT, a Hill source said that your position was that you would not use UMT until after the Korean war, even if it were voted.
+Sentence 41: Is that correct, sir?
+THE PRESIDENT.
+Sentence 42: Well, the situation with respect to UMT has been very capably covered by Charlie, and I don't want to get into that controversial matter.
+Sentence 43: I am trying to get emergency legislation that is necessary in our present emergency passed, and this is a very controversial subject.
+Sentence 44: My position on it has been made amply clear.
+Sentence 45: You will find at least five messages to the Congress, and several letters to the chairmen of these committees, which explain exactly how I stand on the matter.
+Sentence 46: I am for universal training, and always have been, but I don't see any reason now for cluttering up the Congress with another controversial matter when they seem to have controversy enough on what they have.
+Sentence 47: [5.]
+Sentence 48: Q. Mr. President, in view of the announcement about Mayor O'Dwyer,
+2
+do you wish to make any general comment about United States relations with Mexico, or what you might hope a new Ambassador would do there?
+THE PRESIDENT.
+Sentence 49: Well, for several months Mayor O'Dwyer has been considering the Ambassadorship to Mexico.
+Sentence 50: When I found out that he was in a favorable frame of mind, I sent for him and offered it to him.
+Sentence 51: 2 On August 15 Charles G. Ross, Secretary to the President, announced that Mayor William O'Dwyer of New York City would retire from that post on August 31, 1950, and would be appointed U.S. Ambassador to Mexico.
+Sentence 52: The nomination was confirmed by the Senate on September 18.
+Sentence 53: Walter Thurston, Mr. O'Dwyer's predecessor as Ambassador, remained in Mexico City on the Embassy staff until April 3, 1951.
+Sentence 54: At that time he returned to Washington to assume new duties as a special adviser on Latin American affairs for the Department of State.
+Sentence 55: The relations with Mexico have always been on a very satisfactory basis.
+Sentence 56: It is one of our friendliest neighbors--always has been.
+Sentence 57: [6.]
+Sentence 58: Mr. Ross: I think there might be some confusion, Mr. President, about these railroad negotiations.
+Sentence 59: The parties have temporarily separated.
+Sentence 60: Dr. Steelman is still working on it to bring them back together again.
+Sentence 61: THE PRESIDENT.
+Sentence 62: Charlie says that the railroad men and management have made temporary adjournment, but they have been communicating with each other every day.
+Sentence 63: I know that because that is reported to me every day.
+Sentence 64: They may not be sitting around a table together today, but they will come back together shortly.
+Sentence 65: [7.]
+Sentence 66: Q. Mr. President, continuing that, if the question is permissible, could it be said whether this new appointment indicates any dissatisfaction with Ambassador Thurston?
+THE PRESIDENT.
+Sentence 67: Not at all.
+Sentence 68: Not at all.
+Sentence 69: [8.]
+Sentence 70: Q. Mr. President, do you know of any plans for expanding atomic energy facilities beyond what is announced already ?
+Sentence 71: THE PRESIDENT.
+Sentence 72: No.
+Sentence 73: [9.]
+Sentence 74: Q. Mr. President, Congress recently passed the port security bill.
+Sentence 75: Do you have any intention of invoking it on the Pacific coast soon ?
+Sentence 76: THE PRESIDENT.
+Sentence 77: We are getting up the orders now to put it into effect.
+Sentence 78: Q.
+Sentence 79: What was the question, please, sir?
+THE PRESIDENT.
+Sentence 80: About the port security bill, implementing the port security bill-working on it now.
+Sentence 81: [10.]
+Sentence 82: Q. Mr. President, the NSRB is drawing up a plan to disperse part of the Federal Government into Maryland and Virginia.
+Sentence 83: Are you going to send that up to Congress?
+THE PRESIDENT.
+Sentence 84: No.
+Q.
+Sentence 85: Does that mean that it is dead?
+THE PRESIDENT.
+Sentence 86: NO.
+Sentence 87: Q. Does it mean that--
+THE PRESIDENT.
+Sentence 88: It means that I have it under consideration.
+Sentence 89: Q. Still under consideration?
+THE PRESIDENT.
+Sentence 90: Yes.
+Sentence 91: [11.]
+Sentence 92: Q. Mr. President, the Republicans issued a statement the other day on foreign policy
+3
+--released Monday morning.
+Sentence 93: I wonder if you would comment on it?
+Sentence 94: THE PRESIDENT.
+Sentence 95: I have no comment to make on that statement.
+Sentence 96: I am very much interested in the bipartisan foreign policy, and I hope it will continue in effect and very effectively as it has in the past.
+Sentence 97: 3
+Sentence 98: The statement, by the minority Members of the Senate Committee on Foreign Relations, was sharply critical of past and present policies of the Democratic administrations but pledged cooperation for final victory in Korea.
+Sentence 99: It was signed by the following Republican Senators: Alexander Wiley of Wisconsin, H. Alexander Smith of New Jersey, Bourke B. Hickenlooper of Iowa, and Henry Cabot Lodge, Jr., of Massachusetts.
+Sentence 100: The text is printed in the Congressional Record (vol. 96, p. 12436).
+Sentence 101: [12.]
+Sentence 102: Q. Mr. President, did you talk to Senator Lehman today?
+Sentence 103: THE PRESIDENT.
+Sentence 104: Yes.
+Sentence 105: I had a conversation with Senator Lehman on legislative matters and on the New York political situation, and I have no comment to make on what he told me.
+Sentence 106: [Laughter]
+Q. Do you think Senator Lehman will run again?
+Sentence 107: THE PRESIDENT.
+Sentence 108: Well now, you will have to ask him that.
+Sentence 109: [13.]
+Sentence 110: Q. Mr. President, ordinarily the campaign starts officially along about Labor Day.
+Sentence 111: I just wondered if you have any speaking plans for Labor Day?
+Sentence 112: THE PRESIDENT.
+Sentence 113: No, I have no speaking plans.
+Sentence 114: I have canceled all speaking dates.
+Sentence 115: You know, I am very busy at the desk over here in the White House office, all the time and far into the night.
+Sentence 116: [14.]
+Sentence 117: Q. Mr. President, Senator Wherry of Nebraska made the comment that the blood of our soldiers in Korea was on the shoulders of Secretary of State Acheson.
+Sentence 118: Would you care to comment on the accuracy of that remark?
+Sentence 119: THE PRESIDENT.
+Sentence 120: I think that is a contemptible statement and beneath comment.
+Sentence 121: [15.]
+Sentence 122: Did you have a question you wanted to ask?
+Q.
+Sentence 123: Yes, sir--I am so busy writing.
+Sentence 124: [Laughter]
+THE PRESIDENT.
+Sentence 125: It's all right.
+Sentence 126: Q.
+Sentence 127: I wonder, Mr. President, do you intend to send any letter or message to Congress to define your feelings about UMT at this session?
+Sentence 128: 4
+THE PRESIDENT.
+Sentence 129: You will find in the last two paragraphs of Secretary Johnson's letter the answer to your question.
+Sentence 130: 5
+4 See Item 225.
+Sentence 131: 5
+According to reports in the press, Secretary of Defense Louis Johnson had sent a letter to Congress on August 17 expressing his approval of legislation on universal military training.
+Sentence 132: [16.]
+Sentence 133: Q. Mr. President, would you permit this railroad situation to go to the point of a strike that would tie up the Nation's transportation?
+Sentence 134: THE PRESIDENT.
+Sentence 135: I will answer that question if it should happen.
+Sentence 136: I am hopeful that there will be a settlement.
+Sentence 137: [17.]
+Sentence 138: Q. Mr. President, I wonder if you would mind putting what you said about Senator Wherry on the record--just the one sentence?
+Sentence 139: THE PRESIDENT.
+Sentence 140: I said that the statement was a contemptible statement, beneath comment.
+Sentence 141: Q.
+Sentence 142: I just wonder if we can quote that?
+Sentence 143: THE PRESIDENT, You can quote it verbatim.
+Sentence 144: Reporter:
+Sentence 145: Well, thank you, Mr. President.
+Sentence 146: THE PRESIDENT.
+Sentence 147: You're welcome.

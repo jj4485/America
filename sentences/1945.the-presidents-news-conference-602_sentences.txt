@@ -1,0 +1,340 @@
+Sentence 1: 1945
+Sentence 2: The Presidents News Conference 602
+
+THE PRESIDENT.
+Sentence 3: [1.]
+Sentence 4: I have just signed an Executive order, seizing the facilities of the Great Lakes Towing Company of Cleveland, Ohio, because of a labor dispute.
+Sentence 5: Q. Great Lakes--
+THE PRESIDENT.
+Sentence 6: --Towing Company of Cleveland, Ohio.
+Sentence 7: The mimeographed order is available when you leave here.
+Sentence 8: Q.
+Sentence 9: Who takes it over, Mr. President?
+THE PRESIDENT.
+Sentence 10: The ODT--Office of Defense Transportation.
+Sentence 11: [2.]
+Sentence 12: I have named the following persons to the Interstate Commerce Commission as reappointments.
+Sentence 13: William E. Lee of Idaho--
+Q. William E.--
+THE PRESIDENT.--Lee.
+Sentence 14: Q. Is that L-e-e?
+THE PRESIDENT.
+Sentence 15: L-e-e. And William J. Patterson of North Dakota-both Republicans, and reappointments.
+Sentence 16: And I have named Lynn U. Stambaugh of North Dakota as a Republican Director on the Export-Import Bank.
+Sentence 17: All the appointments seem to be nonpartisan this morning.
+Sentence 18: [Laughter]
+Q. Lynn U. Stambaugh?
+THE PRESIDENT.
+Sentence 19: Lynn U. Stambaugh.
+Sentence 20: Q. Former National Commander, American Legion.
+Sentence 21: THE PRESIDENT.
+Sentence 22: Lynn U. Stambaugh of the Legion, I believe, is the rest of it.
+Sentence 23: Q. Does that leave one more vacancy?
+THE PRESIDENT.
+Sentence 24: There is still one more Republican vacancy.
+Sentence 25: Q. One Democratic, isn't there?
+Sentence 26: No?
+THE PRESIDENT.
+Sentence 27: No.
+Sentence 28: The Democrats have all been filled.
+Sentence 29: Martin, the other day, was just made Chairman of that Export-Import Bank; and it is, in my opinion, one of the most important organizations we have for the welfare of the country and the world.
+Sentence 30: Q.
+Sentence 31: That means, Mr. President, that Mr. Crowley is definitely not coming back to Government service?
+Sentence 32: THE PRESIDENT.
+Sentence 33: That's what it means.
+Sentence 34: At least not in that capacity.
+Sentence 35: [3.]
+Sentence 36: I have got a statement here that will be interesting to you.
+Sentence 37: It will--you will be furnished with mimeographed copies as you go out.
+Sentence 38: [Reading, not literally] "The first 100 days of reconversion.
+Sentence 39: We have made the following progress:
+"On manpower.
+Sentence 40: The great part of the layoffs from war plants has now been completed, except in the shipyards.
+Sentence 41: And employment in non-war activities has increased since V-J Day.
+Sentence 42: Total employment has now returned to the V-J Day level and is expected to continue to rise.
+Sentence 43: "Unemployment, so far, is less than had been expected.
+Sentence 44: This means that the disruption of our economy has been less drastic than anticipated.
+Sentence 45: However, we are still in a transition period.
+Sentence 46: The rapid demobilization of the armed forces will undoubtedly increase the unemployment total over the next few months.
+Sentence 47: "During these first 100 days, 3,500,000 men and women have been demobilized.
+Sentence 48: We have stepped up the rate to 50,000 a day, and expect to continue at this pace.
+Sentence 49: "Plant reconversion.
+Sentence 50: "--And this is exceedingly interesting, in view of some of the things that have been said.--"The job of reconverting our plants from war to peace is virtually completed.
+Sentence 51: Ninety-three percent of all plants have been cleared in 60 days or less after request.
+Sentence 52: "
+Q. Ninety-three percent?
+THE PRESIDENT [continuing reading, not literally].
+Sentence 53: "Ninety-three percent have been cleared in 60 days or less after request.
+Sentence 54: Two-thirds of these plants were cleared in 40 days or less.
+Sentence 55: Twenty-seven billion dollars' worth of war contracts have been canceled since the surrender of Japan.
+Sentence 56: Approximately one-third of the 122,000 war contracts canceled since V-J Day have been settled.
+Sentence 57: "Lifting of wartime controls.
+Sentence 58: All war manpower controls were lifted the day after Japan surrendered.
+Sentence 59: OPA has removed several hundred items from price control, removed all rationing except sugar and tires, and completed the pricing of reconversion goods almost 100 percent.
+Sentence 60: OPA has reduced orders and regulations on its books to 55 from a wartime peak of 650.
+Sentence 61: ODT has 14 orders standing, as compared with 3,050 during the war.
+Sentence 62: About 85 percent of wartime export controls have been lifted, and 75 percent of wartime import controls.
+Sentence 63: "Production.
+Sentence 64: Most peacetime products are already in production or ready to roll.
+Sentence 65: The metal-working trades on which we depend for most of our consumer durable goods are in such shape that they expect by the middle of 1946 to ship goods at two and one-half times the 1939 rate.
+Sentence 66: "Business continues good.
+Sentence 67: Here are some indications:
+"Retail sales are up 10 percent now as compared with the same period last year; steel ingot production is back to 82 percent capacity today as compared with 60 percent capacity right after V-J Day; electric power production now is only 14 percent below the wartime peak.
+Sentence 68: "
+Now I am going to read you some official--official Labor Department figures.
+Sentence 69: [Continuing reading, not literally] "There has been an upsurge of strikes since V-J Day.
+Sentence 70: The increase has been due in part to the fact that all parties held their grievances in check during the war and observed the no-strike pledge.
+Sentence 71: New strikes since August total approximately 1,500, involving about 1,500,000 workers.
+Sentence 72: During the same time 924 strikes were averted, involving about 400,000 workers; and 868 strikes were settled through the Conciliation Service of the Labor Department, involving more than 525,000 workers.
+Sentence 73: Labor dispute
+cases settled through November 24th numbered 2,821, involving about
+1,150,000 workers.
+Sentence 74: Time lost through work stoppages since August is estimated at 0.76 of 1 percent of the total working time available.
+Sentence 75: "The cost of living--according to the figures customarily used for that purpose--has declined 0.3 of 1 percent since the surrender of Japan, as compared with a rise of approximately 1.3 percent in a comparable period after the last war.
+Sentence 76: Some of the decrease this time, however, is due to seasonable decrease in some food prices.
+Sentence 77: Direct controls over wages and salaries have been removed in most fields, but increases have not been allowed to affect price ceilings or costs to the United States, except in some specific and narrowly defined cases to correct maladjustments or inequities.
+Sentence 78: "Inflationary pressures are still great, and danger signals pointing to a further building up through the winter and spring are the rise of real estate, wholesale, and raw materials prices.
+Sentence 79: We must continue to hold the line.
+Sentence 80: We cannot permit inflation.
+Sentence 81: "
+Now, while this is a good report, we must be sure that we are still in the midst of reconversion, and we must do everything in our power to prevent this inflationary pressure from taking the advantage of us under these conditions.
+Sentence 82: I have read you these figures to indicate to you that the administration has not been asleep on the job, and we shall continue to do everything in our power to go forward with this reconversion program on the basis which we anticipated to begin with.
+Sentence 83: We are way ahead of schedule.
+Sentence 84: But bear in mind that the difficulties we are facing are just as great as they have ever been in the history of the country.
+Sentence 85: Now I am ready for questions.
+Sentence 86: Q. Mr. President, in connection with that statement itself, hasn't the Advisory Board of the War Mobilization expressed some trepidation about the possibility of deflation as well as inflation?
+THE PRESIDENT.
+Sentence 87: That's true.
+Sentence 88: Q.
+Sentence 89: I suppose that is taken into consideration--
+THE PRESIDENT.
+Sentence 90: That is taken into consideration.
+Sentence 91: Q.--in the general reconversion program?
+Sentence 92: THE PRESIDENT.
+Sentence 93: That's right.
+Sentence 94: We are trying to prevent deflation just as much as inflation.
+Sentence 95: Q. Do you regard that danger as anywhere near the danger of inflation?
+Sentence 96: THE PRESIDENT.
+Sentence 97: No, I do not.
+Sentence 98: [4.]
+Sentence 99: Q. Mr. President, Mr. Ross yesterday indicated we may expect those appointments to the Anglo-American Commission for investigation of the Palestine situation today.
+Sentence 100: THE PRESIDENT.
+Sentence 101: They are not ready yet.
+Sentence 102: Q.
+Sentence 103: Do you expect them today?
+Sentence 104: THE PRESIDENT.
+Sentence 105: No, I do not.
+Sentence 106: Q. Mr. President, in that connection if I may ask one more question-some people who have been interested in the Zionist movement said that you gave prior approval, or at least prior acquiescence, to the Wagner resolution on a Jewish commonwealth in Palestine.
+Sentence 107: Did you have any conversation on that subject?
+THE PRESIDENT.
+Sentence 108: I had some conversation on that subject, and was not opposed to that situation.
+Sentence 109: I was Vice President then.
+Sentence 110: Q.
+Sentence 111: Do you still favor the resolution?
+Sentence 112: THE PRESIDENT.
+Sentence 113: I do not.
+Sentence 114: The conditions have changed.
+Sentence 115: And if that resolution is passed, there isn't any use trying to have a fact finding commission finding facts and making recommendations.
+Sentence 116: [5.]
+Sentence 117: Q. Mr. President, the same OWMR Advisory Board suggested the other day it would be a good thing--in connection with strikes-it would be a good thing if General Motors sat down and talked things over with the strikers.
+Sentence 118: Do you agree with that?
+Sentence 119: THE PRESIDENT.
+Sentence 120: I do.
+Sentence 121: Q. Mr. President, the report does not say very specifically what cost-of-living figures those are.
+Sentence 122: THE PRESIDENT.
+Sentence 123: The ones that are usually used--the Labor Department's index.
+Sentence 124: Q.
+Sentence 125: That very controversial one?
+THE PRESIDENT.
+Sentence 126: The very controversial one.
+Sentence 127: It's the only one we have.
+Sentence 128: Q.
+Sentence 129: The same one.
+Sentence 130: THE PRESIDENT.
+Sentence 131: The only official one we have.
+Sentence 132: Q. Mr. President, you said that you are anticipating, perhaps, a rise in real estate prices next winter.
+Sentence 133: There were discussions of some controls to be placed on real estate, which I think Mr. Davis had under consideration when he was with the OES.
+Sentence 134: THE PRESIDENT.
+Sentence 135: They are still under consideration.
+Sentence 136: Q.
+Sentence 137: They are?
+Sentence 138: THE PRESIDENT.
+Sentence 139: They are.
+Sentence 140: It is the most difficult thing to try to get controls that will work.
+Sentence 141: That is difficult.
+Sentence 142: [6.]
+Sentence 143: Q. Mr. President, I wonder if you could also discuss the problem of the first 100 days of reconversion on the international front?
+Sentence 144: I mean specifically that in the squabbles of Hurley, and the debates on the United Nations Organization, and the discussions of UNRRA on the Hill, all through it there seems to be running a thread containing two fears: one, an unholy fear that Russia will not cooperate with the other nations, and second--
+THE PRESIDENT.
+Sentence 145: That's a fear--[ inaudible words].
+Sentence 146: Q. --second, a fear that noncooperation on the part of Russia will eventually lead to war.
+Sentence 147: Do you share either of those fears, sir?
+Sentence 148: THE PRESIDENT.
+Sentence 149: I do not, and I will discuss that situation at a later date, fully and completely.
+Sentence 150: Q.
+Sentence 151: In a message to Congress, sir?
+THE PRESIDENT.
+Sentence 152: No, not necessarily.
+Sentence 153: That may be at a press conference.
+Sentence 154: When the turmoil gets hot enough, I will talk with you about it.
+Sentence 155: Q. Don't you think it's very hot now?
+Sentence 156: [Laughter]
+THE PRESIDENT.
+Sentence 157: Well, it's stirred up.
+Sentence 158: We should let it settle a little bit.
+Sentence 159: [7.]
+Sentence 160: Q. Mr. President, what would be the effect of a great strike on this reconversion schedule?
+Sentence 161: THE PRESIDENT.
+Sentence 162: It would hold it back, of course.
+Sentence 163: Q.
+Sentence 164: What would the administration do to prevent such a strike?
+THE PRESIDENT.
+Sentence 165: I will handle that situation when it appears before me.
+Sentence 166: [8.]
+Sentence 167: Q. Mr. President, on the Palestine question, has an agreement been reached, at least on how many members each government will have?
+Sentence 168: THE PRESIDENT.
+Sentence 169: We will hope to reach that agreement today.
+Sentence 170: I think maybe the Secretary of State will announce it.
+Sentence 171: [9.]
+Sentence 172: Q. Byron Price in his report recommended a revision of the Potsdam Declaration.
+Sentence 173: Would you approve of that?
+Sentence 174: THE PRESIDENT.
+Sentence 175: I would.
+Sentence 176: But that requires a four-power agreement in order to make that revision.
+Sentence 177: Q. Are any steps being taken--
+THE PRESIDENT.
+Sentence 178: Yes.
+Q.--in that direction to change it?
+Sentence 179: THE PRESIDENT.
+Sentence 180: Yes.
+Sentence 181: We will make an effort to approach the situation.
+Sentence 182: Q.
+Sentence 183: You mean by "we"--you mean our Government alone?
+Sentence 184: THE PRESIDENT.
+Sentence 185: Our Government alone ?
+Sentence 186: Well, I can't answer that, because it is still in the negotiating stage.
+Sentence 187: Q. Mr. President, do you mean revision of the entire Potsdam Declaration, or just certain phases?
+Sentence 188: THE PRESIDENT.
+Sentence 189: Certain phases of it.
+Sentence 190: Q. Where they apply to the four-power control of Germany?
+Sentence 191: THE PRESIDENT.
+Sentence 192: That's right.
+Sentence 193: It's--it's a detail proposition that will have to be worked out on the ground by the four powers.
+Sentence 194: Q. Could you, at this time, throw any light on those efforts at revision?
+THE PRESIDENT.
+Sentence 195: No, I can't.
+Sentence 196: Q. Mr. President, are you doing anything to try and change that veto plan that is in the four-power control, where one member can veto--
+THE PRESIDENT.
+Sentence 197: That is one of the things that will be under discussion.
+Sentence 198: Q. Will that be done in another Big Three conference, sir?
+THE PRESIDENT.
+Sentence 199: No, sir, it will not.
+Sentence 200: I am not in favor of special conferences, because I want to see the United Nations do its job.
+Sentence 201: The League of Nations was ruined by a lot of special conferences.
+Sentence 202: I am not in favor of special conferences, and never have been.
+Sentence 203: Q.
+Sentence 204: The suggestion for elimination of the veto power is wholly American then, I take it?
+Sentence 205: THE PRESIDENT.
+Sentence 206: No, not necessarily.
+Sentence 207: I can't answer those questions intelligently, because it's a matter of negotiation, and I don't want to be specific because it might ruin the negotiations.
+Sentence 208: Q. Mr. President, is the United Nations Organization raising the point whether it can take over these--
+THE PRESIDENT.
+Sentence 209: It will, very shortly.
+Sentence 210: Q.
+Sentence 211: How soon do you anticipate--
+THE PRESIDENT.
+Sentence 212: I think some time in the next 90 days--I hope.
+Sentence 213: Q.
+Sentence 214: And that will obviate a three-power conference?
+Sentence 215: THE PRESIDENT.
+Sentence 216: That's what that United Nations is for; and I want to see it work, and we are behind it wholeheartedly to see that it does work.
+Sentence 217: Q.
+Sentence 218: Do you think other nations are equally behind it, Mr. President?
+THE PRESIDENT.
+Sentence 219: I think so.
+Sentence 220: Most of them are, I think.
+Sentence 221: Q. Would you make any exceptions?
+Sentence 222: THE PRESIDENT.
+Sentence 223: No, I wouldn't make any exceptions because I can't speak for the other nations.
+Sentence 224: They must speak for themselves.
+Sentence 225: [10.]
+Sentence 226: Q. Mr. President, has the Anglo-American financial conference concluded its work?
+THE PRESIDENT.
+Sentence 227: No, they have not.
+Sentence 228: Q. Are you--do you believe that it will be concluded successfully?
+Sentence 229: THE PRESIDENT.
+Sentence 230: I do, of course.
+Sentence 231: [11.]
+Sentence 232: Q. Mr. President, have you received the resignation of Danny Bell as Under Secretary of the Treasury?
+THE PRESIDENT.
+Sentence 233: I don't think so.
+Sentence 234: I have a drawer full of resignations here--[laughter]--a lot of which I have refused to accept, and some of which I have had to accept.
+Sentence 235: I don't know whether his is in there or not.
+Sentence 236: Q. Would you care to tell us about some of them?
+Sentence 237: THE PRESIDENT.
+Sentence 238: No, I wouldn't.
+Sentence 239: I will tell you about them as they come up.
+Sentence 240: Q. Mr. President, are those on the top shelf, Mr. President?
+THE PRESIDENT.
+Sentence 241: No.
+Q.
+Sentence 242: Mr. President, when was the Hurley resignation put in the drawer?
+THE PRESIDENT.
+Sentence 243: It was put in the drawer this morning.
+Sentence 244: It just reached me this morning only.
+Sentence 245: Q. Mr. President, what do you think of the various accusations Ambassador Hurley made as he quit?
+THE PRESIDENT.
+Sentence 246: I would rather not express an opinion on the matter.
+Sentence 247: [12.]
+Sentence 248: Q. Can you tell us, sir, the instructions under which General Marshall is going to China, as a result of your conversation yesterday?
+Sentence 249: THE PRESIDENT.
+Sentence 250: No, I cannot, because they are still being worked out.
+Sentence 251: I will give them to you in toto whenever that is accomplished.
+Sentence 252: Q. Is that appointment a temporary--
+THE PRESIDENT.
+Sentence 253: He is Special Envoy to China for a special job, and it is temporary.
+Sentence 254: Q. Mr. President, on the question of instructions to Marshall, does that mean he will get a directive which will be published--on a new statement of policy?
+Sentence 255: THE PRESIDENT.
+Sentence 256: I can't answer that intelligently yet.
+Sentence 257: He will go and carry out the policy which we have always had in China.
+Sentence 258: We might state it more specifically than it has been stated.
+Sentence 259: Q. Could you state that policy briefly, Mr. President?
+THE PRESIDENT.
+Sentence 260: No, I will not.
+Sentence 261: [Laughter]
+Sentence 262: [13.]
+Sentence 263: Q. Do you anticipate that there will be any need for further Big Three conferences at any time?
+Sentence 264: THE PRESIDENT.
+Sentence 265: If the United Nations Organization works as it should, there shouldn't be any reason for a Big Three conference or any other sort of conference outside the United Nations.
+Sentence 266: Q. Yes, sir.
+Sentence 267: [14.]
+Sentence 268: Q. Mr. President, it seems to me Senator Fulbright said the awfullest thing about the administration when he said that your foreign policy was just "playing by ear."
+THE PRESIDENT.
+Sentence 269: Well, Senator Fulbright has a right to his opinion the same as I have a right to mine.
+Sentence 270: Q.
+Sentence 271: But as a musician--
+THE PRESIDENT.
+Sentence 272: I think it's playing by music.
+Sentence 273: [15.]
+Sentence 274: Q. Mr. President, have you any indication as to when Mr. Marshall will leave?
+Sentence 275: THE PRESIDENT.
+Sentence 276: Very shortly, in 3 or 4 days.
+Sentence 277: Q. Will that give the Pearl Harbor investigating committee a chance--
+THE PRESIDENT.
+Sentence 278: That is up to them.
+Sentence 279: [16.]
+Sentence 280: Q. Mr. President, who are you betting on, on Saturday--Army or Navy?
+Sentence 281: [Laughter]
+THE PRESIDENT.
+Sentence 282: I am neutral.
+Sentence 283: [Laughter]
+Q.
+Sentence 284: You have to be.
+Sentence 285: THE PRESIDENT.
+Sentence 286: I have to be neutral.
+Sentence 287: One half is Army, and the other half is Navy.
+Sentence 288: Q. Does that neutrality go for the Army and Navy fight on unification, Mr. President?
+THE PRESIDENT.
+Sentence 289: I will make an announcement on that very shortly.
+Sentence 290: Reporter:
+Sentence 291: Thank you, Mr. President.

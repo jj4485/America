@@ -1,0 +1,322 @@
+Sentence 1: 1946 The Presidents News Conference 422
+
+THE PRESIDENT.
+Sentence 2: Well, I haven't any special announcements to make to you this morning, so any questions you want to ask I will try to answer.
+Sentence 3: [1.]
+Sentence 4: Q. Mr. President, have you decided on the membership of the civilian board to--
+THE PRESIDENT.
+Sentence 5: No.
+Q.-- preside at the atomic tests?
+Sentence 6: THE PRESIDENT.
+Sentence 7: No.
+Sentence 8: They are not a presiding board.
+Sentence 9: They are merely a jury.
+Sentence 10: I have not decided because I have not heard from those that have been asked.
+Sentence 11: As soon as they reply and decide to go, I will announce them to you.
+Sentence 12: Q.
+Sentence 13: You have asked some people?
+Sentence 14: THE PRESIDENT.
+Sentence 15: I have asked some people to act.
+Sentence 16: Q. Mr. President, do you contemplate going out there
+THE PRESIDENT.
+Sentence 17: No, no.
+Q.-- to see any of those tests?
+THE PRESIDENT.
+Sentence 18: I wish I could, but I can't go.
+Sentence 19: [2.]
+Sentence 20: Q. Mr. President, have you made any decision on the man you would like to have head up the civil commission on atomic energy?
+Sentence 21: THE PRESIDENT.
+Sentence 22: No, I have not.
+Sentence 23: Q.
+Sentence 24: How many invitations have gone out, Mr. President?
+THE PRESIDENT.
+Sentence 25: Five.
+Sentence 26: Q. Five?
+Sentence 27: [3.]
+Sentence 28: Q. Have we made our decision yet on the American representative on the United Nations Atomic Commission?
+Sentence 29: THE PRESIDENT.
+Sentence 30: No.
+Q.
+Sentence 31: Mr. President, several months ago, you said--at a press conference--that you didn't share the unholy fear of Russia that was manifested by some people, and that sometime you would comment at length on that.
+Sentence 32: I wonder if you could comment now, in view of the current revelations about the atomic secrets
+THE PRESIDENT.
+Sentence 33: No comment.
+Sentence 34: Q. --recently by the--
+THE PRESIDENT.
+Sentence 35: No comment.
+Sentence 36: [4.]
+Sentence 37: Q. Mr. President, do you have any comment on Mr. Macmillan's speech before members of the British cabinet, that we should return to the procedure of Big Three meetings, in order to improve Big Three relations, which he believes are rather strained at this point?
+Sentence 38: THE PRESIDENT.
+Sentence 39: I haven't read Mr. Macmillan's speech, so I have no comment to make on it.
+Sentence 40: [5.]
+Sentence 41: Q. Mr. President, in view of the rather strong reports in the Justice Department that certain activities--agents of foreign powers--have been observed in this country, would you say anything to put the situation in its proper perspective, for general guidance, on the Justice Department's activities?
+Sentence 42: THE PRESIDENT.
+Sentence 43: I have no comment on it.
+Sentence 44: I know nothing about it.
+Sentence 45: [6.]
+Sentence 46: Q. Mr. President, is there any news on the Governorship of Puerto Rico?
+THE PRESIDENT.
+Sentence 47: No.
+Sentence 48: Not this morning.
+Sentence 49: I will answer that at the proper time.
+Sentence 50: [7. ]
+Sentence 51: Q. What about the Secretary of the Interior, Mr. President?
+THE PRESIDENT.
+Sentence 52: I have made no decision as yet.
+Sentence 53: Q. Has it been offered to Mr.--to Justice Douglas?
+THE PRESIDENT.
+Sentence 54: It has been discussed with Justice Douglas.
+Sentence 55: Q. Not necessarily mean it has been offered--
+THE PRESIDENT.
+Sentence 56: No.
+Q. --to him?
+Sentence 57: [Laughter]
+Q.
+Sentence 58: You didn't say it had not been, did you, Mr. President?
+THE PRESIDENT.
+Sentence 59: I did not.
+Sentence 60: I said it had been discussed.
+Sentence 61: [8.]
+Sentence 62: Q. Do you intend to withdraw Mr. Pauley's name, in view of Senator Stewart's suggestion that Pauley ought to get out now?
+Sentence 63: THE PRESIDENT.
+Sentence 64: No.
+Q. Does that mean, Mr. President, that Mr. Pauley will have your full support, if he wants to stay in and fight for confirmation?
+Sentence 65: THE PRESIDENT.
+Sentence 66: That is my policy.
+Sentence 67: And when I get behind a man, I usually stay behind him.
+Sentence 68: [9-] Q. Mr. President, if I might return to the Russian question a moment, do you have any plans to ask Congress for a Russian loan--loan to Russia?
+Sentence 69: THE PRESIDENT.
+Sentence 70: No.
+Sentence 71: [10.]
+Sentence 72: Q. Mr. President, this full employment board--bill that you signed yesterday, sets up a three-member council.
+Sentence 73: Have you decided who--
+THE PRESIDENT.
+Sentence 74: No, I have not.
+Sentence 75: [11.]
+Sentence 76: Q. Mr. President, does your answer that you have no plans to ask Congress for a loan to Russia exclude the possibility of a loan?
+THE PRESIDENT.
+Sentence 77: No, it does not.
+Sentence 78: Q.
+Sentence 79: When is the Advisory Council's foreign lending policy report to be released by the White House, Mr. President?
+THE PRESIDENT.
+Sentence 80: I didn't hear the question.
+Sentence 81: Q.
+Sentence 82: When will the Advisory Council's report on foreign lending policy be released by the White House?
+Sentence 83: THE PRESIDENT.
+Sentence 84: It isn't ready yet.
+Sentence 85: Whenever it is ready, it will be released.
+Sentence 86: [12.]
+Sentence 87: Q. Mr. President, the report of Edwin Locke on China is sort of gathering dust.
+Sentence 88: I wonder if you could tell us when that is going to be released, sir?
+Sentence 89: THE PRESIDENT.
+Sentence 90: It isn't proper to release it as yet.
+Sentence 91: It will be released when General Marshall's work is completed in China.
+Sentence 92: Q. Would you give us any idea when General Marshalls work will be completed?
+THE PRESIDENT.
+Sentence 93: No, I can't.
+Sentence 94: I can't give you that.
+Sentence 95: [13.]
+Sentence 96: Q. Would you care to tell us if Governor Wallgren is among those that you are considering
+THE PRESIDENT.
+Sentence 97: Governor Wallgren would make a fine Secretary, but I can't possibly have two Cabinet officers from the great State of Washington.
+Sentence 98: Q. Mr. President, that would seem to bar Justice Douglas.
+Sentence 99: THE PRESIDENT.
+Sentence 100: Well, you draw your own conclusions.
+Sentence 101: Q.
+Sentence 102: Well, he is a legal resident of Connecticut, though, as I understand it?
+THE PRESIDENT.
+Sentence 103: No.
+Sentence 104: He is a legal resident of Washington-lives at Walla Walla.
+Sentence 105: Q.
+Sentence 106: Who is that?
+THE PRESIDENT.
+Sentence 107: Justice Douglas.
+Sentence 108: Q.
+Sentence 109: I thought his legal residence was Connecticut ?
+Sentence 110: [14.]
+Sentence 111: THE PRESIDENT.
+Sentence 112: Now, wait a minute, I want to show you something I think you will enjoy.
+Sentence 113: Lieutenant General Richardson showed me some GI drawings that are rather unusual, due to the fact that they are drawn apparently by artists who believe in an infinite ability for taking pains.
+Sentence 114: They are not "dogs."
+Sentence 115: [Showing some large drawings] These are soldier drawings that were sent me.
+Sentence 116: They are, I think, most remarkable.
+Sentence 117: I thought maybe you would like to see them.
+Sentence 118: These young artists ought to be complemented, because they do not belong to the "ham and egg" class of artists-[laughter]--which--.
+Sentence 119: Look at this--[indicating]--don't you think those are wonderful?
+Sentence 120: Q. Are they all drawn by one man?
+THE PRESIDENT.
+Sentence 121: No. Three or four artists represented.
+Sentence 122: Q.
+Sentence 123: What do you define as "ham and egg," Mr. President?
+THE PRESIDENT.
+Sentence 124: What was that?
+Sentence 125: I didn't hear it.
+Sentence 126: Q.
+Sentence 127: What do you define as "ham and egg" in art?
+Sentence 128: THE PRESIDENT.
+Sentence 129: These so-called pictures that look as if they had stood off and thrown an egg at them--smeared them--[laughter].
+Sentence 130: These young men don't belong in that class.
+Sentence 131: They still believe that there is--a good deal depends on careful work, and trying to make you see what they intend you to see, and not leave it to your imagination.
+Sentence 132: [Laughter]
+Q. Mr. President, is there a moral in that--an implied--
+THE PRESIDENT.
+Sentence 133: Draw your own conclusions.
+Sentence 134: [More laughter] I believe in infinite taking of pains in anything you try to do.
+Sentence 135: Q.
+Sentence 136: May we quote that, sir?
+THE PRESIDENT.
+Sentence 137: Yes.
+Sentence 138: [15.]
+Sentence 139: Q. There is still confusion in my mind.
+Sentence 140: You said you can't have two members of the Cabinet from one State . .
+Sentence 141: THE PRESIDENT.
+Sentence 142: I didn't say I couldn't have.
+Sentence 143: I said I didn't think I should have.
+Sentence 144: Q.
+Sentence 145: You said that Douglas is a legal resident of Washington?
+Sentence 146: THE PRESIDENT.
+Sentence 147: That's right.
+Sentence 148: Q. Mr. President, that has added up to four--twice now.
+Sentence 149: [Laughter]
+Q. Does that--
+THE PRESIDENT.
+Sentence 150: Shall we start over?
+Sentence 151: I say, shall we start over?
+Sentence 152: Q. Does that exclude Douglas ?
+THE PRESIDENT.
+Sentence 153: No.
+Sentence 154: It does not exclude Mort Wallgren, either.
+Sentence 155: Q.
+Sentence 156: You wouldn't do something you shouldn't, would you ?
+Sentence 157: Q.
+Sentence 158: You said you discussed it with Justice Douglas?
+THE PRESIDENT.
+Sentence 159: That's right.
+Sentence 160: Q. Were you aware then that he was from Washington?
+Sentence 161: THE PRESIDENT.
+Sentence 162: Oh yes.
+Sentence 163: I know all about Justice Douglas.
+Sentence 164: [Laughter] He is a friend of mine--for a long time.
+Sentence 165: Q.
+Sentence 166: When you discussed it with him, were you discussing the position for Douglas or for someone else?
+THE PRESIDENT.
+Sentence 167: I will answer that question later.
+Sentence 168: Q.
+Sentence 169: The implication is that Mr. Schwellenbach is leaving?
+THE PRESIDENT.
+Sentence 170: Mr. Schwellenbach is going to stay Secretary of Labor.
+Sentence 171: Mr. Anderson is going to stay Secretary of Agriculture.
+Sentence 172: That is definite.
+Sentence 173: Just so long as they want to stay.
+Sentence 174: Q. Mr. President, if Mr. Douglas came into your Cabinet, that might give Mr. Schwellenbach an opportunity to go somewhere else he would like to go, though, wouldn't it, sir?
+Sentence 175: THE PRESIDENT.
+Sentence 176: Well, let's discuss that when that happens, if it does.
+Sentence 177: [16.]
+Sentence 178: Q. Mr. President, in your budget there is estimated $27 billion Internal Revenue, and $4 billion in Miscellaneous Receipts.
+Sentence 179: Now I was wondering, how are you going to figure on the returns from surplus property?
+Sentence 180: It looks like that is a very small return next year for all this surplus property to be disposed of.
+Sentence 181: THE PRESIDENT.
+Sentence 182: Well, we will have to take the returns from surplus property for whatever it brings.
+Sentence 183: We made the best estimate we were capable of making on that.
+Sentence 184: Q. Apparently only bring about a billion and a half to two billion dollars.
+Sentence 185: THE PRESIDENT.
+Sentence 186: Well, your guess is as good as anybody's.
+Sentence 187: From all the information we could get, we thought that was a very good guess.
+Sentence 188: Q. Supposed to have about eighty to a hundred billion dollars worth of surplus property?
+Sentence 189: THE PRESIDENT.
+Sentence 190: Well, let's wait and see what it brings, and I will answer your question.
+Sentence 191: [17.]
+Sentence 192: Q. Mr. President, I have been asked to ask you if you intervened in getting this new Hungarian Cardinal
+1
+--whose name I am unable to pronounce-out of Russia and down to Rome in an American airplane?
+THE PRESIDENT.
+Sentence 193: No, I did not.
+Sentence 194: 1 Joseph Mindszenty.
+Sentence 195: [18.]
+Sentence 196: Q. Mr. President, how do you feel about the economic conditions of the country right now?
+THE PRESIDENT.
+Sentence 197: Well, I have always been optimistic, and I still am.
+Sentence 198: [19.]
+Sentence 199: Q. Mr. President, there have been some rumors floating around town that there are important things Mr. Churchill discussed with you.
+Sentence 200: Was the question of American and British foreign policy toward Russia-did that subject come up?
+THE PRESIDENT.
+Sentence 201: It did not.
+Sentence 202: The things that Mr. Churchill and I discussed were the speech--the speech and the trip to Missouri.
+Sentence 203: Q.
+Sentence 204: He is not going to touch on that question in his speech?
+Sentence 205: THE PRESIDENT.
+Sentence 206: I don't know whether he will or not.
+Sentence 207: Q. Did Mr. Byrnes's trip down to Florida to see the former Prime Minister have any bearing on that question?
+THE PRESIDENT.
+Sentence 208: I don't think so.
+Sentence 209: I did not discuss the matter with Mr. Byrnes.
+Sentence 210: [20.]
+Sentence 211: Q. Mr. President, the House Military Affairs Committee, the--Chairman May, rather--said that he is going to recommend to you that you make every effort possible to secure the banishment of international conscription, before the committee comes out with a report on a universal military training law.
+Sentence 212: Do you think that that attempt to get peacetime conscription banned internationally is at all feasible?
+THE PRESIDENT.
+Sentence 213: No, I do not.
+Sentence 214: [21.]
+Sentence 215: Q. Mr. President, do you agree that Russia has a moral right to obtain atomic bomb secrets?
+Sentence 216: THE PRESIDENT.
+Sentence 217: No comment.
+Sentence 218: [22.]
+Sentence 219: Q. Mr. President, when can we expect the Executive order reconstituting the OES?
+THE PRESIDENT.
+Sentence 220: Just as soon as it is ready.
+Sentence 221: It won't be very long.
+Sentence 222: Q.
+Sentence 223: Any particular reason for the delay?
+THE PRESIDENT.
+Sentence 224: None whatever, except that it is a detail that has to be worked out, and it takes a little time.
+Sentence 225: It will be carried out in plenty of time.
+Sentence 226: The Senate has to act on the appointment of Paul Porter before anybody else could take over in the Office.
+Sentence 227: [23.]
+Sentence 228: Q. Mr. President, do you hear anything on the General Motors situation?
+Sentence 229: THE PRESIDENT.
+Sentence 230: No.
+Sentence 231: [24.]
+Sentence 232: Q. Mr. President, did foreign spy activities come up at your meeting with Mr. Attlee last November, when you were talking to him?
+Sentence 233: THE PRESIDENT.
+Sentence 234: What was that?
+Sentence 235: Q. Foreign spy activities in this country-- Great Britain and Canada--did that come up when you were talking to Mr. Attlee?
+Sentence 236: THE PRESIDENT.
+Sentence 237: We discussed atomic energy and not spies.
+Sentence 238: [25.]
+Sentence 239: Q. Mr. President, in connection with Paul Porter leaving the FCC, do you plan to make another appointment to the FCC?
+THE PRESIDENT.
+Sentence 240: Not immediately.
+Sentence 241: [26.]
+Sentence 242: Q. Mr. President, to pursue that next to the last question a little bit farther, the White House told us that Mr. King did communicate to you the problem that he saw on his hands up there, and you know about the leaks?
+Sentence 243: THE PRESIDENT.
+Sentence 244: He did.
+Sentence 245: He did that on his trip to Great Britain, before the meeting of the Prime Ministers.
+Sentence 246: Q.
+Sentence 247: That was prior to the--
+THE PRESIDENT.
+Sentence 248: Yes--
+Q.--atomic--
+THE PRESIDENT.
+Sentence 249: --prior to the atomic meeting.
+Sentence 250: Q.
+Sentence 251: And at that time, did you initiate any general check in the United States, to make sure that that situation had not extended to this country?
+Sentence 252: THE PRESIDENT.
+Sentence 253: No, I didn't.
+Sentence 254: Q.
+Sentence 255: You feel our security measures are adequate?
+THE PRESIDENT.
+Sentence 256: They have always been adequate, and I think they still are.
+Sentence 257: [27.]
+Sentence 258: Q. Mr. President, when do you expect full production and distribution to hit its peak?
+Sentence 259: In other words, reconversion really gets--
+THE PRESIDENT.
+Sentence 260: I had expected it to be at it right now.
+Sentence 261: At least, that was my expectation last November.
+Sentence 262: Of course, it depends altogether on contingencies.
+Sentence 263: If everybody's willing to go to work and put in everything, why it will not take very long for that full production peak to be hit.
+Sentence 264: Q. Has any estimate been made of the date?
+Sentence 265: THE PRESIDENT.
+Sentence 266: NO, no, No estimate has been made now.
+Sentence 267: Just wait and see what works out.
+Sentence 268: If everybody goes back to work as he should, it will be here very quickly.
+Sentence 269: Reporter:
+Sentence 270: Thank you, Mr. President.

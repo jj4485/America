@@ -1,0 +1,319 @@
+Sentence 1: 1949 The Presidents News Conference 618
+
+THE PRESIDENT.
+Sentence 2: [1.]
+Sentence 3: I have one announcement to make.
+Sentence 4: I canceled two other speaking engagements, one in New York on the 10th, and the other in New York on the 23d.
+Sentence 5: That cleans up the speaking engagements to date.
+Sentence 6: Q. Mr. President, just for our quick thinking, New York on the 10th is what?
+THE PRESIDENT.
+Sentence 7: Dedication of the U.N.-cornerstone laying of the United Nations Building.
+Sentence 8: Q.
+Sentence 9: Yes.
+Sentence 10: And the 23d?
+Sentence 11: THE PRESIDENT.
+Sentence 12: On the 23d was Dr. Weizmann.
+Sentence 13: Q.
+Sentence 14: The what?
+THE PRESIDENT.
+Sentence 15: Dr. Chaim Weizmann.
+1
+1
+President of Israel.
+Sentence 16: Q. Mr. President, can you tell us the reasons?
+THE PRESIDENT.
+Sentence 17: Yes, the reason is very simple.
+Sentence 18: I have been so thoroughly covered up with work since I came back from Florida that I am spending all my time trying to get my desk cleaned up and have as many interviews as possible with Members of Congress who have been very anxious to see me on various subjects.
+Sentence 19: So I shall spend most of my time working all the time--in fact from daylight until dark.
+Sentence 20: [2.]
+Sentence 21: Q. Mr. President, I have a District of Columbia question I would like to get out of the way before the highbrows start on you.
+Sentence 22: THE PRESIDENT.
+Sentence 23: All right.
+Sentence 24: [Laughter]
+Q.
+Sentence 25: The District of Columbia is about several million dollars shy of its next year's budget.
+Sentence 26: A sales tax was defeated in the House, and now a modified sales tax has been suggested.
+Sentence 27: Senator McGrath proposes an $18 million grant.
+Sentence 28: In view of those facts, have you anything to say about District of Columbia finances, or any suggestions?
+Sentence 29: THE PRESIDENT.
+Sentence 30: No, I haven't, because I am not familiar enough with it to make any comments.
+Sentence 31: I was once on the District Committee, but I didn't stay there very long, so I am not familiar with finances in the District, so I couldn't comment intelligently on it.
+Sentence 32: [3.]
+Sentence 33: Q. Mr. President, who will take your place at the dedication of the U.N.?
+THE PRESIDENT.
+Sentence 34: I don't know.
+Sentence 35: [4.]
+Sentence 36: Q. Mr. President, do you have any plans to attend the signing ceremonies for the Atlantic Treaty on April 4th?
+Sentence 37: THE PRESIDENT.
+Sentence 38: Yes, I shall be present.
+Sentence 39: That takes place here in Washington.
+Sentence 40: [5.]
+Sentence 41: Q. Mr. President, you have seen Congressman Walter, chairman of the Democratic caucus, twice in the past day.
+Sentence 42: Would you care to comment on those meetings?
+Sentence 43: THE PRESIDENT.
+Sentence 44: I beg your pardon?
+Sentence 45: Q.
+Sentence 46: You have had two meetings in the past day with Tad Walter, chairman of the Democratic caucus--
+THE PRESIDENT.
+Sentence 47: You out-count me one.
+Sentence 48: I only saw him once.
+Sentence 49: Q. only saw him once, I beg your pardon.
+Sentence 50: THE PRESIDENT.
+Sentence 51: I spent 15 minutes with him discussing the displaced persons bill.
+Sentence 52: [6.]
+Sentence 53: Q. Mr. President, this morning Ed Pauley was in.
+Sentence 54: Did you discuss Mexican oil with him?
+Sentence 55: THE PRESIDENT.
+Sentence 56: I discussed the political situation in California with him.
+Sentence 57: Q. How was it, Mr. President?
+THE PRESIDENT.
+Sentence 58: Very well--very bright.
+Sentence 59: [7.]
+Sentence 60: Q. Mr. President, I have been asked to ask you if you have any idea of appointing Gordon Dean of San Diego to the Atomic Energy Commission?
+THE PRESIDENT.
+Sentence 61: Gordon Dean has been under consideration along with several other people.
+Sentence 62: [8.]
+Sentence 63: Q. Mr. President, has Mon Wallgren asked that his name be withdrawn?
+THE PRESIDENT.
+Sentence 64: No, he has not.
+Sentence 65: Q.
+Sentence 66: Do you expect him to?
+Sentence 67: THE PRESIDENT.
+Sentence 68: I don't--I haven't talked to him on the subject at all.
+Sentence 69: [9.]
+Sentence 70: Q. Mr. President, did Ed Pauley tell you that Jimmy Roosevelt is going to run for Governor out there?
+THE PRESIDENT.
+Sentence 71: No, he did not.
+Sentence 72: Q. Did he tell you who was going to run?
+THE PRESIDENT.
+Sentence 73: No, he did not.
+Sentence 74: [Laughter] You might ask him.
+Sentence 75: Q.
+Sentence 76: He bowed out.
+Sentence 77: Q.
+Sentence 78: He was a little elusive.
+Sentence 79: THE PRESIDENT.
+Sentence 80: Was he?
+Sentence 81: He has had experience with you before.
+Sentence 82: [Laughter]
+Q.
+Sentence 83: We got him coming in, but coming out was a different matter.
+Sentence 84: [10.]
+Sentence 85: Q. Have you had a report yet from the State Department on the coordinated military aid program?
+Sentence 86: THE PRESIDENT.
+Sentence 87: It isn't ready yet.
+Sentence 88: It's in the works.
+Sentence 89: It has been discussed on numerous occasions, but it isn't yet ready to present to me for final decision.
+Sentence 90: [11.]
+Sentence 91: Q. Mr. President, can you tell us whether there is likely to be any statement on the China situation in the near future?
+Sentence 92: THE PRESIDENT.
+Sentence 93: There will be no statement in the near future that I know of.
+Sentence 94: No reason for it.
+Sentence 95: [12.]
+Sentence 96: Q. Mr. President, have you got a statement from the Treasury yet on the prospective surplus or deficit for fiscal 1949?
+Sentence 97: THE PRESIDENT.
+Sentence 98: I had a discussion on the subject with the Secretary of the Treasury just the other day, and the original estimate, he says, is working out almost to the dot.
+Sentence 99: Q. There will be a deficit of a hundred thousand--
+THE PRESIDENT.
+Sentence 100: A deficit--I don't know what the final appropriation bills will be-there is an estimated deficit of about $6 or $700 million.
+Sentence 101: Q.
+Sentence 102: You mean for this fiscal year, Mr. President?
+THE PRESIDENT.
+Sentence 103: Yes.
+Sentence 104: [13.]
+Sentence 105: Q. Mr. President, have you any plans for a new Ambassador to Moscow?
+Sentence 106: THE PRESIDENT.
+Sentence 107: We have been discussing the situation.
+Sentence 108: I have been trying to persuade Mr. Bedell Smith to stay.
+Sentence 109: I don't know whether he will or not.
+Sentence 110: I think I am going to see him tomorrow morning to discuss the matter further.
+Sentence 111: Q. Mr. President, we have heard Dr. Bunche mentioned.
+Sentence 112: THE PRESIDENT.
+Sentence 113: Yes.
+Sentence 114: Several people have been mentioned, including Dr. Bunche.
+Sentence 115: He has been mentioned.
+Sentence 116: Q. Has he been mentioned to you, or just in the columns?
+THE PRESIDENT.
+Sentence 117: He has been mentioned in the columns.
+Sentence 118: Never been mentioned to me.
+Sentence 119: Only been mentioned in the columns, as far as I know.
+Sentence 120: [14.]
+Sentence 121: Q. Mr. President, do you have any comment on the vote in the House on pensions?
+Sentence 122: THE PRESIDENT.
+Sentence 123: I was very happy that the House took the action it did.
+Sentence 124: I think that is a constructive, forward-looking step, and I am exceedingly happy that they recommitted the bill.
+Sentence 125: Q. I notice, Mr. President, that the Republicans voted two to one with Mr. Rankin.
+Sentence 126: Could you comment on that?
+Sentence 127: THE PRESIDENT.
+Sentence 128: I haven't seen the positive returns, and I have no comment, anyway.
+Sentence 129: [15.]
+Sentence 130: Q. Mr. President, there has been some talk that General Smith might go to Germany to take over command of the occupied area there?
+THE PRESIDENT.
+Sentence 131: I hadn't heard that one.
+Sentence 132: I have heard nearly every other one.
+Sentence 133: They have had him all over the world, but that's one that's new.
+Sentence 134: I haven't heard that one.
+Sentence 135: [16.]
+Sentence 136: Q. Now that the filibustering is over, would you comment on your hope for civil rights legislation in the Congress?
+THE PRESIDENT.
+Sentence 137: I have no comment on that at the present time.
+Sentence 138: That comment must come later when the legislation comes up.
+Sentence 139: I am still hopeful that we will get that program through.
+Sentence 140: [17.]
+Sentence 141: Q. Mr. President, have you made any decision on Mon Wallgren, what to do in that case?
+Sentence 142: THE PRESIDENT.
+Sentence 143: I am still back of Mon Wallgren for the job I appointed him to.
+Sentence 144: 2
+2
+Earlier the President had nominated Mon C. Wallgren, former Governor of Washington, to be Chairman of the National Security Resources Board.
+Sentence 145: The nomination was pending before the Senate.
+Sentence 146: Q.
+Sentence 147: You still back him?
+Sentence 148: THE PRESIDENT.
+Sentence 149: Yes.
+Sentence 150: I never lay down on people.
+Sentence 151: You ought to know that by this time, Pete.
+Sentence 152: 3
+You had the first experience with it in St. Louis.
+Sentence 153: 3
+Raymond P. Brandt of the St. Louis Post-Dispatch.
+Sentence 154: Q. Mr. President, there was gossip around the Capitol the other day that the Republicans on the committee might change?
+Sentence 155: Do you know anything about that?
+Sentence 156: THE PRESIDENT.
+Sentence 157: I hadn't heard anything about that.
+Sentence 158: [18.]
+Sentence 159: Q. Mr. President, in the event that General Smith is not able to go back to Moscow, for considerations of health or otherwise, will he return to active military service in a command position?
+Sentence 160: THE PRESIDENT.
+Sentence 161: I can't tell you what General Smith intends to do.
+Sentence 162: You will have to ask him.
+Sentence 163: He is a free agent.
+Sentence 164: [19.]
+Sentence 165: Q. Are there any further plans for getting on the train and telling the people about your program, sir?
+Sentence 166: THE PRESIDENT.
+Sentence 167: I told you that I would give you plenty of time to pack your grips to take that trip.
+Sentence 168: You will be informed in plenty of time.
+Sentence 169: [20.]
+Sentence 170: Q. Mr. President, the Senate Appropriations Committee removed Reclamation Commissioner Straus, and Mr. Richard Boke, from their consideration in the deficiency appropriation bill; that is, for the payment of back salary--
+THE PRESIDENT.
+Sentence 171: I am very sorry that the Senate did that.
+Sentence 172: Q. I wondered if you had any comment on that?
+Sentence 173: THE PRESIDENT.
+Sentence 174: No comment.
+Sentence 175: [21.]
+Sentence 176: Q. Mr. President, you referred, before the mayors the other day, to the rent control bill which passed the House.
+Sentence 177: Have you any comment to make on the bill which passed the Senate?
+Sentence 178: THE PRESIDENT.
+Sentence 179: No. I will wait until the conference committee meets and sends me a bill, and then I will comment on the bill when it reaches me.
+Sentence 180: [22.]
+Sentence 181: Q. Mr. President, do you expect to send a message on the U.N. cornerstone laying, inasmuch as you won't be there--
+THE PRESIDENT.
+Sentence 182: Well, I will--we have the matter under consideration.
+Sentence 183: If I send one, I will give it to you in plenty of time so you can publish it.
+Sentence 184: [23.]
+Sentence 185: Q. Mr. President, does cancellation of these two New York speeches, along with the Boston speeches, mean that you will not be out of town during April?
+THE PRESIDENT.
+Sentence 186: I don't expect to be out of town during April.
+Sentence 187: Q.
+Sentence 188: That means no out-of-town engagements?
+Sentence 189: THE PRESIDENT.
+Sentence 190: That's right.
+Sentence 191: [24.]
+Sentence 192: Q. Mr. President, I notice you said that among other things you are going to see Congressmen.
+Sentence 193: Is that a new attempt at reconciliation--
+THE PRESIDENT.
+Sentence 194: No, no.
+Sentence 195: I always see Congressmen and Senators at their request.
+Sentence 196: They have made so many requests that I have to stay here in order to see them.
+Sentence 197: I never turn them down when they want to come in.
+Sentence 198: That has always been the policy ever since I have been here.
+Sentence 199: [25.]
+Sentence 200: Q. Mr. President, since you discussed the economic situation several months ago, the price of lead has dropped 10 percent--which is one of the nonferrous metals.
+Sentence 201: Have you any comment as to the inflationary factors now?
+THE PRESIDENT.
+Sentence 202: No, I haven't.
+Sentence 203: There is no reason for me to comment.
+Sentence 204: [26.]
+Sentence 205: Q. Mr. President, what do you think of the appointment of Dr. Graham as the Senator from North Carolina?
+THE PRESIDENT.
+Sentence 206: I think it was a wonderful appointment.
+Sentence 207: Dr. Graham is a great American and a great citizen.
+Sentence 208: I have sent him on several special missions myself, and he has always worked successfully in the public interest.
+Sentence 209: He will make a good Senator.
+Sentence 210: [27.]
+Sentence 211: Q. Mr. President, with respect to the Atlantic Treaty signing, do you expect to sign on behalf of the United States a new--
+THE PRESIDENT.
+Sentence 212: The Secretary of State will sign for the United States, just as the Secretary of State signed the United Nations Charter.
+Sentence 213: [28.]
+Sentence 214: Q. Mr. President, you spoke of intending to have some interviews with Members of Congress.
+Sentence 215: Can you tell us who?
+THE PRESIDENT.
+Sentence 216: No.
+Sentence 217: They will appear on the record as they come in.
+Sentence 218: You will be informed.
+Sentence 219: [29.]
+Sentence 220: Q. Mr. President, have you any comment on the local option provision written in by the House and Senate on the rent control bill?
+Sentence 221: THE PRESIDENT.
+Sentence 222: I don't know anything about it.
+Sentence 223: I haven't read the bill, in either instance, and I can't comment on it until it gets to my desk.
+Sentence 224: Then I will comment on it copiously, if it needs comment.
+Sentence 225: [30.]
+Sentence 226: Q. Mr. President, could I clarify the Dr. Bunche ambassadorship to Moscow?
+Sentence 227: Did I understand you to say that he was under consideration by you?
+THE PRESIDENT.
+Sentence 228: I said that he had been mentioned in several columns as a possible Ambassador to Moscow, and that is as far as I went.
+Sentence 229: Q. Are you usually guided by columns?
+Sentence 230: [Laughter]
+THE PRESIDENT.
+Sentence 231: You ought to know, Tony!
+4
+4
+Ernest B. Vaccaro of the Associated Press.
+Sentence 232: [31.]
+Sentence 233: Q. Mr. President, getting back to these interviews--just to clear my own mind--these are at the request of Members and not at your request?
+Sentence 234: THE PRESIDENT.
+Sentence 235: That's right.
+Sentence 236: There are occasions when I ask Members of the various committees to come in and talk to me on subjects, but most of the requests come directly from the Congressmen and Senators themselves.
+Sentence 237: Q.
+Sentence 238: You asked Congressman Walter come, didn't you?
+Sentence 239: THE PRESIDENT.
+Sentence 240: Yes, I asked Congressman.
+Sentence 241: Waiter to come in to discuss the displaced persons bill.
+Sentence 242: Q. Is there any priority system in answering their requests?
+Sentence 243: THE PRESIDENT.
+Sentence 244: No priority.
+Sentence 245: They will come in in the order in which they ask to come in.
+Sentence 246: Q.
+Sentence 247: That might be in the nature of an "at home" for Congressmen?
+THE PRESIDENT.
+Sentence 248: Not necessary.
+Sentence 249: It's an "at home" for the business of the Government.
+Sentence 250: Q. Is the principal reason that you are asking these--you are staying here to talk to the Members of Congress to cultivate close relations with them?
+Sentence 251: THE PRESIDENT.
+Sentence 252: Always close relationships between Members of Congress and myself, in spite of what the columnists have had to say.
+Sentence 253: Q. Even closer?
+THE PRESIDENT.
+Sentence 254: Well yes, even closer.
+Sentence 255: Q. Mr. President, how many requests do you have from southern Members?
+Sentence 256: THE PRESIDENT.
+Sentence 257: Oh, quite a number.
+Sentence 258: I have just as many of them as I do the other brand.
+Sentence 259: Republicans, too, whenever they want to, can come in.
+Sentence 260: [32.]
+Sentence 261: Q. In your two last--previous telegrams, you said international decisions had a part to play in cancellation.
+Sentence 262: Is that true in this case too?
+THE PRESIDENT.
+Sentence 263: That's right.
+Sentence 264: [33.]
+Sentence 265: Q. Mr. President, when are you going to send your national health bill to the Congress?
+THE PRESIDENT.
+Sentence 266: They are working on it now.
+Sentence 267: It isn't ready.
+Sentence 268: Whenever it's ready.
+Sentence 269: I will let you know.
+Sentence 270: Q. Would it be substantially what you recommended in the past?
+Sentence 271: THE PRESIDENT.
+Sentence 272: Oh, of course it will be consistent with the message that has gone down on the subject.
+Sentence 273: Reporter:
+Sentence 274: Thank you, Mr. President.
+Sentence 275: THE PRESIDENT.
+Sentence 276: You are entirely welcome.

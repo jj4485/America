@@ -1,0 +1,294 @@
+Sentence 1: 1950 The Presidents News Conference 597
+
+THE PRESIDENT.
+Sentence 2: I have no special announcements to make today.
+Sentence 3: I will try my best to answer questions, if they are not too complicated.
+Sentence 4: [1.]
+Sentence 5: Q. Mr. President, this matter is on a State level.
+Sentence 6: Five members of Virginia's House of Delegates are pushing a bill to abolish segregation within the State.
+Sentence 7: Any comment on that, sir?
+THE PRESIDENT.
+Sentence 8: No.
+Sentence 9: That is Virginia's business.
+Sentence 10: I am glad to hear it, however.
+Sentence 11: Q. Mr. President, are you in agreement with the brief filed by your Solicitor General today in the Supreme Court which opposes separate but equal facilities in the segregated schools in Virginia ?
+Sentence 12: THE PRESIDENT.
+Sentence 13: I know nothing about such a brief.
+Sentence 14: I haven't seen it and I can't comment on it.
+Sentence 15: [2.]
+Sentence 16: Q. Mr. President, several UMW locals in Illinois have urged you to seize the mines and put the profits in the Treasury.
+Sentence 17: Have you any comment?
+Sentence 18: THE PRESIDENT.
+Sentence 19: I have no such power as that.
+Sentence 20: Q.
+Sentence 21: What was the answer?
+THE PRESIDENT.
+Sentence 22: Those are war powers.
+Sentence 23: Q.
+Sentence 24: What was the answer, please?
+THE PRESIDENT.
+Sentence 25: I said I have no such powers.
+Sentence 26: Those were war powers.
+Sentence 27: Q.
+Sentence 28: You have no powers for seizure, Mr. President?
+THE PRESIDENT.
+Sentence 29: I don't think so.
+Sentence 30: I hope not.
+Sentence 31: Q. Mr. President, there is no power to put the money in the Treasury, however, is there?
+THE PRESIDENT.
+Sentence 32: No.
+Sentence 33: Never.
+Sentence 34: Q. Mr. President, do you know if anyone in Government is preparing a bill to take care of that power?
+Sentence 35: THE PRESIDENT.
+Sentence 36: No, I know of nothing of the kind.
+Sentence 37: I am not asking for any such power.
+Sentence 38: [3.]
+Sentence 39: Q. Mr. President, do you favor a close balance between oil imports and exports?
+THE PRESIDENT.
+Sentence 40: I can't comment on that at the present time because I haven't all the information on the subject.
+Sentence 41: [4.]
+Sentence 42: Q. Mr. President, are you expecting to hear from your factfinding board on coal today?
+Sentence 43: THE PRESIDENT.
+Sentence 44: I am expecting to hear as soon as they are ready to report.
+Sentence 45: Q.
+Sentence 46: You don't know whether it will be today?
+Sentence 47: THE PRESIDENT.
+Sentence 48: I can't tell when it will be, except they will report as soon as they are ready.
+Sentence 49: 1
+1
+See Item 35.
+Sentence 50: [5.]
+Sentence 51: Q. Mr. President, have you received any recommendation from the Trade Agreements Committee regarding negotiations between the United States and Germany on textile tariffs ?
+Sentence 52: THE PRESIDENT.
+Sentence 53: No, I haven't.
+Sentence 54: [6.]
+Sentence 55: Q. Mr. President, the Republicans say that the current issue is socialism versus liberty.
+Sentence 56: Which one are you for, sir?
+THE PRESIDENT.
+Sentence 57: I don't understand that very well.
+Sentence 58: I read with a lot of interest that Republican platform, but I think the Republicans' record speaks better for itself than any platform they can write.
+Sentence 59: [7.]
+Sentence 60: Q. Mr. President, can anything be done to keep the Waltham Watch Company in business?
+Sentence 61: THE PRESIDENT.
+Sentence 62: We have done everything we possibly could.
+Sentence 63: Apparently they aren't going to stay in business.
+Sentence 64: [8.]
+Sentence 65: Q. Mr. President, do you plan to appoint a committee to study radio and television allocations ?
+Sentence 66: THE PRESIDENT.
+Sentence 67: I hadn't thought about it.
+Sentence 68: Q.
+Sentence 69: What was that question, sir?
+THE PRESIDENT.
+Sentence 70: He wanted to know if I planned to appoint a committee to study radio and television allocations.
+Sentence 71: We have got a board for that purpose.
+Sentence 72: I do not see any use for me to.
+Sentence 73: [9.]
+Sentence 74: Q. Mr. President, is Secretary Gray coming in to resign?
+THE PRESIDENT.
+Sentence 75: I don't know.
+Sentence 76: He is going to see me after you fellows get through.
+Sentence 77: He has been trying to resign for quite a while, and I have been able to persuade him to stay, up to date.
+Sentence 78: Q.
+Sentence 79: No decision on whether he is going to leave?
+THE PRESIDENT.
+Sentence 80: No.
+Sentence 81: That is what he is coming to tell me this afternoon.
+Sentence 82: 2
+2
+See Item 81.
+Sentence 83: [10.]
+Sentence 84: Q. Mr. President, this New England power letter asks that Passamaquoddy be considered by the proposed new New England-New York Commission.
+Sentence 85: What will be the relationship of that commission to the International Joint Commission which is now studying Quoddy?
+THE PRESIDENT.
+Sentence 86: The relationship would be simply a coordination of the whole New England power program, that's all.
+Sentence 87: It would not interfere with the International Commission at all.
+Sentence 88: In fact, I think it would be an asset to the International Commission.
+Sentence 89: [11.]
+Sentence 90: Q. Mr. President, concerning oil imports--the question that was asked a moment ago--Mr. Patman asked you to invoke the power under the National Trade Agreements.
+Sentence 91: Do you intend to submit that question to the Tariff Commission for its recommendation?
+Sentence 92: THE PRESIDENT.
+Sentence 93: I can give you the answer to that question better when I have all the information in my hands, which I haven't, as yet.
+Sentence 94: [12.]
+Sentence 95: Q. Mr. President, a group of scientists in New York recently spoke of forming some sort of citizens commission, created by your office, to make a complete reevaluation of our atomic policies?
+Sentence 96: THE PRESIDENT.
+Sentence 97: Did you read Mr. Acheson's statement lately?
+3
+I will advise you to read it.
+Sentence 98: That will answer your question.
+Sentence 99: 3 Mr. Acheson's statement on the Soviet nuclear explosion and U.S. atomic policy is printed in the Department of State Bulletin (vol. 21, p. 487).
+Sentence 100: [13.]
+Sentence 101: Q. Mr. President, is Charles E. Luckman being considered for Chairman of the Atomic Energy Commission?
+THE PRESIDENT.
+Sentence 102: I am not considering anybody in particular, right at the present time.
+Sentence 103: When I find the right man, I will let you know about it right away.
+Sentence 104: Q. What about Luckman in the National Security Resources Board?
+THE PRESIDENT.
+Sentence 105: I am not considering Mr. Luckman for any job whatever.
+Sentence 106: He is doing the job that he is doing right now: selling tickets to the Democratic dinner.
+Sentence 107: 4
+[Laughter]
+4 Charles E. Luckman was chairman of the 1950 National Jefferson-Jackson Day Committee.
+Sentence 108: Q.
+Sentence 109: Well, if he does good, might he be considered?
+Sentence 110: THE PRESIDENT.
+Sentence 111: He has done excellent.
+Sentence 112: He has done an excellent job of it.
+Sentence 113: Q. Didn't hear your reply, Mr. President.
+Sentence 114: THE PRESIDENT.
+Sentence 115: I said he has done an excellent job in the job he is in.
+Sentence 116: Every time I have asked him to do anything for me, he has done an excellent job.
+Sentence 117: [14.]
+Sentence 118: Q. Mr. President, do you agree with Senator McMahon that this is a time for soul-searching, nationwide debate on the question posed by the hydrogen bomb?
+Sentence 119: THE PRESIDENT.
+Sentence 120: Did you read Secretary Acheson's statement yesterday?
+5
+Q. Yes, sir.
+Sentence 121: THE PRESIDENT.
+Sentence 122: I would advise you to read it
+5
+For Secretary Acheson's statement at his press conference on February 8, see the Department of State Bulletin (vol. 22, p. 272).
+Sentence 123: Q.
+Sentence 124: He seems not to think so.
+Sentence 125: THE PRESIDENT.
+Sentence 126: --because that covers the ground.
+Sentence 127: The Secretary and I are in complete agreement.
+Sentence 128: Q.
+Sentence 129: He spoke for you?
+Sentence 130: THE PRESIDENT.
+Sentence 131: He discussed the matter with me.
+Sentence 132: He spoke for the State Department, which is supposed to represent my policy on foreign policy.
+Sentence 133: [15.]
+Sentence 134: Q. Mr. President, the President of the Philippines
+6
+indicated that--after seeing you this week--that he would welcome a mission to go out there to study economic conditions for recovery and rehabilitation?
+Sentence 135: THE PRESIDENT.
+Sentence 136: We discussed that.
+Sentence 137: 6
+Elpidio Quirino of the Republic of the Philippines.
+Sentence 138: President Quirino had been in the United States for medical treatment.
+Sentence 139: Q. Would you favor sending such a commission?
+Sentence 140: THE PRESIDENT.
+Sentence 141: I have it under consideration.
+Sentence 142: [16.]
+Sentence 143: Q. Mr. President, getting back to Dean Acheson, in other words, you are in hearty approval of the Secretary's statement yesterday?
+Sentence 144: THE PRESIDENT.
+Sentence 145: Yes, I am very much in approval of what he had to say.
+Sentence 146: We discussed it for quite a while before he made the statement.
+Sentence 147: And if you will go back and read a little history, you will find that that program has been a continuing one ever since we first made the request through the United Nations to control atomic energy and armaments of all kinds.
+Sentence 148: Our position hasn't changed a bit.
+Sentence 149: It has been just exactly that all along.
+Sentence 150: We have been reiterating it.
+Sentence 151: I have said it over and over and over, I think a hundred times, right here in this conference, and there isn't any use getting all steamed up on the subject, because we are continuing all the time every effort we possibly can to create a peaceful situation in the world.
+Sentence 152: And if we could get just one little bit of cooperation from the Soviet Government, we could get the job done.
+Sentence 153: [17.]
+Sentence 154: Q. Mr. President, getting back to a local war, did you know that California and Arizona are at daggers point over the Colorado River water ?
+Sentence 155: THE PRESIDENT.
+Sentence 156: Well
+Q.
+Sentence 157: The California delegates tell me you recommended to the Chief of Engineers that a survey be made to find an extra million feet of water which both States could share.
+Sentence 158: Do you have any idea where it will come from?
+THE PRESIDENT.
+Sentence 159: No.
+Sentence 160: I am having the water commission
+7
+make a complete survey of the water situation in the United States.
+Sentence 161: You know, New York is just as much interested in the subject as California is, and so is Baltimore, and so is Houston, Tex., and a half dozen other cities that I could name to you.
+Sentence 162: That is the reason I appointed this water commission.
+Sentence 163: 7 See Item I.
+Sentence 164: The water situation in the Southwest is in a terrible situation.
+Sentence 165: Arizona and California are both drying up.
+Sentence 166: We have got to find some sort of a manner in which to meet that situation.
+Sentence 167: And that is the reason I have appointed that water commission to make a survey.
+Sentence 168: I hope we can solve it, but it is a very delicate and a very important problem.
+Sentence 169: I hope we will get it solved so that it will be all right for those States and places that I have named.
+Sentence 170: [18.]
+Sentence 171: Q. Mr. President, I would like to get cleared up on this Acheson thing.
+Sentence 172: Are we standing on the Baruch position or is that
+THE PRESIDENT.
+Sentence 173: Our position has never changed.
+Sentence 174: The Baruch position is just the same now as it was the day it was made.
+Sentence 175: 8
+Q.
+Sentence 176: That is not being reconsidered?
+8 Bernard M. Baruch, the United States Representative to the United Nations Atomic Energy Commission, set forth the position of the United States in his address delivered at the opening session of the Commission in New York City on June 1946.
+Sentence 177: In his address Mr. Baruch stated that "The United States proposes the creation of an International Atomic Development Authority, to which should be entrusted all phases of the development and use of atomic energy, starting with the raw materials and including: (I) managerial control or ownership of all atomic-energy activities potentially dangerous to world security, (a) power to control, inspect, and license all other atomic activities, (3) the duty of fostering the beneficial uses of atomic energy, (4) research and development responsibilities of.
+Sentence 178: an affirmative character intended to put the Authority in the forefront of atomic knowledge and thus to enable it to comprehend, and therefore to detect, misuse of atomic energy.
+Sentence 179: To be effective, the Authority must itself be the world's leader in the field of atomic knowledge and development and thus supplement its legal authority with the great power inherent in possession of leadership in knowledge.
+Sentence 180: "
+For the full text of Mr. Baruch's address see the Department of State Bulletin (vol. 14, p. 1057).
+Sentence 181: THE PRESIDENT.
+Sentence 182: No reason to reconsider it.
+Sentence 183: It is just as good today as it ever was.
+Sentence 184: Q. Not altered by anything now?
+Sentence 185: THE PRESIDENT.
+Sentence 186: Not the slightest.
+Sentence 187: Not the slightest.
+Sentence 188: In fact, it ought to be more useful now than it was then.
+Sentence 189: We thought we were giving away, then, something good.
+Sentence 190: We were on an even keel then, apparently.
+Sentence 191: Q. Is it your idea, sir, that that ought to make Russia more receptive?
+THE PRESIDENT.
+Sentence 192: I can't answer what Russia feels.
+Sentence 193: I know how they have acted.
+Sentence 194: I can only go on their actions.
+Sentence 195: I can't tell you how Russia feels.
+Sentence 196: Nobody knows.
+Sentence 197: Except by their acts in the United Nations--and they have voted "no" every time.
+Sentence 198: I don't think we have ever exercised the veto power.
+Sentence 199: Q. Mr. President, does the Secretary's statement, then, foreclose any changes in the future on our atomic policy?
+THE PRESIDENT.
+Sentence 200: There is no reason for any change.
+Sentence 201: We are attempting to get international control of atomic energy and trying our best to get a peace in the world that will be good for everybody.
+Sentence 202: That's all we are after.
+Sentence 203: That's all we have ever wanted.
+Sentence 204: That is the fundamental basis of our foreign policy.
+Sentence 205: Q. Well, how about general disarmament?
+THE PRESIDENT.
+Sentence 206: It is in the same category.
+Sentence 207: Q.
+Sentence 208: Can they be considered together, Mr. President?
+THE PRESIDENT.
+Sentence 209: No, they cannot.
+Sentence 210: Q. Are you intending to say that you think public discussion does no good?
+Sentence 211: THE PRESIDENT.
+Sentence 212: No, I am not.
+Sentence 213: You needn't put words of that kind into my mouth.
+Sentence 214: I will answer your questions--
+Q.
+Sentence 215: I thought I was asking one--
+THE PRESIDENT.
+Sentence 216: All right, proceed.
+Sentence 217: You don't put any words in my mouth.
+Sentence 218: Q.
+Sentence 219: Do you think that public discussion will answer the situation?
+THE PRESIDENT.
+Sentence 220: Public discussion helps every situation.
+Sentence 221: Q. Mr. President, I didn't quite get that.
+Sentence 222: You said disarmaments are in the same category as what?
+THE PRESIDENT.
+Sentence 223: As atomic control.
+Sentence 224: They are.
+Sentence 225: We are for both.
+Sentence 226: Q. Mr. President, you said we are not ready to consider atomic disarmament or atomic agreement and general disarmament together?
+Sentence 227: THE PRESIDENT.
+Sentence 228: They go together.
+Sentence 229: They are both in the same resolution in the United Nations, if you will read it.
+Sentence 230: They do go together.
+Sentence 231: Q.
+Sentence 232: We are for atomic agreement first?
+Sentence 233: THE PRESIDENT.
+Sentence 234: I would like to have that atomic thing first, of course, but they are both in the same resolution in the United Nations.
+Sentence 235: Q. Are we inflexible on that point, Mr. President?
+THE PRESIDENT.
+Sentence 236: Doesn't mean inflexible.
+Sentence 237: If we can get an atomic energy settlement, we won't have any trouble with the other.
+Sentence 238: Q. Mr. President, do you think that the Fuchs case possibly aggravates the international situation with respect to atomic energy?
+Sentence 239: 9
+THE PRESIDENT.
+Sentence 240: I have no comment on that.
+Sentence 241: 9 Dr. Klaus Fuchs, German-born, naturalized British scientist convicted of having transmitted secret atomic information to the Soviet Union.
+Sentence 242: Q. Couldn't hear that question.
+Sentence 243: THE PRESIDENT.
+Sentence 244: He wanted to know if this English scientist's case had any effect on that, and I said I can't comment on that.
+Sentence 245: Reporter:
+Sentence 246: Thank you, Mr. President

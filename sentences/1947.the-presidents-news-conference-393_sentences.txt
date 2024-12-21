@@ -1,0 +1,256 @@
+Sentence 1: 1947 The Presidents News Conference 393
+
+THE PRESIDENT.
+Sentence 2: Ladies and gentlemen of the press, I have no particular announcements to make this morning, but I thought since we had to miss last week I had better let you in and you might have some questions on your mind.
+Sentence 3: [1.]
+Sentence 4: Q. Mr. President, have you had a chance to analyze the election returns?
+Sentence 5: Do you see a trend, perhaps ?
+THE PRESIDENT.
+Sentence 6: I haven't analyzed the election returns.
+Sentence 7: One thing I was happy to see, though, was the large turnout at the various elections.
+Sentence 8: It shows the people are learning their responsibilities as citizens, and that their interest in free government rests in the ballot box.
+Sentence 9: It was a big turnout in nearly all these elections.
+Sentence 10: I haven't analyzed the situation for trends.
+Sentence 11: Of course, I was very happy over the Kentucky election!
+Sentence 12: 1
+1
+Gubernatorial election in which the Democratic candidate, Representative Earle C. Clements, defeated the Attorney General of Kentucky, Eldon S. Dummit.
+Sentence 13: Q. Mr. President, do you believe a large turnout will help the Democrats next year?
+Sentence 14: THE PRESIDENT.
+Sentence 15: I think it will help those who like free government.
+Sentence 16: [2.]
+Sentence 17: Q. Mr. President, the American Society of Newspaper Editors sent you a resolution objecting to proposals of using military information secrecy procedures in civilian departments.
+Sentence 18: Have you taken any action on that at all ?
+THE PRESIDENT.
+Sentence 19: I have no reason to take any action, for no such thing has ever been put up to me.
+Sentence 20: I think it is a very bad habit to get hold of fragments of preliminary reports which are likely to come up to the President, and then set up a strawman and knock him down.
+Sentence 21: I have to pass on that thing if it ever comes to me.
+Sentence 22: It never has yet.
+Sentence 23: [3.]
+Sentence 24: Q. Mr. President, have you had a chance, or have you seen that report of Representative Auchincloss on the form of government--
+THE PRESIDENT.
+Sentence 25: Only what I saw in the paper.
+Sentence 26: I haven't seen the report.
+Sentence 27: Q.
+Sentence 28: You wouldn't like to say anything about it?
+Sentence 29: THE PRESIDENT.
+Sentence 30: I can't comment on it, because I am not well enough informed.
+Sentence 31: [4.]
+Sentence 32: Q. May I ask you another question?
+Sentence 33: What happens to the big report of the civil rights ?
+Sentence 34: Does it stay here, or do you send that to Congress ?
+THE PRESIDENT.
+Sentence 35: That report is made to me, and that report can be used as a basis for a part of the Message on the State of the Union, which of course in the long run will be sent to the Congress.
+Sentence 36: Q.
+Sentence 37: In other words, you will use it as a part of your message ?
+Sentence 38: THE PRESIDENT.
+Sentence 39: I didn't say that.
+Sentence 40: I said it could be used as a foundation for part of the message--some of it, maybe.
+Sentence 41: I haven't read it carefully yet.
+Sentence 42: Q. Aside from that, what do you think of it, Mr. President ?
+Sentence 43: THE PRESIDENT.
+Sentence 44: I think it's a good report.
+Sentence 45: I have already made that comment.
+Sentence 46: Q.
+Sentence 47: I believe the last statement we had was just at the time you received the report.
+Sentence 48: THE PRESIDENT.
+Sentence 49: That's right, but I hadn't read it even then.
+Sentence 50: [5.]
+Sentence 51: Q. Mr. President, Congressman Doughton has been quoted that you will veto the tax bill this session.
+Sentence 52: Is he correct in that?
+Sentence 53: THE PRESIDENT.
+Sentence 54: I will take care of that situation when it comes up to me.
+Sentence 55: Q.
+Sentence 56: Do you intend to propose any sort of tax changes.--
+THE PRESIDENT.
+Sentence 57: I will let you know about that when I send down the Message on the State of the Union.
+Sentence 58: Q.
+Sentence 59: You are referring to this special session message, Mr. President?
+THE PRESIDENT.
+Sentence 60: No I am not.
+Sentence 61: The special session is called for two specific purposes, which has been very clear up to date.
+Sentence 62: As far as my message is concerned, it will be confined to those two specific things.
+Sentence 63: Q.
+Sentence 64: This is as far as your message is concerned?
+THE PRESIDENT.
+Sentence 65: The special session.
+Sentence 66: It will be confined to the two things that I have already announced that the session is called for.
+Sentence 67: Q.
+Sentence 68: Can you tell us anything more concrete as to what you might recommend on inflation?
+THE PRESIDENT.
+Sentence 69: No I can't.
+Sentence 70: I will let you have that when I send the message down.
+Sentence 71: I don't want to read that message to you here now, it wouldn't do the Congress any good.
+Sentence 72: [Laughter]
+Sentence 73: [6.]
+Sentence 74: Q. Mr. President, what do you think of the wheat price-fixing plan that Tom Campbell said he put up to you yesterday?
+Sentence 75: THE PRESIDENT.
+Sentence 76: Oh, we just discussed it incidentally.
+Sentence 77: He said that the only way to get wheat to market would be to put a ceiling on the price of wheat, then the farmers would all turn it loose.
+Sentence 78: That was his opinion, and he expressed it to me.
+Sentence 79: Q. A ceiling of 50 cents a bushel above the present market price
+THE PRESIDENT.
+Sentence 80: He didn't tell me what price he had in view.
+Sentence 81: Q.
+Sentence 82: He told us $3.50, Mr. President.
+Sentence 83: Did he tell you?
+THE PRESIDENT.
+Sentence 84: He did not discuss prices with me.
+Sentence 85: Q. Did he tell you, Mr. President, that he was holding back 100,000 bushels?
+THE PRESIDENT.
+Sentence 86: Oh yes, he said he had 600,000 bushels, and like every farmer he wanted to get as much for it as he could.
+Sentence 87: I don't blame him for that.
+Sentence 88: Q. Mr. President, the Agriculture Department has estimated that about all the hundred million bushels of grain that Mr. Luckman was asked to conserve may now have been saved, because of less feeding to cattle than expected.
+Sentence 89: In view of that, do you anticipate Mr. Luckman's resignation fairly soon ?
+Sentence 90: THE PRESIDENT.
+Sentence 91: No, I do not.
+Sentence 92: Mr. Luckman made a report to me just recently, and I think when you read that report
+1
+you will be very happy.
+Sentence 93: I was very happy over the success that he has been having with this effort.
+Sentence 94: He did a good job.
+Sentence 95: 1
+The "Interim Report to the President From the Citizens Food Committee" is dated October 31, 1947 (37 pp., processed).
+Sentence 96: [7.]
+Sentence 97: Q. Mr. President, another of the poll checks show that a lot of voters, average citizens, don't understand the form of the reconstruction problem too well.
+Sentence 98: I wonder if, after your message to Congress, if you would have a radio talk to them?
+Sentence 99: THE PRESIDENT.
+Sentence 100: Well, we have been working on a plan to get the matter before the country in as simple a manner as possible so that everybody can understand it.
+Sentence 101: It has been a tremendous job to get that report ready.
+Sentence 102: It required the meeting of the 16 nations in Europe.
+Sentence 103: It required the Krug survey of our own resources.
+Sentence 104: It required the Harriman survey, which has not yet reached me, but will tomorrow, I imagine.
+Sentence 105: And it required the report of the Economic Advisers, and all those things have to be coordinated and put to work.
+Sentence 106: It is a tremendous job.
+Sentence 107: And we must be patient.
+Sentence 108: We must not take a single report and say that that is the Marshall plan.
+Sentence 109: When we get that worked out and coordinated, it will be sent up to Congress in the form of a message, and it will be explained specifically in all its ramifications as clearly as we can possibly explain it.
+Sentence 110: Q.
+Sentence 111: That will be a separate message on the Marshall plan to the Congress ?
+THE PRESIDENT.
+Sentence 112: Well, I hope--I have that under consideration.
+Sentence 113: Q. Mr. President, do you anticipate any meeting with Secretary Marshall the latter part of this week, or over the weekend, on this problem?
+Sentence 114: THE PRESIDENT.
+Sentence 115: I meet with Secretary Marshall three times a week all the time, when he is here.
+Sentence 116: We discuss all subjects in which he is interested and in which I am interested.
+Sentence 117: Q. Mr. President, would this message on the Marshall plan go to the regular session of the Congress ?
+Sentence 118: THE PRESIDENT.
+Sentence 119: Well, I will have to tell you more about that when we get together.
+Sentence 120: Not in shape yet even to write the message on.
+Sentence 121: Whenever we get all those things coordinated, when we get the message ready, I will send it to the Congress--as soon as I can get it ready.
+Sentence 122: I don't know whether that will be to the regular session or the special session.
+Sentence 123: [8.]
+Sentence 124: Q. Mr. President, has the Chairman of the CAB, Mr. Landis, offered you his resignation?
+THE PRESIDENT.
+Sentence 125: Not that I know of.
+Sentence 126: He hasn't offered it to me.
+Sentence 127: [9.]
+Sentence 128: Q. Mr. President, could you indicate whether you consider inflation or foreign aid to be the priority subject of the special session ?
+Sentence 129: THE PRESIDENT.
+Sentence 130: They run side by side.
+Sentence 131: [10.]
+Sentence 132: Q. Mr. President, do you plan to nominate the FCC Chairman before the special session is over?
+Sentence 133: THE PRESIDENT.
+Sentence 134: I hadn't thought about it.
+Sentence 135: We have given that matter some consideration.
+Sentence 136: Trying to find the proper man.
+Sentence 137: Whenever we get him, I will announce him to you.
+Sentence 138: [11.]
+Sentence 139: Q. Mr. President, would you care to comment on the reports that the former opposition Polish leader, Mr. Mikolajczyk, is coming to the United States ?
+Sentence 140: THE PRESIDENT.
+Sentence 141: All I know about that is what I have seen in the paper.
+Sentence 142: And I noticed this morning that it had been announced that he has no visa to come to this country.
+Sentence 143: All I know is what I got out of the paper.
+Sentence 144: [12.]
+Sentence 145: Q. I don't want to ask you a leading question, but have you a choice of running mate yet ?
+Sentence 146: THE PRESIDENT.
+Sentence 147: What's that?
+Sentence 148: Q. Have you a choice of running mate yet?
+Sentence 149: THE PRESIDENT.
+Sentence 150: Tony,
+1
+that's a leading question, and I have no comment I [Laughter]
+1
+Ernest B. Vaccaro of the Associated Press.
+Sentence 151: Q. Mr. President, knowing--
+Sentence 152: I know this may be a leading question
+THE PRESIDENT.
+Sentence 153: All right.
+Q. -- but most of your recent callers who have come in to invite you to things next September and October, have come out looking pretty dismayed, saying that you told them that you would be very busy at that period ?
+Sentence 154: THE PRESIDENT.
+Sentence 155: Well, I don't think I have ever been here in the White House when I haven't been as busy as I could be.
+Sentence 156: Even on the so-called vacations, I work just as hard as if I were sitting at this desk.
+Sentence 157: [13.]
+Sentence 158: Q. Mr. President, which do you expect Congress to act on first, the interim proposal or anti-inflation?
+THE PRESIDENT.
+Sentence 159: I haven't got a crystal ball.
+Sentence 160: [Laughter] You will have to talk to Congress about that.
+Sentence 161: I want them to act on interim aid first.
+Sentence 162: They will be told that very plainly in the message.
+Sentence 163: As I say, I can't prophesy what the Congress will do.
+Sentence 164: I am sure, though, that they will do the right thing.
+Sentence 165: [14.]
+Sentence 166: Q. Do you plan to resubmit any nominations that have been made to the National Labor Relations Board at the special session?
+Sentence 167: THE PRESIDENT.
+Sentence 168: I don't--I didn't understand the question ?
+Sentence 169: Q. Mr. Denham, Mr. Gray, Mr. Murdock--do you plan to resubmit their names to the Senate?
+Sentence 170: THE PRESIDENT.
+Sentence 171: I don't know.
+Sentence 172: Were they approved the last time or not?
+Sentence 173: I can't remember.
+Sentence 174: Q.
+Sentence 175: They were recess appointments.
+Sentence 176: THE PRESIDENT.
+Sentence 177: Were they recess appointments ?
+Sentence 178: We have that under consideration.
+Sentence 179: Whenever we arrive at the proper conclusion on that, we will take action on it.
+Sentence 180: Q.
+Sentence 181: That is the study of the situation on law and precedents, I believe, that Charlie
+1
+told us about the other day.
+Sentence 182: That has not been completed yet?
+Sentence 183: THE PRESIDENT.
+Sentence 184: That study hasn't been completed yet.
+Sentence 185: 1
+Charles G. Ross, Secretary to the President.
+Sentence 186: [15.]
+Sentence 187: Q. Mr. President, does your answer to those previous questions mean that the special message to Congress will be concerned primarily with the interim aid program and not with the so-called Marshall plan as a whole?
+Sentence 188: THE PRESIDENT, It will be--the Congress was called for the purpose of going into the interim aid plan and for the control of prices and inflation in this country.
+Sentence 189: They go side by side.
+Sentence 190: [16.]
+Sentence 191: Q. Mr. President, would you care to comment on the request of the grain exchanges for an investigation?
+Sentence 192: THE PRESIDENT.
+Sentence 193: NO.
+Sentence 194: I have no comment.
+Sentence 195: [17.]
+Sentence 196: Q. Mr. President, have you seen any good movies lately?
+Sentence 197: THE PRESIDENT.
+Sentence 198: Well, I never get a chance to see a movie unless they bring one to the White House, and about the only thing I see are news reels.
+Sentence 199: I try to go when I am not in them.
+Sentence 200: [Laughter]
+Sentence 201: [18.]
+Sentence 202: Q. Mr. President, I want to clear up this impression I have got, possibly, that you are not going to submit anything on the long-range Marshall plan-
+THE PRESIDENT.
+Sentence 203: No, I didn't say that.
+Sentence 204: I said whenever we are ready we would submit it.
+Sentence 205: It takes a lot of time to get it ready.
+Sentence 206: Q.
+Sentence 207: But that will be separate
+THE PRESIDENT.
+Sentence 208: That is a separate proposition entirely, and the committees will commence meeting on this thing on the 10th, and they will begin hearings on the interim aid program on the 10th of November; and they will ask me--be at liberty to ask any questions they want, and we will try to give them all the information we have.
+Sentence 209: Q. Mr. President, does your comment that these things go side by side mean that you are
+THE PRESIDENT.
+Sentence 210: I think they are equally important.
+Sentence 211: I want to make it perfectly plain that I think they are equally important.
+Sentence 212: One depends on the other, unless--no use making appropriations of money for a hundred million bushels of wheat if it won't buy more than 25 million bushels.
+Sentence 213: [19.]
+Sentence 214: Q. Mr. President, have you any comment on the hearings of the House Committee on Un-American Activities?
+THE PRESIDENT.
+Sentence 215: No comment.
+Sentence 216: Q.
+Sentence 217: Any comment on its actions when you were a member of the committee when it was being investigated ?
+THE PRESIDENT.
+Sentence 218: No comment.
+Sentence 219: I think that will take care of itself.
+Sentence 220: Reporter:
+Sentence 221: Thank you, Mr. President.

@@ -1,0 +1,220 @@
+Sentence 1: 1946 The Presidents News Conference 446
+
+THE PRESIDENT.
+Sentence 2: Well, I haven't anything to tell you especially this morning, and so I am open for questions to start with.
+Sentence 3: [1.]
+Sentence 4: Q. Mr. President, would you care to tell us what you discussed with Mr. Schram this morning?
+Sentence 5: THE PRESIDENT.
+Sentence 6: Mr. Schram asked for the appointment, and he came in to tell me that there was no inflationary trend in the stock market.
+Sentence 7: [2.]
+Sentence 8: Q. Mr. President, out in Kansas City you said that after you had had a chance to read the foreign ministers communique, you would give us some comment on it.
+Sentence 9: Would you be good enough to do that today ?
+Sentence 10: THE PRESIDENT.
+Sentence 11: Well, I was satisfied with the communique, and satisfied with the accomplishments of the foreign ministers conference in Moscow, and I think it will have constructive results.
+Sentence 12: One of them, I noticed in the New York Times this morning, has been accomplished in Rumania already.
+Sentence 13: Q. Mr. President, will you tell us why we plan now to recognize the governments in Rumania and Bulgaria without the guarantees of free and unfettered elections which were contained in the Yalta communique?
+THE PRESIDENT.
+Sentence 14: They are not going to be recognized without the communique's guarantees of free and unfettered elections.
+Sentence 15: That guarantee has not been foregone.
+Sentence 16: I still have the final say on what we will do in those two countries.
+Sentence 17: Q.
+Sentence 18: We had the same agreement respecting Yugoslavia, Mr. President, and yet all the reports from there say that the elections were completely faked; and yet we recognize that state.
+Sentence 19: THE PRESIDENT.
+Sentence 20: We have recognized them conditionally.
+Sentence 21: Q. Conditionally?
+THE PRESIDENT.
+Sentence 22: Yes.
+Sentence 23: [3.]
+Sentence 24: Q. Mr. President, there is a story today that the Russians have an atom bomb about as big as a tennis ball--so much bigger and better than ours.
+Sentence 25: Have you any reason, or has this Government any reason to believe that the Russians do possess
+THE PRESIDENT.
+Sentence 26: This Government has no reason to believe it.
+Sentence 27: [4.]
+Sentence 28: Q. Mr. President, would you care to elaborate on what you started to say about Yugoslavia then?
+THE PRESIDENT.
+Sentence 29: The Yugoslavian recognition was conditional and is still conditional.
+Sentence 30: And it was necessary under the circumstances, because we had tentatively to recognize that government to begin with and go through with it.
+Sentence 31: But we are still hoping for a better situation in Yugoslavia.
+Sentence 32: [5.]
+Sentence 33: Q. Mr. President, do you expect to appoint new Ambassadors soon, either to Moscow or to Rome?
+Sentence 34: THE PRESIDENT.
+Sentence 35: Not immediately.
+Sentence 36: Q. Not immediately?
+THE PRESIDENT.
+Sentence 37: Mr. Harriman has been trying to quit ever since the Germans folded up, but I have persuaded him to stay, for the reason that he has a knowledge of conditions over there that would be very hard for a new man to attain immediately, and he has been kind enough to continue on.
+Sentence 38: But I am sure that he still wants to quit.
+Sentence 39: I hope he won't quit in any hurry.
+Sentence 40: Q.
+Sentence 41: What's the situation in Rome?
+THE PRESIDENT.
+Sentence 42: The situation is as it has always been.
+Sentence 43: Q.
+Sentence 44: As far as Ambassadors--
+THE PRESIDENT.
+Sentence 45: That's right.
+Sentence 46: [6.]
+Sentence 47: Q. Mr. President, would you care to comment on Secretary Byrnes's detailed explanation yesterday of the plan for the atomic energy commission?
+Sentence 48: THE PRESIDENT.
+Sentence 49: I think Mr. Byrnes covered it very thoroughly and completely.
+Sentence 50: Q.
+Sentence 51: What is the scope of that commission, Mr. President?
+Sentence 52: Does it only advise the U.N.O. delegation, or has it anything to do with the domestic legislation?
+THE PRESIDENT.
+Sentence 53: It is only to advise U.N.O. delegates.
+Sentence 54: Of course, it will finally wind up with presentation of a program to the Congress of the United States for ratification.
+Sentence 55: Q. How about the Senate Committee?
+Sentence 56: Does it conflict with the Senate Committee in any way?
+Sentence 57: THE PRESIDENT.
+Sentence 58: I can't understand the question ?
+Sentence 59: Q. How about the Senate Atomic Energy Committee ?
+THE PRESIDENT.
+Sentence 60: The Senate Atomic Energy Committee has the job of recommending legislation for the control of atomic energy in the United States.
+Sentence 61: Q.
+Sentence 62: Well, you said that this committee would eventually make recommendations to the Congress?
+THE PRESIDENT.
+Sentence 63: This committee of U.N.O., we hope, will arrive at a conclusion for international control of atomic energy in such a way that everybody will be happy over it for peacetime purposes.
+Sentence 64: Q. Mr. President, it has been suggested that we stop manufacturing the atomic bomb.
+Sentence 65: The suggestion was made by the Washington Post.
+Sentence 66: Would you comment, sir?
+Sentence 67: THE PRESIDENT.
+Sentence 68: I have no comment.
+Sentence 69: Q. Mr. President, would you comment on this committee to foreclose consideration by the Senate Committee of the international aspects of the atomic bomb?
+Sentence 70: THE PRESIDENT.
+Sentence 71: It does not--it does not foreclose the Senate Committee from doing anything it chooses to do.
+Sentence 72: [7.]
+Sentence 73: Q. Mr. President, I have a question here from Bend, Oreg.
+Sentence 74: They are quite interested in legislation that has been introduced creating the Columbia Valley Authority, and they recall that in your Gilbertsville speech you said that the development of river valley commerce should be a matter for the people themselves to decide now.
+Sentence 75: Do you contemplate such need of a referendum or community vote
+THE PRESIDENT.
+Sentence 76: No, I do not.
+Sentence 77: I do not.
+Sentence 78: I think the referendum is in the Congress of the United States.
+Sentence 79: [8.]
+Sentence 80: Q. Mr. President, that was a very varied group of Senators you had in here.
+Sentence 81: Would you say what you talked about?
+THE PRESIDENT.
+Sentence 82: They were anxious for the distribution of mail in Germany.
+Sentence 83: Q. Did you tell them you approved?
+THE PRESIDENT.
+Sentence 84: I told them under present circumstances it was not possible, but that we were working towards that end.
+Sentence 85: Q. Senators McCarran and La Follette both?
+THE PRESIDENT.
+Sentence 86: Yes.
+Sentence 87: McCarran, La Follette, Eastland, and Wherry.
+Sentence 88: Q. Could you tell us why it was not possible, Mr. President?
+THE PRESIDENT.
+Sentence 89: On account of the transportation system in Germany.
+Sentence 90: As soon as the transportation system can be worked out for that purpose, and as soon as we can reach an agreement with Russia and France and England on the matter.
+Sentence 91: This eventually will come about, of course.
+Sentence 92: Q.
+Sentence 93: This include sending food through the mails?
+THE PRESIDENT.
+Sentence 94: It will include regular things that can be sent through the mails.
+Sentence 95: [9.]
+Sentence 96: Q. Mr. President, do you want to say anything at all about these demonstrations of soldiers in various parts of the world, protesting against the slowing up of demobilization?
+Sentence 97: THE PRESIDENT.
+Sentence 98: I don't know all the facts in connection with this situation in Manila, so I would prefer not to comment on it.
+Sentence 99: 1
+1 On January 9, the White House announced that the President had received a memorandum from the Chief of Staff, Gen. Dwight D. Eisenhower, concerning the demonstrations in Manila.
+Sentence 100: General Eisenhower reported that on January 6-7 a series of demonstrations took place, and that the only one of any magnitude had been a mass meeting of 8,000 to 10,000 soldiers at the City Hall.
+Sentence 101: He further reported that the discontent had been primarily caused by acute homesickness aggravated by the termination of hostilities, and that the men, who had performed magnificently under campaign conditions, were not inherently challenging discipline or authority.
+Sentence 102: [10.]
+Sentence 103: Q. Mr. President, if we could return to the atomic energy subject for just a moment, did you say that Mr. Byrnes' explanation yesterday should satisfy anyone who had any doubts about safeguards and control?
+Sentence 104: THE PRESIDENT.
+Sentence 105: Yes.
+Sentence 106: Q.
+Sentence 107: Those were the two things that seemed to be worrying the delegates.
+Sentence 108: THE PRESIDENT.
+Sentence 109: That was the intention of Mr. Byrnes' statement.
+Sentence 110: I think it is.
+Sentence 111: [11.]
+Sentence 112: Q. Mr. President, it has been reported that you have discussed an increase in the price of steel.
+Sentence 113: Could you tell us about that?
+Sentence 114: THE PRESIDENT.
+Sentence 115: There has been a discussion of an increase in the price of steel.
+Sentence 116: As soon as the full figures for this last quarter are in, I think there will be some slight increase in the price of steel.
+Sentence 117: Q. Around $2?
+THE PRESIDENT.
+Sentence 118: I don't know what the figure will be.
+Sentence 119: [12.]
+Sentence 120: Q. Mr. President, I have been asked for your comment if you favor giving quotas for Indian immigration ?
+Sentence 121: THE PRESIDENT.
+Sentence 122: Yes.
+Sentence 123: I favor doing the same thing for the Indians that we did for the Chinese.
+Sentence 124: [13.]
+Sentence 125: Q. Mr. President, since your address to the country the other night, there have been some suggestions in Congress for a compromise on your suggestions for fact-finding legislation, a compromise to the effect that the 30-day cooling-off period and the power of subpoena would be removed.
+Sentence 126: In the event that the committee worked out such a bill, would that be satisfactory to you?
+Sentence 127: THE PRESIDENT.
+Sentence 128: I don't think that would accomplish anything.
+Sentence 129: That was founded on the Railroad Act, which has worked rather successfully.
+Sentence 130: And it was my intention to use the pattern, which the Railroad Act had set up for us, in those industries which have country wide effect on the welfare of the people.
+Sentence 131: It wouldn't be possible in local matters.
+Sentence 132: In fact, I think the local people will have to take care of that situation themselves.
+Sentence 133: [14.]
+Sentence 134: Q. Mr. President, to come back to the Moscow conference a second, do you fully approve the agreement regarding Japan, sir?
+Sentence 135: THE PRESIDENT.
+Sentence 136: Yes.
+Sentence 137: Q.
+Sentence 138: I remember on the 25th of September you couldn't see any reason why there should be a control advisory commission.
+Sentence 139: THE PRESIDENT.
+Sentence 140: I don't think I ever made any such statement as that.
+Sentence 141: I was always in favor of an advisory committee for Japan, and I think our allies--I think our allies were entitled to that.
+Sentence 142: Always have thought so.
+Sentence 143: [15.]
+Sentence 144: Q. Mr. President, in view of your strong inflation stand, I wonder whether you would relate the prospective increase in the price of steel with other prices, so that the country could be clear about it?
+Sentence 145: THE PRESIDENT.
+Sentence 146: I am not in any position to make a statement about the subject now.
+Sentence 147: I will make it at the proper time.
+Sentence 148: Q. Mr. President, do you have any reason to believe that the forthcoming steel increase which you just mentioned might prevent the steel strike next week?
+Sentence 149: THE PRESIDENT, I have no statement to make on the subject.
+Sentence 150: When it is the proper time, I will make a statement on it.
+Sentence 151: [16.]
+Sentence 152: Q. Mr. President, for some months there has been a vacancy on the Civil Aeronautics Board.
+Sentence 153: Do you expect to fill that vacancy sometime soon?
+THE PRESIDENT.
+Sentence 154: As soon as I can find a man that suits me, I will do it.
+Sentence 155: Reporter:
+Sentence 156: Thank you, Mr. President.
+Sentence 157: [17.]
+Sentence 158: THE PRESIDENT.
+Sentence 159: I will read you something here.
+Sentence 160: [Laughter] I have some--I never thought about this.
+Sentence 161: I should have read it first.
+Sentence 162: I have a question pending down in the Congress on succession, and I have the solution in here, a telegram from Texas which I am going to read to you because it's pretty good.
+Sentence 163: [Reading] "With total membership of 57, this organization has 56 vice presidents."
+Sentence 164: [Laughter] "They are hereby tendered you to solve the matter of Presidential succession for all time.
+Sentence 165: When necessary to act as a hoard, meetings can be held at the branch White House at Truman, Tex.
+Sentence 166: The Bonehead Club of Dallas."
+Sentence 167: [Much laughter]
+Reporter:
+Sentence 168: Thank you, sir.
+Sentence 169: THE PRESIDENT.
+Sentence 170: That's all.
+Sentence 171: [18.]
+Sentence 172: [Following the news conference the president met a group of Danish newsmen.
+Sentence 173: ]
+THE PRESIDENT.
+Sentence 174: It is a pleasure to meet you, gentlemen.
+Sentence 175: Borge Houmann (newspaper "Land og Folk"): Mr. President, I have been elected to extend our deepest gratitude for this journey, which is just about completed around your country.
+Sentence 176: We have seen many things of extreme interest, and we have had brought home to us a picture of some remarkable contributions made by your country toward winning the war.
+Sentence 177: We have great interest seeing that our two countries are on a very amicable basis, even more so than some of us sometimes thought at the beginning of the war; and we feel, all of us, that this spirit of cooperation and good will has been very much strengthened by this journey.
+Sentence 178: We feel that it will continue between our two countries and contribute to the mutual welfare of both our countries.
+Sentence 179: Mr. President, you have the everlasting gratitude of all of us.
+Sentence 180: Well, you no doubt have heard of the underground work during the war in Denmark in organizing, and conducted by a few members of the underground movement-the Freedom Council in Denmark.
+Sentence 181: We feel that in doing that work we contributed-although very, very little--towards winning the war.
+Sentence 182: But most of the work we have been able to do we would have been unable to accomplish without the aid of the Allied army forces.
+Sentence 183: In fact, without this aid, we feel sure that neither our country nor any other of the occupied countries of Europe would by now have been liberated from the yoke of Naziism.
+Sentence 184: On behalf of the Freedom Council of Denmark, of which I was a member, I take pleasure in presenting to you this arm band, which was the insignia of the Danish underground movement in the days before liberation on the 6th of May.
+Sentence 185: I present it to you as a token of fighting Denmark's undying gratitude and unbounded appreciation of what you have contributed.
+Sentence 186: THE PRESIDENT.
+Sentence 187: I thank you very much.
+Sentence 188: It certainly is a grand thing.
+Sentence 189: I will have that framed, and keep it as one of the mementos of the administration.
+Sentence 190: Do you represent all Scandinavian countries, or just--
+Voices: Only Denmark.
+Sentence 191: THE PRESIDENT.
+Sentence 192: Well, I have always had a warm spot in my heart for Denmark, and for Norway and for Sweden.
+Sentence 193: I do appreciate what Denmark did in this war.
+Sentence 194: They really made a contribution, under circumstances that were most trying.
+Sentence 195: We feel very, friendly toward your country.
+Sentence 196: Thank you very much for this.

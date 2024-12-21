@@ -1,0 +1,325 @@
+Sentence 1: 1950 The Presidents News Conference 570
+
+THE PRESIDENT.
+Sentence 2: Gentlemen, I have no particular announcements to make.
+Sentence 3: If you have any questions, I will try to answer them.
+Sentence 4: [1.]
+Sentence 5: Q. Mr. President, you were quoted yesterday as having said that if it had not been for the 1948 campaign, you would have sent Justice Vinson to Moscow, and that maybe that would be a thing to do sometime in the future.
+Sentence 6: Is that correct?
+1
+THE PRESIDENT.
+Sentence 7: Did you read the quotation in the paper, Smitty?
+2
+Q. Yes, sir.
+Sentence 8: THE PRESIDENT.
+Sentence 9: Read it again.
+Sentence 10: That will answer your question.
+Sentence 11: 1
+Sentence 12: The reporter was referring to an exclusive interview that the President had granted to Arthur Krock, chief Washington correspondent of the New York Times, on February 14.
+Sentence 13: In his report of the interview, Mr. Krock quoted the President as having said that he would have sent Chief Justice Fred M. Vinson to Moscow in the fall of 1948 except for the political campaign then in progress and that perhaps he might send him on such a mission sometime in the future.
+Sentence 14: The text of the interview, as printed in the New York Times on February 15, is also published in the Congressional Record (vol. 96, p. A1272).
+Sentence 15: 2
+Merriman Smith of the United Press Associations.
+Sentence 16: Q. Well, that is--
+THE PRESIDENT.
+Sentence 17: Read it again.
+Sentence 18: That will answer your question.
+Sentence 19: [2.]
+Sentence 20: Q. Mr. President, was that interview authorized in that form?
+Sentence 21: THE PRESIDENT.
+Sentence 22: It was.
+Sentence 23: Q. Mr. President, does that represent a softening of your attitude toward columnists, and vice versa?
+THE PRESIDENT.
+Sentence 24: No, it does not.
+Sentence 25: [The White House Official Reporter stated that there was a period of silence at this point.]
+Sentence 26: May I say to you gentlemen right now-you seem to be in a kind of disgruntled mood this morning--that the President is his own free agent.
+Sentence 27: He will see whom he pleases, when he pleases, and say what he pleases to anybody that he pleases.
+Sentence 28: And he is not censored by you, or anybody else.
+Sentence 29: I have tried my best to be as courteous to you gentlemen as I possibly can be, and I expect to continue that.
+Sentence 30: But I don't like your attitude this morning, so just cool off.
+Sentence 31: [Laughter]
+Q. Mr. President, inasmuch as I am not disgruntled ..
+THE PRESIDENT.
+Sentence 32: Of course you are not--of course you are not.
+Sentence 33: Q.
+Sentence 34: I might say to you, sir, as I used to work in the newspaper game--[laughter]--that that particular type of thing is a--these fellows feel, I think, that it is a reflection on every bureau chief and reporter in the White House--
+THE PRESIDENT.
+Sentence 35: It is nothing of the kind.
+Sentence 36: Q.
+Sentence 37: I beg your pardon?
+Sentence 38: THE PRESIDENT.
+Sentence 39: It is nothing of the kind.
+Sentence 40: Q.
+Sentence 41: That is their attitude, and I hope that you will pardon me if I bring that to your attention?
+Sentence 42: THE PRESIDENT.
+Sentence 43: That's all right, but it's nothing of the kind.
+Sentence 44: But I don't stand for anybody to edit my actions.
+Sentence 45: I am a free agent, even if I am the President of the United States.
+Sentence 46: Q. Mr. President, did you intentionally omit "damn" ?
+Sentence 47: THE PRESIDENT.
+Sentence 48: Yes, I intentionally omitted it.
+Sentence 49: I could put it in, if you would like to have it.
+Sentence 50: [Laughter]
+Q. Where should it go in, Mr. President-the "damn"?
+THE PRESIDENT.
+Sentence 51: What?
+Sentence 52: Q. Where does it go in?
+THE PRESIDENT.
+Sentence 53: Put your question in, and I will edit it for you.
+Sentence 54: [More laughter] Now then, have you got any questions that I can answer sensibly?
+Sentence 55: If you have, I will listen to them.
+Sentence 56: Q. I'm sorry--I think this is not a criticism of your right to do as you please, but of our understanding as to whether others may also obtain exclusive and private interviews ?
+Sentence 57: THE PRESIDENT.
+Sentence 58: That remains to be seen.
+Sentence 59: I will cross that bridge when I get to it.
+Sentence 60: [3.]
+Sentence 61: Q. Mr. President, getting back to this question--that direct question which Mr. Smith just asked, you were quoted in this interview as saying that you might have sent Chief Justice Vinson to try to straighten out Stalin and other Russian leaders on our real intentions.
+Sentence 62: Then you were quoted as saying maybe that will be the thing to do sometime.
+Sentence 63: How about this question, sir ?
+Sentence 64: Do you think that time has come?
+THE PRESIDENT.
+Sentence 65: No, I do not.
+Sentence 66: [4.]
+Sentence 67: Q. Mr. President, could I return with the feeling only of wanting information--
+THE PRESIDENT.
+Sentence 68: Sure.
+Sentence 69: I will give you any information I can--that I am capable of.
+Sentence 70: Q.--that your giving of interviews goes by favor, and there is no longer a rule?
+Sentence 71: We were under the impression that there was a rule which had--custom, at least, which had the binding force of a rule?
+Sentence 72: THE PRESIDENT.
+Sentence 73: It is a custom.
+Sentence 74: I will continue that custom--
+Q.
+Sentence 75: But you will--
+THE PRESIDENT.
+Sentence 76: --but I will do as I please with regard to breaking it.
+Sentence 77: [Laughter]
+Q. Yes sir.
+Sentence 78: That is the information that I want.
+Sentence 79: THE PRESIDENT.
+Sentence 80: That is the answer.
+Sentence 81: You have the information.
+Sentence 82: And I am not disgruntled in the slightest.
+Sentence 83: [More laughter]
+Q.
+Sentence 84: Why should you be?
+Sentence 85: THE PRESIDENT.
+Sentence 86: I am in as good a humor as I can possibly be, but I would like to answer some questions that have a bearing on the present situation.
+Sentence 87: Q. I will give you one, Mr. President.
+Sentence 88: Q.
+Sentence 89: You think our business is quite important, do you?
+THE PRESIDENT.
+Sentence 90: Sometimes I am not so sure.
+Sentence 91: Q. Mr. President, can you--
+THE PRESIDENT.
+Sentence 92: What is it?
+Sentence 93: [5.]
+Sentence 94: Q.--Mr.
+Sentence 95: President, one of your callers yesterday said that he got the impression that you plan to campaign extensively this year, after the nominees were in.
+Sentence 96: He mentioned the States of Ohio and Pennsylvania?
+THE PRESIDENT.
+Sentence 97: I think I made a statement to this press conference sometime back that I was not dabbling in any Democratic primaries outside of the State of Missouri, but that after the primaries were over I will be willing to help the Democrats to win in any State in the Union.
+Sentence 98: Q. Could you tell us
+THE PRESIDENT.
+Sentence 99: That is along the same line.
+Sentence 100: Q.
+Sentence 101: Yes.
+Sentence 102: Inasmuch as he mentioned two States, could you mention perhaps some other States?
+THE PRESIDENT.
+Sentence 103: No.
+Sentence 104: Let's attend to that when we get to it.
+Sentence 105: I will take you on a nonpolitical tour, one of these days, and I'll show you.
+Sentence 106: [Laughter]
+Sentence 107: [6.]
+Sentence 108: Q. Mr. President, about that Missouri primary, have you got any word whether Forrest Smith is going to be at the dinner tonight?
+Sentence 109: 3
+THE PRESIDENT.
+Sentence 110: I beg your pardon?
+3
+Jefferson-Jackson Day Dinner.
+Sentence 111: See Item 39.
+Sentence 112: Q. Have you got any word as to whether Forrest--Governor Smith will or will not be at the dinner tonight?
+Sentence 113: THE PRESIDENT.
+Sentence 114: He will be at the dinner.
+Sentence 115: Q.
+Sentence 116: He will be at the dinner?
+Sentence 117: THE PRESIDENT.
+Sentence 118: He will be at the dinner.
+Sentence 119: At least, if the weather is good to fly in this morning he will be there.
+Sentence 120: Q. Mr. President, he wired John Hendren
+4
+that the National Guard wouldn't let him take off.
+Sentence 121: THE PRESIDENT.
+Sentence 122: That was yesterday, not today.
+Sentence 123: 4 John H. Hendren, chairman, Missouri Democratic State Committee.
+Sentence 124: Q. Has the weather changed?
+Sentence 125: THE PRESIDENT.
+Sentence 126: There is not--I don't know--you know, weather conditions change from day to day.
+Sentence 127: I rather think he will be here.
+Sentence 128: [7.]
+Sentence 129: Q. Mr. President, do you have any comment on the agreement between Russia and the Communist government of China?
+Sentence 130: THE PRESIDENT.
+Sentence 131: I have no comment, for I haven't myself personally--I haven't read the treaty and don't know what it contains.
+Sentence 132: I think Dean Acheson covered the matter very well yesterday.
+Sentence 133: 5
+5 The New York Times reported on February 16 that Secretary Acheson, in his press conference of February 15, had warned the Chinese people that their troubles with the Soviet Union had only begun with the signing of the Sino-Soviet Pact.
+Sentence 134: The treaty of alliance between the two countries was signed in Moscow on February 15.
+Sentence 135: Secretary Acheson was quoted as saying that even if the full sum of the Soviet Union's promised economic aid--$300 million over a 5-year period--was forthcoming, it would be meager in comparison with the great economic needs of China.
+Sentence 136: He further stated that the most significant features of the new agreements were probably covered by secret protocols that would never be made public, but that could be measured only by Russian conduct in China in the months and years to come.
+Sentence 137: [8.]
+Sentence 138: Q. Mr. President, do you approve of the selling of hundred-dollar tickets for tonight's dinner to civil service employees who are nonpolitical employees?
+Sentence 139: THE PRESIDENT.
+Sentence 140: If they want to buy a ticket, they are at liberty to buy one.
+Sentence 141: I don't think their civil rights have been infringed upon in the slightest.
+Sentence 142: [9.]
+Sentence 143: Q. Mr. President, speaking of civil rights, don't you think that a Federal law against bigtime gambling is just as important as Federal laws against lynching?
+THE PRESIDENT.
+Sentence 144: Well now, that is a matter that will have to be worked out by the Attorney General.
+Sentence 145: That is not in my immediate department.
+Sentence 146: I am not a criminal enforcement officer.
+Sentence 147: I will take the advice of the Attorney General on the subject.
+Sentence 148: Q. Mr. President, have you ever advocated a Federal law against gambling?
+Sentence 149: THE PRESIDENT.
+Sentence 150: No.
+Sentence 151: I never--it has never come up for consideration.
+Sentence 152: Q.
+Sentence 153: I do not understand the question.
+Sentence 154: THE PRESIDENT.
+Sentence 155: No.
+Sentence 156: No, it has never come up for consideration.
+Sentence 157: I think all sorts of lawlessness ought to be stopped by any measure that is possible to stop it.
+Sentence 158: I think, in enforcing the Federal law, that we must always be careful that the civil rights part of the Constitution is not infringed upon.
+Sentence 159: That is what I tried to make perfectly clear in my speech yesterday.
+Sentence 160: 6
+6
+Item 37.
+Sentence 161: Q.
+Sentence 162: I beg your pardon--in this particular jurisdiction, where we have two or three counties--two States and a Federal jurisdiction-District of Columbia--we have found here, according to the grand jury, that it is impossible to enforce laws against gambling without the addition of some interstate matter or help of the Federal Government.
+Sentence 163: That is the report of the grand jury.
+Sentence 164: THE PRESIDENT.
+Sentence 165: Well, that ought to be remedied.
+Sentence 166: Q.
+Sentence 167: You understand about that?
+Sentence 168: THE PRESIDENT.
+Sentence 169: Yes.
+Sentence 170: That ought to be remedied.
+Sentence 171: Q. That ought to be remedied?
+Sentence 172: THE PRESIDENT.
+Sentence 173: That ought to be remedied, of course.
+Sentence 174: [10.]
+Sentence 175: Q. Mr. President, do you agree with Mr. Churchill that another top level conference with Mr. Stalin might achieve some results?
+7
+THE PRESIDENT.
+Sentence 176: I have no comment to make on Mr. Churchill's statement.
+Sentence 177: I have always said that the door is open here in Washington.
+Sentence 178: Any time any head of state wants to come and visit me, he is welcome.
+Sentence 179: 7
+Sentence 180: The New York Times reported on February 15 that former British Prime Minister Winston S. Churchill spoke at Usher Hall in Edinburgh, Scotland, on February 14.
+Sentence 181: The Times quoted Mr. Churchill as stating that a new "top level" attempt to reach an agreement with the Soviet Union for the control of the atomic bomb and an end to the cold war should be instigated.
+Sentence 182: Q.
+Sentence 183: You still want it to be held here in Washington?
+Sentence 184: THE PRESIDENT.
+Sentence 185: Yes.
+Sentence 186: Q. Mr. President, do you think Mr. Churchill is just electioneering?
+Sentence 187: THE PRESIDENT.
+Sentence 188: That question I do not want to answer.
+Sentence 189: [11.]
+Sentence 190: Q. Mr. President, did you tell Charles Luckey
+8
+that you might be a candidate for President?
+Sentence 191: THE PRESIDENT.
+Sentence 192: He drew that conclusion.
+Sentence 193: [Laughter]
+8 George (Charles) Luckey, vice chairman of the California Democratic State Committee.
+Sentence 194: Q. Did you indicate to him that you might be a candidate?
+Sentence 195: THE PRESIDENT.
+Sentence 196: He drew that conclusion.
+Sentence 197: [Laughter]
+Sentence 198: [12.]
+Sentence 199: Q. To return to Missouri politics once more, Chairman John Hendren told a group of Missouri Democrats at luncheon yesterday that it is his understanding that the Hatch Act will not prohibit Government workers from joining the Missouri State Democratic clubs, that they could not be solicited while at work but they could solicit them at home.
+Sentence 200: THE PRESIDENT.
+Sentence 201: I think the Government employee, when he is through with his Government work, can do anything he pleases that does not infringe upon the criminal law.
+Sentence 202: I think he has the same rights as any other citizen of the United States, and if he hasn't he ought to have.
+Sentence 203: Q. Mr. President, the Hatch Act--that doesn't say that?
+THE PRESIDENT.
+Sentence 204: The Hatch Act is specific in that particular.
+Sentence 205: You ought to read it very carefully.
+Sentence 206: I am pretty familiar with the Hatch Act, for I was there when it passed, and I voted against section nine, which is the one to which this refers.
+Sentence 207: [13.]
+Sentence 208: Q. Mr. President, in your discussion yesterday with Mayor Lawrence of Pittsburgh, did the mayor give you a very promising picture of Pennsylvania?
+THE PRESIDENT.
+Sentence 209: Yes, he did.
+Sentence 210: Yes, he did.
+Sentence 211: Q.
+Sentence 212: Do you think Senator Francis J. Myers will be elected ?
+THE PRESIDENT.
+Sentence 213: Yes, and I hope he will.
+Sentence 214: [14.]
+Sentence 215: Q. Mr. President, do you have any hopes that the miners will go back to work under the injunction--
+THE PRESIDENT.
+Sentence 216: Well, I don't want to comment on that, because that is a matter that is in the courts, and the courts will have to handle it.
+Sentence 217: [15.]
+Sentence 218: Q. Mr. President, did Mr. Luckey draw the correct conclusion?
+THE PRESIDENT.
+Sentence 219: That question will have to be--you will have to wait awhile for the correct answer to that question.
+Sentence 220: Q. Didn't hear that answer, sir.
+Sentence 221: THE PRESIDENT.
+Sentence 222: He wanted to know if Mr. Luckey drew the correct conclusion, and I told him you would have to wait awhile to see whether his conclusion was right or
+not.
+Sentence 223: [16.]
+Sentence 224: Q. Mr. President, your Solicitor General, Mr. Perlman, filed a brief last Thursday regarding two schools in Oklahoma and Texas; and at the time I asked you if you had seen it and you said you had not.
+Sentence 225: Is that brief the official view of the administration?
+Sentence 226: THE PRESIDENT.
+Sentence 227: I haven't read the brief, and I don't know what is in it, and I can't answer your question now any more than I could last week.
+Sentence 228: [17.]
+Sentence 229: Q. Mr. President, Mr. Green and Mr. Murray
+9
+were in to see you a few days ago, and they asked you to do something about British arms shipments to the Arabs.
+Sentence 230: THE PRESIDENT.
+Sentence 231: They brought me in a letter signed by both of them, and I referred it to the State Department.
+Sentence 232: 9 William Green, president of the American Federation of Labor, and Philip Murray, president of the Congress of Industrial Organizations.
+Sentence 233: Q. Would you care to comment on it?
+Sentence 234: THE PRESIDENT.
+Sentence 235: No.
+Sentence 236: [18.]
+Sentence 237: Q. Mr. President, could you comment on Senator Joseph R. McCarthy's statement that there are 57 Communists in the State Department?
+Sentence 238: THE PRESIDENT.
+Sentence 239: I think the State Department answered that by saying there was not a word of truth in what the Senator said.
+Sentence 240: [19.]
+Sentence 241: Q. Mr. President, what is your feeling toward the Atlantic Union proposal now being discussed on the Hill?
+THE PRESIDENT.
+Sentence 242: I am not familiar enough with it to comment on it.
+Sentence 243: I don't think now is the proper time to press a thing of that sort.
+Sentence 244: We have other things much more important right now.
+Sentence 245: [20.]
+Sentence 246: Q. Mr. President, do you feel there would be any value in--propaganda-wise or otherwise--a somewhat more dramatic move than the State Department's, by the Assistant Secretary of State, that we are still ready to negotiate on the atomic control ?
+Sentence 247: THE PRESIDENT.
+Sentence 248: What do you mean by that?
+Sentence 249: The negotiating machinery in the United Nations and our Ambassadors in all the capitals of the world are always ready to discuss any questions with any state when they want to discuss them with us.
+Sentence 250: The door has always been open.
+Sentence 251: We have never walked out of any meetings.
+Sentence 252: We have never used the veto power for the purpose of preventing peace in the world.
+Sentence 253: Why don't you read a little history?
+Sentence 254: Our doors are always open.
+Sentence 255: We are ready to talk with anybody on any subject that will contribute to peace.
+Sentence 256: I don't think it needs any showmanship to carry that through.
+Sentence 257: Q. Mr. President, the reason--feeling that that had been your constant position was one of the reasons we were astonished at the reference to Vinson in the Krock interview.
+Sentence 258: THE PRESIDENT.
+Sentence 259: I don't think you should be astonished.
+Sentence 260: Read it very carefully.
+Sentence 261: It did not astonish anybody at the time.
+Sentence 262: [21.]
+Sentence 263: Q. Mr. President, the CIO executive board early this week urged you to fire Mr. Denham.
+Sentence 264: 10
+Are you considering that?
+Sentence 265: THE PRESIDENT.
+Sentence 266: No, I am not.
+Sentence 267: 10 Robert N. Denham, General Counsel, National Labor Relations Board.
+Sentence 268: Q. Mr. President, have you power to fire Mr. Denham?
+THE PRESIDENT.
+Sentence 269: If I have the power to appoint, I have the power to dismiss, except if the law provides that it can't be done.
+Sentence 270: You will find that is the decision of the courts all the way down.
+Sentence 271: Reporter:
+Sentence 272: Thank you, Mr. President.
+Sentence 273: THE PRESIDENT.
+Sentence 274: You're welcome.

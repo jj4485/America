@@ -1,0 +1,217 @@
+Sentence 1: 1950 The Presidents News Conference 619
+
+THE PRESIDENT.
+Sentence 2: Be seated, please.
+Sentence 3: Good afternoon, everybody.
+Sentence 4: [1.]
+Sentence 5: I have one announcement to make.
+Sentence 6: Mr. Harriman and General Norstad and General Lowe will leave tomorrow for Japan, for a political brief with General MacArthur on the political situation in the Far East.
+Sentence 7: Now I am ready for questions.
+Sentence 8: Q. Mr. President, I suppose I should be familiar with General Lowe's title and name, but--
+THE PRESIDENT.
+Sentence 9: Maj. Gen. Frank E. Lowe.
+Sentence 10: He is a Reserve officer.
+Sentence 11: [2.]
+Sentence 12: Q. Mr. President, to get rid of a rather obvious question quickly, it appears that Thomas Hennings, Jr., has been nominated for the Senate in Missouri.
+Sentence 13: 1
+I assume that you will support the Democratic nominee regardless of the outcome?
+THE PRESIDENT.
+Sentence 14: I always do that.
+Sentence 15: I always do that.
+Sentence 16: But the election is not certain yet.
+Sentence 17: 1 Thomas C. Hennings, Jr., defeated Emery W. Allison in the Missouri primary election held on August 1 for the Democratic senatorial nomination.
+Sentence 18: Q.
+Sentence 19: I understand that.
+Sentence 20: THE PRESIDENT.
+Sentence 21: The nomination is not certain because the absentee vote has to be counted, but if it comes out the way you think it will, why I will support the ticket.
+Sentence 22: [3.]
+Sentence 23: Q. Along that same line, Mr. President, were you happy over the winning of Paul Aiken of Kansas over Carl Rice?
+2
+THE PRESIDENT.
+Sentence 24: I certainly am happy about it.
+Sentence 25: I haven't been officially notified that he was nominated.
+Sentence 26: If he is, why I am very happy over it.
+Sentence 27: 2
+Sentence 28: On August 1 Paul Aiken defeated Carl Rice in the Kansas primary election for the Democratic senatorial nomination.
+Sentence 29: Q.
+Sentence 30: He said you called him last night--there was a report that you telephoned Mr. Aiken and told him you were happy about it?
+THE PRESIDENT.
+Sentence 31: No, I didn't talk to him.
+Sentence 32: Q.
+Sentence 33: But you are happy about it?
+Sentence 34: THE PRESIDENT.
+Sentence 35: Yes.
+Sentence 36: I haven't had reports of any nominations as yet officially.
+Sentence 37: [4.]
+Sentence 38: Q. Mr. President, the House, sitting as a Committee of the Whole, a short while ago this afternoon voted tentatively on a price control plan--price and wage control bill which would go into effect automatically when prices rise to 5 percent over the June 15th Bureau of Labor Statistics Index.
+Sentence 39: What do you think of a plan like that?
+Sentence 40: THE PRESIDENT.
+Sentence 41: I don't think much of it.
+Sentence 42: That invites a 5 percent rise in prices.
+Sentence 43: If we are going to have a price control authorization, and what goes with it, it should be an authorization for the rollback of prices to a date between May 24 and June 24, on a basis that would set prices and wages during that time--between May 24 and June 24.
+Sentence 44: If you set an automatic price rise, then you have got to meet an automatic price rise with an automatic wage rise, and you will have a spiral just like we did in the other war.
+Sentence 45: If we are going to have price control, let us have it, and have it in the right way.
+Sentence 46: Q. Mr. President, on that point, the Democratic Members of the Senate, and I believe the House, have advocated--I would like to have your comment on this point--they believe that business, realizing that price controls would not take effect unless there was a 5 percent rise, would itself see to it that prices did not rise to that extent.
+Sentence 47: Do you think there is any force to that argument?
+Sentence 48: THE PRESIDENT.
+Sentence 49: I think, if we are going to have price control, it is the business of the Government to do the policing.
+Sentence 50: I didn't ask for price control, you understand.
+Sentence 51: They may force it on me, and I will make use of it if it is necessary, if they do give it to me.
+Sentence 52: I would have asked for it, if I thought I needed it--and I will use it if I do think it is necessary.
+Sentence 53: But I hope that they won't set any restrictions on it so that it won't be used for the public good.
+Sentence 54: Q. Just to clear that up, you would have preferred legislation freezing prices to June 24--
+THE PRESIDENT.
+Sentence 55: Authorizing that that be done, if it becomes necessary.
+Q.
+Sentence 56: But not a legislative
+THE PRESIDENT.
+Sentence 57: No, it is not a legislative program.
+Sentence 58: Q.
+Sentence 59: It is not.
+Sentence 60: [5.]
+Sentence 61: Q. Mr. President, did Senator Lyndon Johnson consult with you at all about his new investigating committee operations in the Senate?
+Sentence 62: 3
+THE PRESIDENT.
+Sentence 63: No.
+Sentence 64: He hasn't talked with me about it at all.
+Sentence 65: 3
+On July 27, 1950, Senator Lyndon B. Johnson of Texas was appointed chairman of a subcommittee of the Senate Armed Services Committee empowered "to keep continuous watchfulness over our entire rearmament and preparedness and defense program.
+Sentence 66: "
+Q. Mr. President, do you have any comment on the fact that the Senate elected to follow essentially the comparative line
+THE PRESIDENT.
+Sentence 67: I don't know anything about it.
+Sentence 68: I haven't seen the resolution, and I haven't talked with anybody about it, so I can't very well comment on it.
+Sentence 69: [6.]
+Sentence 70: Q. Mr. President, do you have any comment on the reports that due to the world situation, it has been decided to postpone indefinitely the tariff concessions as scheduled for next month?
+Sentence 71: THE PRESIDENT.
+Sentence 72: I hadn't heard anything about that.
+Sentence 73: I think I would be consulted before that was done.
+Sentence 74: [7.]
+Sentence 75: Q. Did you say they were bringing a briefing to General MacArthur on the political situation?
+Sentence 76: THE PRESIDENT.
+Sentence 77: No.
+Sentence 78: Mr. Harriman is going to Japan to discuss the Far Eastern political situation with General MacArthur.
+Sentence 79: Q. Is he bringing any instructions from here?
+THE PRESIDENT.
+Sentence 80: No.
+Sentence 81: I have not made up my mind as yet on whether to give him instructions or not.
+Sentence 82: I don't think he needs any, but I will discuss the matter with him.
+Sentence 83: Q.
+Sentence 84: And that is tomorrow, sir?
+Sentence 85: THE PRESIDENT.
+Sentence 86: Tomorrow, yes.
+Sentence 87: [8.]
+Sentence 88: Q. Mr. President, I hate to rise so much--
+THE PRESIDENT.
+Sentence 89: That's all right.
+Sentence 90: You are free to ask any questions you want, and I will try to answer them.
+Q.
+Sentence 91: The question I have is--through one of our member papers--as to whether you have any plans for reappointing Mr. Taylor as Ambassador to His Holiness?
+Sentence 92: THE PRESIDENT.
+Sentence 93: I have not.
+Sentence 94: When Mr. Taylor resigned, that office automatically ceased, because that was a personal representative appointed by the President.
+Sentence 95: Mr. Taylor resigned, and no further appointment in that line has been considered.
+Sentence 96: The possibility of maintaining a regular Minister at the Vatican is under study.
+Sentence 97: 4
+4 See Item 16.
+Sentence 98: [1]
+Q.
+Sentence 99: It might be a regular Minister?
+THE PRESIDENT.
+Sentence 100: Yes, it might be a regular procedure.
+Sentence 101: [9.]
+Sentence 102: Q. Mr. President, are the Spaniards prematurely enthusiastic about this loan of $100 million that the Senate voted yesterday ?
+Sentence 103: THE PRESIDENT.
+Sentence 104: I don't think that amendment should be in the ECA bill at all.
+Sentence 105: It doesn't belong there.
+Sentence 106: There is nothing in the world to prevent the Spanish Government from applying for a loan to the Export- Import Bank, and if they have sound collateral the loan would be favorably considered, I am sure.
+Sentence 107: But that amendment is entirely out of place in that ECA bill, and I hope they will take it out.
+Sentence 108: [10.]
+Sentence 109: Q. Mr. President, Percy Priest, Congressman from Tennessee, the majority whip in the House, is quoted in the papers as saying he thinks Secretary Johnson and Secretary Acheson should resign, in view of the war developments.
+Sentence 110: Will you agree with that?
+Sentence 111: THE PRESIDENT.
+Sentence 112: Who made that statement?
+Sentence 113: Q. Congressman Priest of Tennessee, the majority whip.
+Sentence 114: THE PRESIDENT.
+Sentence 115: Well, I am surprised.
+Sentence 116: I don't think he has any business making any such statement as that, especially if he is the leader of the majority.
+Sentence 117: Just make it plain to him they are not going to resign, as long as I am President.
+Sentence 118: [11.]
+Sentence 119: Q. Mr. President, with regard to your statement about the $100 million to Spain, a great many people do not understand this phase of it, and it was expressed by some Members in the Senate who said that not arming Spain or not financing them leaves a hole in the dike.
+Sentence 120: Do you care to make any statement on that?
+Sentence 121: THE PRESIDENT.
+Sentence 122: No, I don't care to make any statement on that.
+Sentence 123: Q. Or explanation?
+Sentence 124: THE PRESIDENT.
+Sentence 125: No.
+Sentence 126: [12.]
+Sentence 127: Q. Mr. President, Senator Lucas is saying that the Senate now does not have the time to consider statehood for Hawaii and Alaska.
+Sentence 128: Do you agree with that?
+Sentence 129: THE PRESIDENT.
+Sentence 130: No, I don't.
+Sentence 131: I am going to urge them to consider it now, because I think Alaska and Hawaii fall in the public interest and for the national defense.
+Sentence 132: [13.]
+Sentence 133: Q. Mr. President, do you consider Jimmie Byrnes
+5
+a Democrat, and will he be invited to the White House functions, such as the recent Democratic Governors luncheon?
+Sentence 134: [Laughter]
+THE PRESIDENT.
+Sentence 135: He was not invited to the recent Democratic Governors luncheon, and he was not a Governor at that time.
+Sentence 136: 5
+James F. Byrnes, former Secretary of State.
+Sentence 137: Mr. Byrnes won the nomination for Democratic gubernatorial candidate for South Carolina on July 12, and became Governor in January 1951.
+Sentence 138: Q.
+Sentence 139: You didn't understand my question, sir, if you will excuse me.
+Sentence 140: Do you consider Jimmie Byrnes a Democrat now, and will he be invited in the future to such.--
+THE PRESIDENT.
+Sentence 141: I will cross that bridge when I get to it.
+Sentence 142: [More laughter] You ask Mr. Byrnes what he thinks about that.
+Sentence 143: He can answer you better than I can.
+Sentence 144: [14.]
+Sentence 145: Q. Mr. President, could you expand a little bit on the purpose of Mr. Harriman's talks in Tokyo?
+Sentence 146: Will it include the Japanese peace treaty?
+Sentence 147: THE PRESIDENT.
+Sentence 148: It will include political matters that affect the Far East, and that's about all I can say about it.
+Sentence 149: I can't go into detail on that.
+Sentence 150: [15.]
+Sentence 151: Q. Mr. President, will you plan to withdraw the nomination of Mr. Martin Hutchinson to the Federal Trade Commission?
+Sentence 152: THE PRESIDENT.
+Sentence 153: No.
+Q.
+Sentence 154: They won't act on it--
+THE PRESIDENT.
+Sentence 155: No, I don't intend to withdraw it.
+Sentence 156: Mr. Hutchinson says he is willing to go through with the fight, and I will back a man up when he wants to make a good fight.
+Sentence 157: Q. Would that also apply to Carroll Switzer?
+6
+6
+On January 5, 1950, the President transmitted to the Senate the nomination of Carroll O. Switzer to be the Federal District Judge for the Southern District of Iowa.
+Sentence 158: The Senate rejected the nomination on August 9, 1950.
+Sentence 159: THE PRESIDENT.
+Sentence 160: Yes, it does.
+Sentence 161: [16.]
+Sentence 162: Q. Mr. President, would you comment on the new $9 1/2 billion rearmament program which has been announced in London--British rearmament?
+Sentence 163: THE PRESIDENT.
+Sentence 164: I am very happy over that.
+Sentence 165: I just discussed it with the Secretary of State, just before lunch, and I think the British have made the proper approach.
+Sentence 166: And I hope all the rest of our allies will do likewise.
+Sentence 167: [17.]
+Sentence 168: Q. Mr. President, I thought somebody else would ask about Mr. Pauley at the Capitol today.
+Sentence 169: Could you explain why Mr. Pauley came to tell us the story?
+Sentence 170: THE PRESIDENT.
+Sentence 171: No, I can't.
+Sentence 172: I understand, from what I have heard about it since then, that Mr. Pauley was requested by the Defense Department to go up to the military committee and discuss the matter.
+Sentence 173: He was not requested to do it by the White House.
+Sentence 174: 7
+7
+On August 3, 1950, Edwin W. Pauley, former U.S. reparations representative to Korea, testified before the Senate Armed Services Committee.
+Sentence 175: His testimony included a statement that in 1948 he had urged war with the Soviet Union when a committee of the United Nations was refused admittance to North Korea.
+Sentence 176: Q. Mr. Chairman of the Committee, Mr. Tydings,
+8
+said the White House--
+THE PRESIDENT.
+Sentence 177: Mr. Chairman of the Committee was mistaken!
+Sentence 178: Reporter:
+Sentence 179: Thank you, Mr. President.
+Sentence 180: THE PRESIDENT, All right.
+Sentence 181: 8 Senator Millard E. Tydings of Maryland, Chairman of the Senate Armed Services Committee.

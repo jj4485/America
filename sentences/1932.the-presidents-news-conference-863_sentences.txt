@@ -1,0 +1,95 @@
+Sentence 1: 1932 The Presidents News Conference 863
+
+THE PRESIDENT.
+Sentence 2: Good morning.
+Sentence 3: I don't know that I have got anything to say to you.
+Sentence 4: No doubt you are ravenous for news, and I haven't got it.
+Sentence 5: I just got up from the best night's sleep I have had in a week.
+Sentence 6: Q.
+Sentence 7: What are your plans, Mr. President?
+THE PRESIDENT.
+Sentence 8: I think I shall probably leave here Saturday night and go straight back to Washington.
+Sentence 9: Q. Mr. President, if you go back on the Santa Fe do you plan to stop off at the Grand Canyon or anywhere ?
+THE PRESIDENT.
+Sentence 10: No stop at the Grand Canyon this time.
+Sentence 11: Q.
+Sentence 12: Which route will you take, Mr. President?
+THE PRESIDENT.
+Sentence 13: The Santa Fe.
+Sentence 14: We will probably go out of here on the Southern Pacific so far as Los Angeles.
+Sentence 15: Q.
+Sentence 16: What time will that bring you into Washington?
+Sentence 17: THE PRESIDENT.
+Sentence 18: We will try to work it out to get as many nights on the train as possible and as many days in Palo Alto and Washington as possible.
+Sentence 19: Q. Mr. President, I imagine you are receiving a great many telegrams.
+Sentence 20: THE PRESIDENT.
+Sentence 21: Literally thousands of telegrams.
+Sentence 22: All very fine in their tenor.
+Sentence 23: They express every determination of the Republican Party to go at it for 4 years of constructive work.
+Sentence 24: I don't think there is anything else.
+Sentence 25: Q. Mr. President, have you heard anything from Roosevelt yet-any acknowledgement of your telegram ?
+THE PRESIDENT.
+Sentence 26: Yes, a very pleasant acknowledgment.
+Sentence 27: I don't recollect what the terms of it were.
+Sentence 28: Q. Mr. President, is there anything you want to say to the people who supported you ?
+Sentence 29: I noticed you didn't say anything last night.
+Sentence 30: THE PRESIDENT.
+Sentence 31: I haven't had time.
+Sentence 32: I just got up.
+Sentence 33: I probably will say something.
+Sentence 34: Q. Mr. President, for our guidance perhaps more than news, can you give us any idea in a general way as to your plans during the remainder of your stay--whether you plan to take automobile rides or what ?
+THE PRESIDENT.
+Sentence 35: I just went to sleep last night after the show was over, and I have got up, and I haven't any plans.
+Sentence 36: I shall probably take automobile rides around this neighborhood.
+Sentence 37: Q. Have you any information as to whether Dr. Wilbur will get out of the Cabinet now ?
+Sentence 38: I understand his leave from the university expires in December.
+Sentence 39: THE PRESIDENT.
+Sentence 40: I think that was the arrangement that his time expires in December, but I haven't discussed the matter with him at all.
+Sentence 41: Q.
+Sentence 42: That would be, probably, conjecture ?
+Sentence 43: THE PRESIDENT.
+Sentence 44: I don't know whether there is conjecture on that or not before the 4th of March.
+Sentence 45: The natural consequence will be to get out then.
+Sentence 46: Q. Mr. President, representing the Washington people, we want to know whether we will continue to have you as a citizen after the 4th of March--that is, will you remain in Washington ?
+Sentence 47: THE PRESIDENT.
+Sentence 48: Oh, I would not live in Washington after the 4th of March.
+Sentence 49: I will come back to California, I am sure.
+Sentence 50: Q.
+Sentence 51: In that connection, Mr. President, have you any announcement to make concerning your plans after your return back to California ?
+Sentence 52: THE PRESIDENT.
+Sentence 53: Not the remotest.
+Sentence 54: I haven't thought about it.
+Sentence 55: Q. Does this mean the end of public life for you, Mr. President ?
+Sentence 56: THE PRESIDENT.
+Sentence 57: I haven't given consideration to anything of that sort.
+Sentence 58: I will probably have to earn something of a living.
+Sentence 59: I have been in public service now ever since 1914, and it is a long drain on one's resources.
+Sentence 60: However, I would not say anything about that publicly--just for your own information.
+Sentence 61: Is there anything else special that I can tell you except to take 3 or 4 days off?
+Sentence 62: You have had as strenuous a time as I have.
+Sentence 63: Q.
+Sentence 64: Can we depend on that?
+Sentence 65: Or will we miss the train ?
+Sentence 66: THE PRESIDENT.
+Sentence 67: You won't miss the train.
+Sentence 68: Q. Mr. President, as a matter of interest, have you kept any track of the number of words written since you started the campaign-major speeches and little speeches ?
+Sentence 69: Is there any track of them kept?
+THE PRESIDENT.
+Sentence 70: I don't think so.
+Sentence 71: They all appear in the newspapers.
+Sentence 72: That is about all the record we have.
+Sentence 73: Q.
+Sentence 74: It is stated that the telegraph companies have filed 2 million words.
+Sentence 75: THE PRESIDENT.
+Sentence 76: It is a sure thing I haven't said 2 million words.
+Sentence 77: Q. Mr. President, you are an ardent football fan.
+Sentence 78: Will you be at the game Saturday?
+Sentence 79: THE PRESIDENT.
+Sentence 80: I have had that suggestion made to me this morning.
+Sentence 81: But I have had only half an hour to make decisions, and I haven't bothered with any of them.
+Sentence 82: I would like to go to the game--Stanford against the Army.
+Sentence 83: Q. Mr. President, would you care to give any comment on your philosophy of--
+THE PRESIDENT.
+Sentence 84: No, not on this short notice.
+Sentence 85: Is there anything else I can tell you except to take it easy ?
+Sentence 86: Unless something flows in on us from Washington, you won't have work to do for me.

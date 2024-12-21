@@ -1,0 +1,126 @@
+Sentence 1: 1947 The Presidents News Conference 402
+
+THE PRESIDENT.
+Sentence 2: I have no special announcements to make this morning.
+Sentence 3: I thought maybe you might like to ask me some questions that I might be able to answer.
+Sentence 4: [1.]
+Sentence 5: Q. Mr. President, last August, sometime during the summer, you were asked about the transfer of the Unemployment Service and the Unemployment Compensation Service to the Labor Department, and you said you had been thinking about it, but hadn't made up your mind.
+Sentence 6: I wonder have you made up your mind?
+Sentence 7: THE PRESIDENT.
+Sentence 8: I have made up my mind, and I am going to suggest in the reorganization plan after the first of the year, that both be transferred to the Department of Labor.
+Sentence 9: Q.
+Sentence 10: After the first of the year?
+THE PRESIDENT.
+Sentence 11: Yes.
+Sentence 12: [2.]
+Sentence 13: Q. Mr. President, we keep hearing reports that Secretary Forrestal may resign soon.
+Sentence 14: Is there anything to that?
+Sentence 15: THE PRESIDENT.
+Sentence 16: No.
+Sentence 17: That is a categorical answer.
+Sentence 18: [3.]
+Sentence 19: Q. Mr. President, do you intend to do anything about Mr. Stassen's charges that insiders in the administration have been speculating in the commodity market?
+Sentence 20: THE PRESIDENT.
+Sentence 21: I know nothing about it.
+Sentence 22: I have no comment to make on it.
+Sentence 23: Q.
+Sentence 24: You haven't seen the story this morning?
+Sentence 25: THE PRESIDENT.
+Sentence 26: No I haven't.
+Sentence 27: Sorry to say I didn't read Stassen's speech.
+Sentence 28: I read the paper, but I didn't read the speech.
+Sentence 29: [4.]
+Sentence 30: Q. Mr. President, getting back to the switch of those two units of the Government, you mentioned the reorganization plan.
+Sentence 31: How extensive is that reorganization plan going to be?
+THE PRESIDENT.
+Sentence 32: It iS going to be rather extensive, but I can't give you the details until it is ready.
+Sentence 33: Q. Sir, is that the plan former President Hoover is connected with ?
+THE PRESIDENT.
+Sentence 34: No.
+Sentence 35: This is inside the Government.
+Sentence 36: This has nothing to do with the reorganization of the departments.
+Sentence 37: These things will be inside the departments-just transfers.
+Sentence 38: It will not affect the Hoover committee at all.
+Sentence 39: [5.]
+Sentence 40: Q. Mr. President, what is the administration's policy on Federal Reserve Chairman Eccles' proposal for special reserve requirements of banks?
+Sentence 41: Secretary Snyder says--
+THE PRESIDENT.
+Sentence 42: I think, if you will read the message which I sent to Congress, it explains fully and carefully exactly what I meant, and I have no further comment to make on the subject.
+Sentence 43: [6.]
+Sentence 44: Q. Mr. President, referring to your message, no legislation has gone in yet on price control or wage control which you asked for.
+Sentence 45: Do you know if anything will go in this session?
+Sentence 46: THE PRESIDENT.
+Sentence 47: Yes, I can say positively that it will go in, in a couple of days.
+Sentence 48: Everything in that message will be covered by legislation proposed by the administration.
+Sentence 49: Q.
+Sentence 50: All the 10 points will be covered?
+THE PRESIDENT.
+Sentence 51: Yes, all 10 points will be covered.
+Sentence 52: Q.
+Sentence 53: What do you think of the Republican substitute ?
+Sentence 54: THE PRESIDENT.
+Sentence 55: I haven't given it any thought.
+Sentence 56: In fact, I haven't seen the Republican substitute.
+Sentence 57: The message is what I want, and I want it carried out to the letter.
+Sentence 58: I think anything short of that will be inadequate to do the job.
+Sentence 59: Q. Mr. President, with regard to the wage and price controls, would there be any possibility of an administration bill proposing temporary suspension of the antitrust laws, to apply voluntarily--
+THE PRESIDENT.
+Sentence 60: NO.
+Sentence 61: The antitrust laws will be enforced to the limit, as long as I am President.
+Sentence 62: Q. Mr. President, will those price controls cover clothing?
+Sentence 63: THE PRESIDENT.
+Sentence 64: They will cover everything that is necessary to be covered.
+Sentence 65: I can't say positively item for item what it will be, but whatever is necessary to do to make the cost of living come down, that will be included.
+Sentence 66: Q. Cover basic commodities also ?
+Sentence 67: THE PRESIDENT.
+Sentence 68: Yes.
+Sentence 69: [7.]
+Sentence 70: Q. Mr. President, have you chosen a successor to Mr. Dillon Myer yet?
+Sentence 71: THE PRESIDENT.
+Sentence 72: NO.
+Sentence 73: NO successor has been chosen.
+Sentence 74: I will announce it as soon as he is chosen.
+Sentence 75: [8.]
+Sentence 76: Q. Mr. President, if you--about a month ago, you characterized the OPA as a police state method.
+Sentence 77: Would you care to say whether current proposals have any of that aspect?
+Sentence 78: THE PRESIDENT.
+Sentence 79: The police state methods are only when they are carried out by a dictator.
+Sentence 80: If the Congress authorizes the carrying out of price controls, and the President is authorized by Congress to carry them out, that is the free government approach to the thing.
+Sentence 81: [9.]
+Sentence 82: Q. Mr. President, can you tell us when the European Recovery Program will go up?
+THE PRESIDENT.
+Sentence 83: Just as soon as it is ready.
+Sentence 84: Q. Will that be--
+THE PRESIDENT.
+Sentence 85: In a short time.
+Sentence 86: I can't give you the exact date.
+Sentence 87: Q. --this week, Mr. President?
+THE PRESIDENT.
+Sentence 88: No.
+Sentence 89: It will not go up this week.
+Sentence 90: But I will give you the date.
+Sentence 91: lust as quickly as it is ready, I will give you a copy.
+Sentence 92: [10.]
+Sentence 93: Q. Mr. President, in connection with the enforcement of the antitrust laws, there is some sentiment in New England, in connection with the oil shortage up there, that there might be a relaxation of the laws so that oil companies could pool their resources and information, in order to meet spot shortages in certain areas.
+Sentence 94: THE PRESIDENT.
+Sentence 95: There will be no relaxation of the antitrust laws as long as I am President--if I can help it.
+Sentence 96: [11.]
+Sentence 97: Q. Mr. President, will you deliver your European aid message in person, or transmit it?
+Sentence 98: THE PRESIDENT.
+Sentence 99: I will come to that conclusion when I get it ready.
+Sentence 100: I think probably it will be transmitted.
+Sentence 101: It will be too long to read.
+Sentence 102: The Congress wouldn't want to listen to me for a couple of hours, although they listen to each other, sometimes !
+Sentence 103: [Laughter]
+Q.
+Sentence 104: What was your longest speech in the Senate ?
+Sentence 105: THE PRESIDENT.
+Sentence 106: Oh, about 35 minutes.
+Sentence 107: Q. Was it really?
+Sentence 108: THE PRESIDENT.
+Sentence 109: I never did any filibustering in the Senate.
+Sentence 110: Q. Are you opposed to the general policy of filibustering?
+THE PRESIDENT.
+Sentence 111: As a general policy, I am opposed to it.
+Sentence 112: Reporter:
+Sentence 113: Thank you, Mr. President.

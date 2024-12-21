@@ -1,0 +1,260 @@
+Sentence 1: 1949 The Presidents News Conference 616
+
+THE PRESIDENT.
+Sentence 2: I am ready for questions.
+Sentence 3: [1.]
+Sentence 4: Q. Mr. President, are you going to give John L. Lewis a chance to accept a factfinding board before invoking Taft-Hartley?
+THE PRESIDENT.
+Sentence 5: The emergency for Taft-Hartley has not arrived.
+Sentence 6: When we get to that bridge we will cross it.
+Sentence 7: Q.
+Sentence 8: You said at the last press conference you wouldn't hesitate to use Taft-Hartley.
+Sentence 9: THE PRESIDENT.
+Sentence 10: That's correct.
+Sentence 11: When it's time to use it, I will not hesitate to use it.
+Sentence 12: [2.]
+Sentence 13: Q. Mr. President, the Wall Street journal yesterday had a story that the administration had abandoned its hope of budget balancing, and that there will be no new taxes proposed for next year?
+THE PRESIDENT.
+Sentence 14: Well now, the Wall Street Journal must have been standing behind the curtain somewhere that I know nothing about.
+Sentence 15: No such arrangement has been arrived at.
+Sentence 16: Q.
+Sentence 17: They didn't hear accurately?
+THE PRESIDENT.
+Sentence 18: No sir, they did not head accurately.
+Sentence 19: They hardly ever do.
+Sentence 20: [Laughter]
+Sentence 21: [3.]
+Sentence 22: Q. Mr. President, what do you think of the Communist imprisonment of our consul, Angus Ward?
+THE PRESIDENT.
+Sentence 23: I think it's an outrage.
+Sentence 24: Q. Are you doing anything to--
+THE PRESIDENT.
+Sentence 25: The Secretary of State answered every question in connection with that, that you can possibly ask him, so I would advise you to read his press conference for yesterday.
+Sentence 26: 1
+He and I are in complete agreement.
+Sentence 27: 1
+According to the New York Times, Secretary Acheson informed reporters at his press conference on November 16 that the United States would not even consider the possibility of recognizing the Chinese Communists until they released the U.S. officials.
+Sentence 28: [4.]
+Sentence 29: Q. Mr. President, the Atomic Energy Commission scared Washingtonians this morning with their report that advises the dispersal of Government out of Washington.
+Sentence 30: Have you any comment on that?
+Sentence 31: THE PRESIDENT.
+Sentence 32: Well, I have no comment on that--well, I will make one comment on it--it's old stuff.
+Sentence 33: Mr. Steelman answered that in full with a statement in full about an hour and a half ago--or 2 hours, I think.
+Sentence 34: If you will read the statement of Dr. Steelman, you will find your answer right there.
+Sentence 35: Q. Well, sir, in that statement I believe he said he was forwarding it to the Governors and here to the District Commissioners?
+Sentence 36: THE PRESIDENT.
+Sentence 37: Yes.
+Sentence 38: That situation has been under consideration ever since I became chairman of the committee on the--in the Senate.
+Sentence 39: It is absolutely nothing new whatever.
+Sentence 40: Q. Does that mean it is essentially a local problem?
+Sentence 41: THE PRESIDENT.
+Sentence 42: No, it is essentially a problem of civilian defense.
+Sentence 43: It is a part of the National Security Resources Board's business to look into it, and Dr. Steelman has been acting as the chairman of that board; and if you will read the statement I think you will find it thoroughly and completely covers all the questions you want to ask.
+Sentence 44: [5.]
+Sentence 45: Q. Will you request a tax increase?
+Sentence 46: THE PRESIDENT.
+Sentence 47: I will have all that information in the Message on the State of the Union, or the Economic Message when it goes to the Congress.
+Sentence 48: I don't care to discuss it now.
+Sentence 49: Q. Mr. President--well, Mr. President, just following through on that thought, do you know of any other way to meet the deficit without increasing--
+THE PRESIDENT.
+Sentence 50: I think I have said that about 19 times since I have been.--
+Q.
+Sentence 51: I just wanted to get it on the record.
+Sentence 52: THE PRESIDENT.
+Sentence 53: All right.
+Sentence 54: You have it.
+Sentence 55: [6.]
+Sentence 56: Q. Mr. President, do you plan to act in the coal case short of Taft-Hartley emergency as you did in the steel case?
+Sentence 57: THE PRESIDENT.
+Sentence 58: No.
+Sentence 59: [7.]
+Sentence 60: Q. Mr. President, Senator Thomas's remarks on Sweden seem to have caused a little commotion over there.
+Sentence 61: 2
+Have you any comment.
+Sentence 62: THE PRESIDENT.
+Sentence 63: I have no comment.
+Sentence 64: He is giving the facts.
+Sentence 65: 2
+According to newspaper reports Senator Elmer Thomas of Oklahoma became angry with a country, reported to be Sweden, when that country ignored his Armed Forces Subcommittee of the Senate Appropriations Committee which was touring European countries to investigate conditions in countries aided by the United States.
+Sentence 66: [8.]
+Sentence 67: Q. Mr. President, can you make any comments on the Philippine elections?
+Sentence 68: President Quirino, according to the latest reports, has a majority of 400,000 votes--
+THE PRESIDENT.
+Sentence 69: We have no official report on the outcome of that election.
+Sentence 70: Whenever we are furnished with the official report on the election, I shall make a comment.
+Sentence 71: [9.]
+Sentence 72: Q. Mr. President, is it your feeling that to begin a coal strike again on December 1st would create a national emergency?
+Sentence 73: THE PRESIDENT.
+Sentence 74: I will answer that question on December the 1st.
+Sentence 75: Q. Mr. President, do you intend to appoint a coal factfinding board?
+Sentence 76: THE PRESIDENT.
+Sentence 77: I will cross that river when I come to it.
+Sentence 78: Q.
+Sentence 79: Well now, Mr. President, we are a little confused.
+Sentence 80: I need clarification.
+Sentence 81: You said you didn't plan any action short of Taft-Hartley--
+THE PRESIDENT.
+Sentence 82: That's correct.
+Sentence 83: The Taft-Hartley provides for factfinding.
+Sentence 84: [10.]
+Sentence 85: Q. Mr. President, the term of NLRB member J. Copeland Gray expires, I think, December 16th.
+Sentence 86: He is generally regarded as being the most Taft-Hartley minded man on the board.
+Sentence 87: Do you have any plans for either replacing or reappointing Mr. Gray?
+THE PRESIDENT.
+Sentence 88: I have no comment on that at the present time.
+Sentence 89: [11.]
+Sentence 90: Q. Mr. President, I need some clarification--
+THE PRESIDENT.
+Sentence 91: Good!--go ahead.
+Sentence 92: Q.
+Sentence 93: We are all bewildered, sir.
+Sentence 94: Q.--regarding the Taft-Hartley law.
+Sentence 95: Do we--is it proper to assume from your answer that you are planning no action short of the Taft-Hartley--
+THE PRESIDENT.
+Sentence 96: That's right.
+Sentence 97: Q.--or that you won't act without Taft-Hartley law, or don't act?
+Sentence 98: THE PRESIDENT.
+Sentence 99: Whenever the time comes that it is necessary I will use the Taft-Hartley law, and all the laws on the books.
+Sentence 100: That is my business--to enforce the law, and that is what I intend to do.
+Sentence 101: Q.
+Sentence 102: In other words, it wouldn't be anything like in steel, in this case?
+Sentence 103: THE PRESIDENT.
+Sentence 104: No.
+Sentence 105: No.
+Q.
+Sentence 106: Mr. President, do you still feel that December 1st will be that date?
+Sentence 107: THE PRESIDENT.
+Sentence 108: I Can't answer that question.
+Sentence 109: I have to find an emergency before I take action.
+Sentence 110: [12.]
+Sentence 111: Q. Mr. President, would you comment on a proposal of Governor Pastore of Rhode Island that the Federal Government either take over the unemployment compensation system entirely or adopt some kind of Federal reinsurance scheme to help States where the jobless funds are going broke?
+THE PRESIDENT.
+Sentence 112: That has been a matter for argument for a long, long time.
+Sentence 113: I have no comment on it.
+Sentence 114: [13.]
+Sentence 115: Q. Mr. President, Winston Churchill said today that the United States and Great Britain should grant de facto recognition to the Chinese Communist regime.
+Sentence 116: How do you feel about that?
+Sentence 117: THE PRESIDENT.
+Sentence 118: He is perfectly entitled to that opinion.
+Sentence 119: I have no comment on it.
+Sentence 120: [14.]
+Sentence 121: Q. Mr. President, are you going to name Governor Knous of Colorado for a Federal judgeship?
+Sentence 122: THE PRESIDENT.
+Sentence 123: I haven't made up my mind who is going to get the job.
+Sentence 124: When I do, I will announce it right here and you will know all about it.
+Sentence 125: Q. What about Glenn?
+THE PRESIDENT.
+Sentence 126: I have no announcements to make.
+Sentence 127: When I get ready to do so, I will make them from this desk right here.
+Sentence 128: [15.]
+Sentence 129: Q. Mr. President, there have been persistent reports that American policy in Western Germany now contemplates the creation of a small German army.
+Sentence 130: Would you comment on that?
+Sentence 131: THE PRESIDENT.
+Sentence 132: That is a statement that was made out of the whole cloth by a newspaperman in Paris, and there isn't a word of truth in it.
+Sentence 133: Q.
+Sentence 134: That means we do not, sir, and we are against it?
+Sentence 135: THE PRESIDENT.
+Sentence 136: There isn't a word of truth in that rumor that was started in Paris.
+Sentence 137: I think Dean Acheson covered it thoroughly yesterday in his press conference.
+Sentence 138: 3
+3
+As reported in the press, Secretary Acheson denied that the three foreign ministers at their recent meeting in Paris had discussed or even considered the possibility of creating a small army in Germany.
+Sentence 139: The Secretary further stated that he had denied this report previously and he emphasized the fact that the State Department had given no consideration to such a prospect.
+Sentence 140: Q. Well, that is why we asked you, sir.
+Sentence 141: We had doubts about it, after he did get through with it.
+Sentence 142: THE PRESIDENT.
+Sentence 143: I don't see why you did.
+Sentence 144: I read what he had to say and it was perfectly clear.
+Sentence 145: Q. Is it correct, sir, to infer from that that American policy is against the creation of an army--
+THE PRESIDENT.
+Sentence 146: I am making no American policy from this desk.
+Sentence 147: Q.
+Sentence 148: I didn't get your reply, sir?
+Sentence 149: Q. I didn't understand it?
+Sentence 150: THE PRESIDENT.
+Sentence 151: I am making no American policy with respect to Germany from this desk.
+Sentence 152: That is a matter that has to be worked out between the powers that are interested.
+Sentence 153: Q. Mr. President, is Mr. McCloy going to remain in Germany?
+Sentence 154: THE PRESIDENT.
+Sentence 155: Yes, sure.
+Sentence 156: That is what I sent him there for.
+Sentence 157: Q. Mr. President, if you found out that some of our officers in Germany have been discussing the formation of a proposed army with representatives of the German Government in Bonn, would you discipline those officers?
+Sentence 158: THE PRESIDENT.
+Sentence 159: I am not in close contact with the situation in Germany itself.
+Sentence 160: That is what I have Mr. McCloy over there for.
+Sentence 161: [16.]
+Sentence 162: Q. Mr. President, this morning Mr. Crosser came in to talk with you, and he said he talked about the Mexican oil situation?
+THE PRESIDENT.
+Sentence 163: It is still under consideration, as I told Congressman Crosser.
+Sentence 164: Q. Still under consideration?
+THE PRESIDENT.
+Sentence 165: Yes.
+Sentence 166: [17.]
+Sentence 167: Q. Mr. President, can you say anything about the range of your discussion with Mr. Acheson this morning on Far East policy?
+Sentence 168: THE PRESIDENT.
+Sentence 169: No. I made a statement just--Charlie Ross released a statement on it which covered the ground.
+Sentence 170: 4
+4
+The release stated that a Regional Conference of the Chiefs of the United States Missions in Eastern Asia and the Far East would be held at Bangkok, Thailand, the end of January.
+Sentence 171: In connection with preparations for the conference, the release added, the President held a meeting at the White House earlier in the day to discuss questions relating to United States policy in the area.
+Sentence 172: Those present, in addition to the President, were Secretary of State Dean Acheson, Under Secretary of State James E. Webb, Assistant Secretary of State W. Walton Butterworth, Ambassadors Philip C. Jessup and J. Leighton Smart, and State Department Consultants Raymond B. Fosdick and Everett C. Case.
+Sentence 173: [18.]
+Sentence 174: Q. Mr. President, do you care to comment on your visit with Mr. Malone of California?
+Sentence 175: THE PRESIDENT.
+Sentence 176: Just a pleasant, friendly visit.
+Sentence 177: He is a friend of mine.
+Sentence 178: When he comes to Washington he comes in to see me, and talks about the state of the Union, and other things.
+Sentence 179: Q. Did you talk about the governorship campaign?
+Sentence 180: THE PRESIDENT.
+Sentence 181: I imagine he did.
+Sentence 182: [Laughter]
+Sentence 183: [19.]
+Sentence 184: Q. Mr. President, I want to ask a very simple one, for our work prospects next week.
+Sentence 185: Do you plan a press conference next week?
+Sentence 186: Thanksgiving Day falls on Thursday--I didn't know--
+THE PRESIDENT.
+Sentence 187: I won't have a press conference on Thursday.
+Sentence 188: [Laughter]
+Q. Will you have one next week?
+Sentence 189: THE PRESIDENT.
+Sentence 190: If we decide to have one, it will probably be on Friday.
+Sentence 191: [20.]
+Sentence 192: Q. Would you care to comment, Mr. President, on the candidacy of James Roosevelt for Governor?
+THE PRESIDENT.
+Sentence 193: I have no comment.
+Sentence 194: That is a primary contest, and the President never mixes in a primary contest; but when the Democrats get ready to operate against the Republicans, then I will take a hand if it is necessary.
+Sentence 195: [21.]
+Sentence 196: Q. Mr. President, have you a new chairman for your Council of Economic Advisers?
+Sentence 197: THE PRESIDENT.
+Sentence 198: No, I haven't.
+Sentence 199: [22.]
+Sentence 200: Q. Mr. President, Senator Douglas of Illinois has a plan for cutting about 40 billion off the 1951 fiscal year budget?
+Sentence 201: THE PRESIDENT.
+Sentence 202: I wonder why he didn't put that plan into effect in the Congress that has just adjourned?
+Sentence 203: They were going to cut ever so much off that budget, and they came up here with a bigger one than I asked them for.
+Sentence 204: When I make the 1951 budget it will be just as hard to do anything about it as it was with the 1950 budget.
+Sentence 205: Q.
+Sentence 206: Who made that suggestion, Mr. President?
+Sentence 207: I didn't catch it.
+Sentence 208: THE PRESIDENT.
+Sentence 209: Senator Douglas of Illinois.
+Sentence 210: He has made it time and again before.
+Sentence 211: It's easy enough to stand outside and say what ought to be done about the budget, but when you try to make it up, it's a different story.
+Sentence 212: Q. Mr. President, what do you mean by it is going to be hard to do anything about?
+Sentence 213: THE PRESIDENT.
+Sentence 214: It is going to be a tight budget, just like the 1950 budget was.
+Sentence 215: It is going to be an honest budget, because I know how to make it.
+Sentence 216: Q. Mr. President, will it be smaller or larger?
+THE PRESIDENT.
+Sentence 217: I can't answer that question.
+Sentence 218: Q. Will there be anything--
+THE PRESIDENT.
+Sentence 219: That will appear in the Budget Message.
+Sentence 220: Q. Mr. President, will there be anything in it on moving the Government out of Washington?
+Sentence 221: THE PRESIDENT.
+Sentence 222: No.
+Sentence 223: [Laughter]
+Reporter:
+Sentence 224: Thank you, Mr. President.
+Sentence 225: THE PRESIDENT.
+Sentence 226: You're welcome.

@@ -1,0 +1,244 @@
+Sentence 1: 1950 The Presidents News Conference 575
+
+THE PRESIDENT.
+Sentence 2: I have no special announcements to make.
+Sentence 3: I will try to answer questions.
+Sentence 4: [1.]
+Sentence 5: Q. Mr. President, is the FEPC bill which the House passed today satisfactory to you?
+Sentence 6: 1
+THE PRESIDENT.
+Sentence 7: I haven't seen the bill.
+Sentence 8: I haven't read it, but my position on FEPC has been made perfectly plain in various messages I sent the Congress.
+Sentence 9: 1
+Sentence 10: On February 23 the House of Representatives passed a bill (H.R. 4453) to establish a Fair Employment Practice Commission and to aid in eliminating discrimination in employment because of race, color, or creed.
+Sentence 11: The Senate failed to complete action on a similar bill (S. 1728) when moves to invoke the cloture rule were defeated on May 19 and July 12, 1950.
+Sentence 12: Q. Mr. President, this is a slightly philosophical question, because it has come up several times in the debate up there.
+Sentence 13: Do you think it is possible to prohibit or legislate against racial discrimination, against people of equal aptitude in job opportunity, and still permit a man to operate his business with the right to fire and hire whom he pleases?
+THE PRESIDENT.
+Sentence 14: I have always thought so.
+Sentence 15: Q. Mr. President, we couldn't hear.
+Sentence 16: THE PRESIDENT.
+Sentence 17: I said I have always thought so.
+Sentence 18: [2.]
+Sentence 19: Q. Mr. President, Representative Durham, who is the Vice Chairman of the Joint House and Senate Atomic Energy Committee, says that he thinks the current agitation for a new approach to Russia on atomic control might be dangerous.
+Sentence 20: I just wondered if you had any thoughts on that subject?
+THE PRESIDENT.
+Sentence 21: Well, I don't know what result he hopes to obtain.
+Sentence 22: We have made every approach possible through the regular channels, and through the United Nations, in an endeavor to reach such an agreement.
+Sentence 23: And we haven't been able to reach it.
+Sentence 24: I don't see any reason for what they call a new approach.
+Sentence 25: They are expecting something highly dramatic, some great showpiece to take place.
+Sentence 26: I don't think the matter can be settled in that manner, and I have never thought so.
+Sentence 27: Q.
+Sentence 28: I don't know whether I have got his position wrong, but he says that the current agitation for such a move might be dangerous.
+Sentence 29: THE PRESIDENT.
+Sentence 30: Well, I don't know about that.
+Sentence 31: I don't know what he is thinking about.
+Sentence 32: Q. Didn't you say virtually that in your Alexandria speech yesterday, Mr. President?
+THE PRESIDENT.
+Sentence 33: Yes, I thought I made it very clear.
+Sentence 34: I tried to put it in the simplest English possible in that Alexandria speech, and I think it covers the situation very well.
+2
+2
+Item 42.
+Sentence 35: Q. Has there been any sign of any new feeler from Russia, Mr. President?
+THE PRESIDENT.
+Sentence 36: No, there has not.
+Sentence 37: [3.]
+Sentence 38: Q. Mr. President, do you plan to send another representative to the Vatican?
+Sentence 39: THE PRESIDENT.
+Sentence 40: The matter has been under consideration ever since Mr. Taylor resigned, and no decision has been reached as yet.
+Sentence 41: [4.]
+Sentence 42: Q. Mr. President, Congressman Biemiller of Wisconsin quoted you as saying that you and he agree that you would like to replace Senator Wiley with a Democrat this year.
+Sentence 43: I wonder if that is correct?
+Sentence 44: THE PRESIDENT.
+Sentence 45: Well, I am exceedingly hopeful that a great many Republicans will be replaced by Democrats, and of course, if Senator Wiley is up for election, that would include him.
+Sentence 46: [Laughter]
+Sentence 47: [5.]
+Sentence 48: Q. Mr. President, can you see any danger in a one-party system?
+Sentence 49: THE PRESIDENT.
+Sentence 50: What's that?
+Sentence 51: I don't like a one-party system.
+Sentence 52: We haven't two parties now; we've got about four.
+Sentence 53: [6.]
+Sentence 54: Q. Mr. President, have you decided-this action of the Senate yesterday, for an investigation into alleged subversive employees in the State Department; they voted to give the power to subpoena confidential employment and loyalty records.
+Sentence 55: I wonder if you have given the departments any instructions on that?
+Sentence 56: THE PRESIDENT.
+Sentence 57: I think I issued very clear instructions on that some time back.
+Sentence 58: It still stands.
+Sentence 59: I have told the Committee--the Foreign Relations Committee--that I would cooperate with them in every way possible to disprove false charges that have been made by Mr. McCarthy.
+Sentence 60: [7.]
+Sentence 61: Q. Mr. President, what are the four parties you had in mind?
+Sentence 62: THE PRESIDENT.
+Sentence 63: Well, there's the Dixiecrats--half Republican; there's the Republican Party; and there's what's left of Mr. Wallace's party; and there's a real national party, the Democratic Party.
+Sentence 64: [Laughter]
+Q. How about the Socialist?
+THE PRESIDENT.
+Sentence 65: Oh, they don't count.
+Sentence 66: Q.
+Sentence 67: They don't count?
+Sentence 68: THE PRESIDENT.
+Sentence 69: They have never had an electoral vote in the history of the country.
+Sentence 70: [8.]
+Sentence 71: Q. Mr. President, are you considering any new moves in the coal crisis?
+Sentence 72: THE PRESIDENT.
+Sentence 73: The coal crisis is in the hands of the courts right now, and I have no comment to make on that question.
+Sentence 74: Q. Mr. President, are you getting any red ports of progress from your observers in the coal negotiations?
+Sentence 75: THE PRESIDENT.
+Sentence 76: I hear from them every day.
+Sentence 77: Q. Are there any--
+THE PRESIDENT.
+Sentence 78: No comment will be made on the matter.
+Sentence 79: It's in the courts now.
+Sentence 80: I told you that to begin with.
+Sentence 81: I can't comment on it.
+Sentence 82: It's a matter for the courts.
+Sentence 83: [9.]
+Sentence 84: Q. Mr. President, in answering that question about the McCarthy investigation, you said you told the Foreign Relations Committee that you would cooperate in any way to disprove the false charges.
+Sentence 85: You mean by that any way short of delivering these records
+THE PRESIDENT.
+Sentence 86: I will answer that question when it comes up.
+Sentence 87: You needn't put words in my mouth
+Q. I didn't mean that at all.
+Sentence 88: THE PRESIDENT.
+Sentence 89: --as
+Sentence 90: I told someone else the other day.
+Sentence 91: Q.
+Sentence 92: But you are not saying now, sir, that you won't give the records--
+THE PRESIDENT.
+Sentence 93: I am not saying anything further to what I said in my directive to the various departments, which is very clear.
+Sentence 94: 3
+Q. That directive still--
+THE PRESIDENT.
+Sentence 95: That directive still stands.
+Sentence 96: 3
+Sentence 97: For the President's directive of March 15, 1948, on the need for maintaining the confidential status of employee loyalty records, see 1948 volume, this series, Item 50.
+Sentence 98: Q.
+Sentence 99: That was the directive, sir, in which you said not to turn over the--
+THE PRESIDENT.
+Sentence 100: That is correct.
+Sentence 101: Q. Mr. President, wasn't there something in that, sir, that said to refer all requests to you?
+THE PRESIDENT.
+Sentence 102: That is correct.
+Sentence 103: Q.
+Sentence 104: That part of it still stands?
+THE PRESIDENT.
+Sentence 105: That part of it still stands.
+Sentence 106: Q.
+Sentence 107: The subpoena would make no difference?
+THE PRESIDENT.
+Sentence 108: Not the slightest in the world.
+Sentence 109: You can't very well--I was going to say, it's pretty hard to serve a subpoena on the President of the United States.
+Sentence 110: [Laughter] Who is going to enforce it?
+Sentence 111: [10.]
+Sentence 112: Q. Mr. President, if it is contemplated going to Grand Coulee this spring, are you going to make any speeches on the way out and on the way back?
+Sentence 113: THE PRESIDENT.
+Sentence 114: Well, I have been invited to dedicate the Grand Coulee Dam, which is now finished--I think it has all the generators in, and in place.
+Sentence 115: And there has been some discussion about my making a trip out there.
+Sentence 116: No decision has been made on it, but I think your guess is right, that if we do go there will be some stops along the road.
+Sentence 117: Q.
+Sentence 118: That was the nonpolitical trip you were referring to last week?
+Sentence 119: THE PRESIDENT.
+Sentence 120: That is correct.
+Sentence 121: Probably be some whistlestops on the way there and on the way back.
+Sentence 122: Q. Will that be April when
+THE PRESIDENT.
+Sentence 123: No decision has been made on that yet.
+Sentence 124: I have been invited.
+Sentence 125: Like every other invitation that I get--and I get many every day to go somewhere--I have taken it under consideration.
+Sentence 126: Q. Mr. President, how do we tell what is political and what is nonpolitical?
+Sentence 127: [Laughter]
+THE PRESIDENT.
+Sentence 128: You will have to make up your own mind on that.
+Sentence 129: That is for you to decide.
+Sentence 130: [Laughter]
+Q.
+Sentence 131: We didn't hear that.
+Sentence 132: THE PRESIDENT.
+Sentence 133: I told her that is for her to make up her own mind on that.
+Sentence 134: That is for her to decide, whether it is nonpolitical or not.
+Sentence 135: Q.
+Sentence 136: You can make a political speech or a nonpolitical speech.
+Sentence 137: THE PRESIDENT.
+Sentence 138: Oh yes, it can be done very nicely.
+Sentence 139: Any speech I make or any statement I make is political.
+Sentence 140: It doesn't make any difference whether it is made here or whether it is made in Alexandria, Va., or in New York, or on the back platform of a train.
+Sentence 141: Q.
+Sentence 142: What about when you discuss the issues, Mr. President?
+THE PRESIDENT.
+Sentence 143: That is political, too.
+Sentence 144: [Laughter] That is political, too.
+Sentence 145: Q. Well, when is it not political ?
+Sentence 146: THE PRESIDENT.
+Sentence 147: Well, here is the situation you have got to take under consideration.
+Sentence 148: The speech that I made in Alexandria was on the bipartisan foreign policy.
+Sentence 149: That is not supposed to be a matter for local political discussion.
+Sentence 150: That is to be treated as if it was a speech like the one I made once before, which was purely a domestic political statement of my views and how they ought to be carried out.
+Sentence 151: I was speaking in Alexandria for the whole country, and not for any political party.
+Sentence 152: Q. How would you define political, Mr. President?
+THE PRESIDENT.
+Sentence 153: Well, there are lots of definitions for it.
+Sentence 154: Q.
+Sentence 155: What is yours?
+Sentence 156: THE PRESIDENT.
+Sentence 157: I think I have told you that a politician is a man who understands government.
+Sentence 158: Usually, if he understands it well enough and has made a reputation, as he should have, he will wind up--when he is dead--by being called a statesman.
+Sentence 159: You have to have your own definition of what to call things political.
+Sentence 160: It depends altogether on what your viewpoint is.
+Sentence 161: If you are for it, it is statesmanlike.
+Sentence 162: If you are against it, it is purely low politics!
+Sentence 163: [Laughter]
+Sentence 164: [11.]
+Sentence 165: Q. Mr. President, how would you define the speech of Senator Byrd, who called you a stumbling block to balancing the budget?
+Sentence 166: THE PRESIDENT.
+Sentence 167: That is purely political.
+Sentence 168: [Laughter]
+Q.
+Sentence 169: He was a statesman.
+Sentence 170: Q.
+Sentence 171: What was that question, sir, we didn't get that question?
+THE PRESIDENT.
+Sentence 172: He wanted to know how I would define Senator Byrd's statement in yesterday's Baltimore Sun--the Sun is a great supporter of Byrd--and I said it was purely political.
+Sentence 173: [12.]
+Sentence 174: Q. Mr. President, would you define that half-Republican Party some more?
+THE PRESIDENT.
+Sentence 175: The half-Republican Party?
+Sentence 176: Well, the Republican Party is split in two.
+Sentence 177: It has two wings, just like the Democratic Party does.
+Sentence 178: [13.]
+Sentence 179: Q. Mr. President, have you any intention of listening in on the radio this evening to the results of the British elections?
+Sentence 180: THE PRESIDENT.
+Sentence 181: I don't think it is possible to get the returns immediately.
+Sentence 182: The last time the British had an election, it was 3 days before they decided to count the vote.
+Sentence 183: And I think we will have to wait until the report is made by the people who count the votes.
+Sentence 184: They don't count their votes like we do.
+Sentence 185: They impound them and then after they have been collected they count the votes at a later time, after the election.
+Sentence 186: [14.]
+Sentence 187: Q. Mr. President, do you feel that the Voice of America is handicapped by the difficulty of getting news up on the Hill ?
+Sentence 188: THE PRESIDENT.
+Sentence 189: Yes I do, and I think it is also handicapped by a lack of appropriations, principally.
+Sentence 190: [15.]
+Sentence 191: Q. Mr. President, when you spoke about the difficulty of serving a subpoena on you, did you mean you were protected by the courts or the Secret Service?
+Sentence 192: THE PRESIDENT.
+Sentence 193: I am protected by the Government of the United States.
+Sentence 194: You ought to know that it has been tried.
+Sentence 195: You remember a certain statement by a gentleman named Jackson?
+Sentence 196: "The Chief Justice of the Supreme Court has made his decision, now let us see him enforce it."
+Sentence 197: You remember that, don't you ?
+Sentence 198: Q.
+Sentence 199: Oh yes.
+Sentence 200: [16.]
+Sentence 201: Q. Mr. President, going back to coal, Mr. Case put in a bill today to declare a national emergency.
+Sentence 202: 4
+THE PRESIDENT.
+Sentence 203: What's that?
+Sentence 204: 4 The bill was referred to the Committee on Education and Labor.
+Sentence 205: It was not reported out by that Committee.
+Sentence 206: Q. Mr. Case put in a bill in the House today to declare a national emergency in the coal situation, and asks the coal miners back and asks the Government to call out the National Guard to make them go back.
+Sentence 207: Do you think that will do any good?
+THE PRESIDENT.
+Sentence 208: I have no comment on that.
+Sentence 209: Reporter:
+Sentence 210: Thank you, Mr. President.
+Sentence 211: THE PRESIDENT.
+Sentence 212: You're welcome.

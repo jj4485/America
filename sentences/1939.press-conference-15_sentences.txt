@@ -1,0 +1,598 @@
+Sentence 1: 1939 Press Conference 15
+
+THE PRESIDENT:
+Sentence 2: Steve
+Sentence 3: [Mr. Early] suggests, because there are quite a number of new faces, we repeat that this is not a Press Conference in any sense of the word.
+Sentence 4: It is merely an effort to be helpful in explaining the Budget Message and a lot of figures for your own help.
+Sentence 5: That follows the custom of other years.
+Sentence 6: Of course, the release of this is not until it is actually delivered to the Congress tomorrow at twelve o'clock.
+Sentence 7: Q.
+Sentence 8: May I ask a question?
+Sentence 9: There is a certain type of stories which, I understand, has been criticized, coming from this Conference.
+Sentence 10: Would you care to elaborate on that?
+Sentence 11: THE PRESIDENT: For the benefit of interpreters or columnists, I do not think we want personal stories about wisecracks that are made or about my turning to the Director of the Budget, or the Director of the Budget not knowing the answer to the question.
+Sentence 12: After all, that is between us and I think probably it is better that the columnists should not use that kind of stuff, if they do not mind.
+Sentence 13: MR. EARLY: It is just Off the record.
+Sentence 14: THE PRESIDENT:
+Sentence 15: Yes, off the record.
+Sentence 16: (Reading)
+THE BUDGET AND THE NATIONAL INCOME
+"Taxation yields almost all of the income of the Government, leaving less than 5 per cent to come from miscellaneous sources.
+Sentence 17: Revenue from taxes depends mainly on two factors: The rate of taxation and the total of the national income.
+Sentence 18: This holds true not only of direct taxes on personal and corporate income but also of what are known as ad valorem taxes or other forms of indirect taxes, for the very good reason that the volume and value of goods produced or articles imported vary with the rise or fall of the Nation's total income.
+Sentence 19: "We can and do fix the rate of taxation definitely by law.
+Sentence 20: We cannot by a simple legislative act raise the level of national income, but our experience in the last few years has amply demonstrated that through wise fiscal policies and other acts of government we can do much to stimulate it.
+Sentence 21: "Today the Nation's income is in the neighborhood of 60 billion dollars a year.
+Sentence 22: A few years ago it was much lower.
+Sentence 23: It is our belief that it ought to be much higher.
+Sentence 24: "In order that you may know the amount of revenue which the Government may expect under the existing tax structure as the national income rises, the following table is submitted.
+Sentence 25: It shows the estimated revenues which may be derived when national income reaches certain levels between 70 billion and 90 billion dollars."
+"The table is not intended to indicate the national income for any particular year and, of necessity, the estimates are rough and may vary somewhat either way.
+Sentence 26: Since taxes are paid from one month to fifteen months after income is realized, the achievement of a 90 billion dollar national income in one year will not, for instance, mean tax collections of 10 billion dollars in that same year.
+Sentence 27: This table is an indicator and not a gauge.
+Sentence 28: "During the past nine fiscal years—a period which has seen the national income drop from a high of 81 billion dollars in the calendar year 1929 to around 40 billion dollars in 1932 and rise again to about 70 billion dollars in 1937—Federal revenues, even though on a higher tax base, have never completely covered expenditures.
+Sentence 29: "We require continual study of the revenues necessary to carry on the normal functions of the Federal Government and of the role which Federal policy should play in the stabilization of the national economy.
+Sentence 30: "This study includes a consideration of: (a) The practicability of reclassifying expenditures on a functional basis and the most appropriate methods of financing the different classifications; (b) the problem of human security including relief and its costs; and (c) the correlation between national income on the one hand and Government receipts and expenditures on the other.
+Sentence 31: "And analysis of receipts and expenditures by major classes over a ten-year period, as set forth in the following table, indicates the nature of the problems to be studied.
+Sentence 32: "
+Now, this is a new breakdown of all kinds of old figures that they have had in the past.
+Sentence 33: It is an effort to classify, in a somewhat new way which would be much more readily understood by the average man on the street, I think, than the old way.
+Sentence 34: The receipts are put down as they always have been, practically, but they have been reduced to a smaller number of categories than we had before.
+Sentence 35: Then, the expenditures have been classified into two kinds, large groups, ordinary expenditures and extraordinary expenditures, which is a rule-of-thumb method of doing it.
+Sentence 36: We could argue among ourselves, and you could write sententious editorials about one item going in one group when it should go in another; but it is an effort to simplify public thought on what types of expenditures they go under.
+Sentence 37: These first expenditures, in the first group, refer to legislative, judicial and civil establishments, and that includes, at the bottom, independent offices and commissions and supplemental items.
+Sentence 38: You will note that, out of the total budget, they run—in that first group of expenditures—to somewhere around an average of $700,000,000 to $800,000,000 in the last few years; in other words, definitely less than $1,000,000,000.
+Sentence 39: That is what I was referring to this morning in the speech when I said that, obviously, anybody can, by cutting off certain functions, save a percentage on the State Department and the Department of Justice and the Interstate Commerce Commission, et cetera; but the percentage would necessarily be small unless you stopped the activities; and it would be a percentage of a comparatively small sum, in other words, less than $1,000,000,000.
+Sentence 40: National defense is an item which, of course, I referred to this morning as a very large item which the Congress can cut if it wishes to and make great savings.
+Sentence 41: This year it is estimated that we shall spend $1,017,000,000 and next year, $1,126,000,000.
+Sentence 42: That increase is made up almost entirely by the progress of work on the new battleships.
+Sentence 43: On veterans' pensions and benefits, it is $540,000,000 this year and next year, $539,000,000; in other words, the same figure.
+Sentence 44: It is a very large item of over half a billion, as to which great savings can be made by the Congress, if it so wishes.
+Sentence 45: The next item is interest on the public debt.
+Sentence 46: Then the next is refunds of receipts, the Agricultural Adjustment program, practically the same but not quite as much this year as in the year just passed; it will be $694,000,000 next year.
+Sentence 47: There again, great savings are possible.
+Sentence 48: On social security, $833,000,000 this year and $928,000,000 next year.
+Sentence 49: That is another large item which can be cut by eliminating part or all of the social security system.
+Sentence 50: On railroad retirement, that is automatically, under the present law, $112,000,000 and it goes up to $127,000,000.
+Sentence 51: Of course that may be cut.
+Sentence 52: Supplemental items have gone down from $130,000,000 to $50,000,000.
+Sentence 53: Well, that gives you a total for the legislative, judicial and civil establishments of $865,000,000 plus these very large items for national defense, etc., down in that group, and that gives you a total increase in next year's budget over this year's from $5,251,000,000 to $5,537,000,000.
+Sentence 54: Then there is the new item on the next line which you have all been trying to find out about and which everybody gets wrong—the new national defense program, which calls for $210,000,000 in next year's budget.
+Sentence 55: Q.
+Sentence 56: What do you mean by this year?
+Sentence 57: THE PRESIDENT: 1940's budget.
+Sentence 58: In other words, what we want very much is to get the appropriation for national defense through at this time, $210,000,000 this year, well enough before the first of July so that we can get the actual national defense work under contract as quickly as possible after the first day of July.
+Sentence 59: We want to get the thing going and it is estimated we can spend $210,000,000 during the following year from July 1, 1939, to 1940.
+Sentence 60: The breakdown of that $210,000,000 you won't get until next Monday, Tuesday or Wednesday, when I send the National Defense Message up.
+Q.
+Sentence 61: That increase, you consider that a part of the work that was already authorized on battleships?
+Sentence 62: THE PRESIDENT:
+Sentence 63: Yes.
+Sentence 64: Then you come down to the next item under extraordinary expenditures—a group of them listed under "Public works."
+Sentence 65: All of these are of course, susceptible of being cut down.
+Sentence 66: We have already estimated a cut on highways expenditures from $232,000,000 to $213,000,000; T.V.A. from $43,000,000 to $40,000,000; reclamation from $93,000,000 to $68,000,000; rivers and harbors improvement, from $83,000,000 to $60,000,000; flood control practically the same, it goes up from $98,000,000 to $101,000,000; public buildings from $60,000,000 to $62,000,000; grants to public bodies, including administration, drops from $392,000,000 to $366,000,000.
+Sentence 67: What is that, Dan
+Sentence 68: [Mr. Daniel Bell, Acting Director of the Budget]?
+MR. BELL.:
+Sentence 69: That is P.W.A. largely.
+Sentence 70: Q.
+Sentence 71: That does not include social security?
+Sentence 72: THE PRESIDENT: No, social security is in the top group.
+Sentence 73: Q.
+Sentence 74: The other is P.W.A.?
+Sentence 75: THE PRESIDENT:
+Sentence 76: Yes.
+Sentence 77: The total of that group [public works]drops from $1,229,000,000 to $1,044,000,000.
+Sentence 78: Then unemployment relief, still under the extraordinary expenditures, drops from $97,000,000 to $42,000,000 in the direct relief category; work relief, which is W.P.A., etc., drops from $1,604,000,000 down to $7,000,000.
+Sentence 79: Of course that is picked up later, that is the last item.
+Sentence 80: The Civilian Conservation Corps, is practically the same; it drops from $290,000,000 to $285,000,000.
+Sentence 81: The supplemental items rise from $750,000,000 to $1,685,000,000, which, roughly, is the offset against that second item.
+Sentence 82: Q. Would you care to break that down, W.P.A., N.Y.A. and C.C.C.?
+Sentence 83: THE PRESIDENT: $1,500,000,000 for W.P.A.; $125,000,000 for N.Y.A., and $60,000,000 for Farm Security.
+Sentence 84: That is over on another table; I could not tell you the number of the page.
+Sentence 85: Q. Will that indicate a shift from W.P.A. to some other form of relief?
+Sentence 86: THE PRESIDENT:
+Sentence 87: No.
+Q.
+Sentence 88: Why was the change made?
+Sentence 89: We got this all under W.P.A. before?
+Sentence 90: THE PRESIDENT:
+Sentence 91: Yes, they still are.
+Sentence 92: Q.
+Sentence 93: That is, the supplemental items will be W.P.A.?
+Sentence 94: THE PRESIDENT:
+Sentence 95: But Farm Security was not.
+Sentence 96: Q.
+Sentence 97: This supplemental item would include the W.P.A.?
+THE PRESIDENT:
+Sentence 98: Oh, yes.
+Sentence 99: Q.
+Sentence 100: It does not imply the liquidation of W.P.A.?
+Sentence 101: THE PRESIDENT:
+Sentence 102: No.
+Q. Is that for a limited length of time or twelve months?
+Sentence 103: MR. BELL.
+Sentence 104: We hope it will last the twelve months.
+Sentence 105: Q.
+Sentence 106: You suggest no limitation on it?
+Sentence 107: THE PRESIDENT: It is the Annual Budget.
+Sentence 108: You do not suggest any limitation on a regular budget.
+Sentence 109: It is the fiscal year.
+Sentence 110: Q.
+Sentence 111: Can you break down that $750,000,000 supplemental item under 1939?
+Sentence 112: THE PRESIDENT: That is all W.P.A.
+Q.
+Sentence 113: That will be for the remaining five months of the year?
+Sentence 114: MR. BELL:
+Sentence 115: That is right.
+Sentence 116: Farm Security and N.Y.A. got their money for the full year.
+Sentence 117: THE PRESIDENT:
+Sentence 118: Then you come to a technical thing, loans, subscriptions to stock, et cetera, which goes from $271,000,000 to $120,000,000, and that has a supplemental item too.
+Sentence 119: Dan
+Sentence 120: [Mr. Bell], I think you are trying to conceal something.
+Sentence 121: What is it?
+MR. BELL:
+Sentence 122: That is Commodity Credit.
+Sentence 123: THE PRESIDENT:
+Sentence 124: So the total of the extraordinary expenditures drops from $4,241,000,000 down to $3,458,000,000.
+Sentence 125: So that, on your total expenditures, exclusive of debt retirement, you drop from a budget—that is the important item—you drop from $9,492,000,000 to $8,995,000,000 for the current fiscal year.
+Sentence 126: That leaves a net deficit of $3,326,000,000 as against a deficit in the current year of $3,972,000,000.
+Sentence 127: The increase in the gross public debt this year is $3,967,000,000 and for the following year it will be $3,326,000,000.2.
+Sentence 128: Five Hundred and Fourteenth Press Conference
+Dan, why is there a discrepancy between $3,972,000,000 and $3,967,000,000?
+Sentence 129: MR. BELL:
+Sentence 130: That is adjustment of some items in the general funds, such as the retirement of National Bank notes.
+Sentence 131: THE PRESIDENT: That leaves a gross public debt at the end of each fiscal year of $44,458,000,000 for next year as against $41,132,000,000 this year.
+Sentence 132: Now, that table is a new breakdown on a simplified basis.
+Sentence 133: The real table is on page—
+Q.
+Sentence 134: [interposing] Mr. President, could I go back to your gross public debt?
+Sentence 135: THE PRESIDENT:
+Sentence 136: Yes, if you will wait one-half a second.
+Sentence 137: The General Budget Summary you will find on page XXI, and that is the way it has been stated before, year after year, or you can use either one.
+Sentence 138: Q.
+Sentence 139: How recent is this estimate of 1939 deficit?
+Sentence 140: When were those figures—is that late?
+Sentence 141: THE PRESIDENT:
+Sentence 142: Within two weeks.
+Sentence 143: MR. BELL:
+Sentence 144: That is the one here [indicating].
+Sentence 145: Yes, within the last ten days.
+Sentence 146: Q. Mr. President, getting back to the W.P.A. or P.W.A., two items there, "Grants to public bodies, including administration" and "Other," those two items should be combined?
+Sentence 147: Does that "Other" mean Federal allocations by the P.W.A.?
+MR. BELL:
+Sentence 148: Yes, to the various items.
+Sentence 149: P.W.A. allocations to the departments and agencies of the Government.
+Sentence 150: Q.
+Sentence 151: The two items are P.W.A., Federal and non-Federal?
+Sentence 152: THE PRESIDENT:
+Sentence 153: Yes.
+Sentence 154: Q. In which item do the grants under social security, old age, et cetera, appear?
+Sentence 155: MR. BELL:
+Sentence 156: Social security is up under the second block.
+Sentence 157: Q.
+Sentence 158: This $750,000,000 for 1939, that means that some time in the near future you will ask Congress for a supplemental appropriation of $750,000,000?
+Sentence 159: THE PRESIDENT: It is really more than that.
+Sentence 160: This is the cash expenditure during the balance of this fiscal year.
+Sentence 161: Q.
+Sentence 162: So that it will be more than that?
+Sentence 163: THE PRESIDENT:
+Sentence 164: Yes.
+Sentence 165: We shall ask for an additional amount between-that is necessary for obligations before the first of July, and this represents only expenditures up to the first of July.
+Sentence 166: I cannot give you the actual amount but it is a little more than this.
+Sentence 167: Q. $850,000,000?
+Sentence 168: THE PRESIDENT: I cannot give you the figure because you have to wait until we send it in to Congress.
+Sentence 169: Q.
+Sentence 170: Any part of the new national defense program coming out of the W.P.A. or N.Y.A. listed under the $210,000,000?
+Sentence 171: THE PRESIDENT: No, do not mix them up.
+Sentence 172: Q. You list this $210,000,000 for national defense as part of a $500,000,000 program, the balance to be, in a sense an authorization?
+Sentence 173: THE PRESIDENT: Not necessarily.
+Sentence 174: In other words, that is a thing, of course, for Congress to determine entirely.
+Sentence 175: We have been in the habit of building the Army and Navy up two different ways.
+Sentence 176: Well, take one illustration: There is the Vinson Bill which has set a naval building program for I do not know how many years ahead.
+Sentence 177: Now, that is an authorization, and Congress is very apt to do it that way because it makes it easier for a succeeding Congress to follow along on the program—not that they always do.
+Sentence 178: The other method is both to authorize and appropriate for the amount of money that can be spent in a year, provided that they are items which can be completed in a year.
+Sentence 179: Now, on this particular $210,000,000, it is part of a program which would take another two hundred and some odd million dollars to complete in another year or a third year, but we estimate that these expenditures—well, I will give you a simple illustration: Airplanes; we hope that for all the money we spend for airplanes out of this $210,000,000, the planes will be delivered, actually delivered and paid for, by the thirtieth of June, 1940.
+Sentence 180: Now, that does not mean that at this session of the Congress we have to authorize 50,000 planes or 20,000 planes.
+Sentence 181: If they want—it is in their discretion-they can perfectly well appropriate this $210,000,000.
+Sentence 182: Perhaps on some of the items they will have to authorize the money on contracts for items that cannot be finished in the course of the following fiscal year.
+Sentence 183: I see no reason at this time—this is off the record, merely for your information—I see no reason why, since things are moving awfully fast in the world, we should lay down an enormous five-year or ten-year program for national defense.
+Sentence 184: I think we ought to do as much as we feel we ought to do in the immediate future, and then wait until next year and see what we have to do then.
+Sentence 185: We are always hopeful that something will come out of the foreign situation that will allow us to cut down and stop going ahead with this vast program.
+Sentence 186: So all of this talk about a huge five- and ten-year program is a "lot of bunk.
+Sentence 187: "
+Q. I notice that you listed appropriations rather than expenditures of $500,000,000.
+Sentence 188: Would you like for that to be appropriated by this Congress, or just $210,000,000?
+Sentence 189: THE PRESIDENT: That is what we asked for.
+Sentence 190: We asked for appropriations but only $210,000,000 would be spent this year.
+Q.
+Sentence 191: In order to give us a clearer picture of just how much new equipment would be involved in this new national defense, could you or Mr. Bell give us an approximate breakdown of the $1,126,000,000 as to what proportion of that is for maintenance and salaries and present equipment and what proportion is for increase in expansion and new equipment?
+Sentence 192: THE PRESIDENT: I think those are all for things which carry along with the current program.
+Sentence 193: There are a few items in there that are new in one sense but in accordance with previous authorizations for general objectives.
+Sentence 194: For example, there are some Navy ships going into commission next year, and therefore we are asking for an increase in the Navy personnel of what?— 6,000 men?
+MR. BELL:
+Sentence 195: Something like that.
+Sentence 196: THE PRESIDENT: Something like that to man the new ships.
+Sentence 197: Now that is under the regular $1,126,000,000 item.
+Sentence 198: Q. Does the Army go up in proportion?
+Sentence 199: THE PRESIDENT: I think not.
+Sentence 200: MR. BELL: 165,000 men.
+Sentence 201: Q.
+Sentence 202: That is the force under the program to be submitted later.
+Sentence 203: That is what you will give the details on next week?
+Sentence 204: THE PRESIDENT:
+Sentence 205: Yes.
+Sentence 206: Q.
+Sentence 207: Do I say that only $210,000,000 will be spent?
+THE PRESIDENT:
+Sentence 208: Yes.
+Sentence 209: Q.
+Sentence 210: That is out of the $500,000,000?
+Sentence 211: THE PRESIDENT:
+Sentence 212: Yes, because some things you cannot pay for in one year.
+Sentence 213: You do not get them delivered and you do not make the payments until you get them delivered.
+Sentence 214: Q. Is that on warships?
+Sentence 215: THE PRESIDENT: All kinds of things. . . .
+Sentence 216: Q. 6,000 men will be added during the fiscal year on the Navy?
+Sentence 217: THE PRESIDENT:
+Sentence 218: Yes, but you had better get that from the—
+Q. Isn't that contained in there?
+Sentence 219: THE PRESIDENT: It is in the book.
+Sentence 220: I cannot tell you the page.
+Sentence 221: The number of men—this is the Navy at the end of 1938, that is last June, was 105,000; at the end of this year it will be 110,000 and we are asking at the end of 1940, for 116,000.
+Sentence 222: That is 6,000 more.
+Sentence 223: That is because of the new ships going into commission.
+Sentence 224: Q. A99 (referring to the page number of the Budget Report) is the Navy.
+Sentence 225: That is 116,000 from 110,000?
+Sentence 226: THE PRESIDENT:
+Sentence 227: Yes.
+Q.
+Sentence 228: It is not clear to me, this distinction between $7,000,000 for work relief (1940) and then $1,685,000,000 (for supplemental items)?
+Sentence 229: THE PRESIDENT: It is just stuck under a different heading.
+Sentence 230: Q.
+Sentence 231: That is what I did not understand, why there are two different headings.
+Sentence 232: What is the difference?
+THE PRESIDENT:
+Sentence 233: [interposing] The $7,000,000 is a leftover from this fiscal year.
+Sentence 234: MR. BELL:
+Sentence 235: It just came out that way.
+Sentence 236: THE PRESIDENT:
+Sentence 237: I take it it is a reappropriation of money.
+Sentence 238: MR. BELL:
+Sentence 239: It is a liquidation in 1940 of obligations incurred in 1939.
+Sentence 240: These statements are on a cash basis and this is the cash going out of the Treasury.
+Sentence 241: Q.
+Sentence 242: What is included under direct relief?
+Sentence 243: MR. BELL:
+Sentence 244: That represents the old Federal Emergency Relief Administration.
+Sentence 245: That is the liquidation of the Farm Security direct relief in the farm areas.
+Sentence 246: THE PRESIDENT: Food and clothing.
+Sentence 247: MR. BELL:
+Sentence 248: That is right.
+Sentence 249: Q.
+Sentence 250: That is on page A100—
+THE PRESIDENT:
+Sentence 251: [interposing] Wait, you are going awfully fast.
+Sentence 252: Q. Under the Navy appropriation you have got the Bureau of Aeronautics, which I assume is the Air Corps, increase from $48,000,000 for 1939 to $74,000,000 in 1940, an increase of about $25,000,000.
+Sentence 253: Now, that is not going to be the sole increase?
+Sentence 254: THE PRESIDENT: No, this covers the existing program.
+Sentence 255: Q.
+Sentence 256: And there may be a supplemental program and that also holds good for the decrease which is noted for the Army and the Air Corps?
+Sentence 257: MR. BELL:
+Sentence 258: That is right.
+Sentence 259: The Army program in this Budget applies to the Army program that was outlined.
+Sentence 260: Q. "Grants to public bodies, including administration," and also "Other."
+Sentence 261: Does that mean that next year more cities can come down and get more money?
+Sentence 262: THE PRESIDENT: No; there is no further P.W.A. program listed in this budget.
+Sentence 263: MR. BELL:
+Sentence 264: It is the liquidation of the old.
+Sentence 265: THE PRESIDENT: It is the liquidation of the old. . . .
+Sentence 266: Q.
+Sentence 267: But no further P.W.A. program contemplated?
+Sentence 268: THE PRESIDENT: No.
+Sentence 269: Q.
+Sentence 270: This is a reappropriation of 1940 and there will be a reappropriation in 1941?
+Sentence 271: THE PRESIDENT: It is not even that.
+Sentence 272: This is on a cash basis.
+Sentence 273: There does not have to be a reappropriation.
+Sentence 274: This is a cash basis.
+Sentence 275: We are only spending so much this year and so much the following year, and there will be a hangover the next fiscal year.
+Sentence 276: Q. Are P.W.A. grants included?
+Sentence 277: MR. BELL:
+Sentence 278: No, there is a loan figure.
+Sentence 279: It is hard to put them together. . . .
+Sentence 280: THE PRESIDENT:
+Sentence 281: Then, we have an analysis on page VIII of these two groups.
+Sentence 282: In other words, I want the Government to do what a bank does.
+Sentence 283: If a bank wants to finance some project which will pay for itself, what does it do?
+Sentence 284: It lends on a first mortgage on fifty per cent of that project because there is absolutely no human probability, thinking in terms of a careful, conservative banker, that he will lose the fifty per cent of the money that the project will cost; that is because of the junior money, which is the equity money and therefore subject to the risk.
+Sentence 285: The Government ought not to put down as a definite recovery item the equity in these projects.
+Sentence 286: In other words, I follow strictly, one hundred per cent, the normal rules of banking.
+Sentence 287: Q.
+Sentence 288: For example, suppose on that Boulder Canyon Project the Government had not entered the expense of $120,000,000 in the Budget but only such capital share as you have suggested.
+Sentence 289: Then, each year, as this money is repaid, you enter, as receipts to the Treasury, the profits of that operation.
+Sentence 290: At the end of fifty years, let us say, you have a series of Budget statements showing an income of $120,000,000 but no offsetting item showing the expense of the Government in setting it up.
+Sentence 291: Won't the Government be $120,000,000 plus?
+Sentence 292: THE PRESIDENT:
+Sentence 293: No.
+Sentence 294: What you are coming down to is this: that as the returns come from Boulder Dam, not just the interest but the amortization, you immediately, each year, cut down two per cent of the original $100,000,000 or whatever amount it is.
+Sentence 295: We pay off the debt.
+Sentence 296: We use it as the straight payment of that debt.
+Sentence 297: Q.
+Sentence 298: In other words, apply the income to the retirement of the debt?
+Sentence 299: THE PRESIDENT:
+Sentence 300: Yes.
+Sentence 301: Q. Would you apply that rule on construction projects to the Government's investment, its equity in lending corporations like the Federal Farm Loan Corporation?
+Sentence 302: THE PRESIDENT: I think so.
+Sentence 303: The Commodity Credit is doing it today.
+Sentence 304: Q. Do you need legislation to undertake a budget of that kind?
+Sentence 305: THE PRESIDENT:
+Sentence 306: Yes.
+Sentence 307: For instance, you remember in R.F.C., the predecessor to Dan
+Sentence 308: [Mr. Bell] as Director of the Budget-who was it?
+Sentence 309: Q. Mr. Douglas.
+Sentence 310: THE PRESIDENT: President Douglas of McGill University.(Laughter)
+Sentence 311: He told everybody, told the Press first and then told me afterwards, that Jesse Jones would only get fifty per cent of his money back; and, with a very long face, he kept saying that, and of course it was printed.
+Sentence 312: Everybody believed that poor old Jesse was going to lose fifty per cent of all the loans he made.
+Sentence 313: Jesse Jones was fit to be tied.
+Sentence 314: He said, "I do not know that I will get one hundred per cent back, with interest.
+Sentence 315: My best guess is that I will get one hundred per cent back.
+Sentence 316: I may make some losses but the losses won't exceed, in fact they will be less than the interest that I am getting on these expenditures.
+Sentence 317: Therefore," said Jesse Jones, "I will bet my last dollar that I will get my capital back.
+Sentence 318: "
+Well, we have been doing it for four years, and Jesse Jones has proved that he is right.
+Sentence 319: He will undoubtedly have a lot of capital losses; but you take all the money that Jesse has loaned out and you will find that as to his original capital, using the interest to offset the losses, he will come through one hundred per cent.
+Sentence 320: Q.
+Sentence 321: What I was getting at is, could we consider the capital investment, the equity investments of these corporations as assets of the Government?
+Sentence 322: THE PRESIDENT:
+Sentence 323: Again I think it is a question of using the same methods as careful banks use.
+Sentence 324: I do not think we should capitalize the equity.
+Sentence 325: Q.
+Sentence 326: Then we should count these contingent liabilities as part of the Government debt?
+Sentence 327: THE PRESIDENT:
+Sentence 328: Yes, that is true.
+Sentence 329: Q.
+Sentence 330: Do I understand that you advocate these people going to the market and financing themselves?
+Sentence 331: THE PRESIDENT:
+Sentence 332: In most cases they are doing it more and more.
+Sentence 333: Jesse
+Sentence 334: [Mr. Jones], you know, is getting out his own notes this year for the first time.
+Sentence 335: Q. Should we construe this as a recommendation to Congress, as a recommendation?
+Sentence 336: THE PRESIDENT:
+Sentence 337: For study of this.
+Q.
+Sentence 338: In the beginning of relief, the very first relief was given as loans to states, and the states were to pay back that money.
+Sentence 339: The next relief bill said that no money could be taken.
+Sentence 340: The R.F.C. carried that for a long time as assets and in the last session I understand that was transferred to the Treasury.
+Sentence 341: Does the Treasury carry it as assets or liabilities?
+Sentence 342: THE PRESIDENT: Of course if you set up any plan of this kind you have to run the risk of some Congress in the future kicking it overboard.
+Sentence 343: That is always possible under our form of government.
+Sentence 344: You cannot tell.
+Sentence 345: They might—if you had borrowed some Government money on your home, some kind Congress in the future might forgive you the money because they liked you.
+Sentence 346: Q. Is there any hope for that, Mr. President?
+Sentence 347: (Laughter)
+THE PRESIDENT: (Reading)"Our financial statements, of course, should clearly reflect, in appropriate classifications, the amount of Government outlays for physical improvements that are not self-liquidating in character.
+Sentence 348: We must take into account the necessity for making such of these and other changes as will permit the presentation to the Congress and to the public of more accurate and intelligible statements of the financial operations of the Government."
+Sentence 349: And, when I said that, I made a liar out of a lot of papers you represent.
+Sentence 350: That is an absolutely true fact and a perfectly provable one; though a lot of papers have printed the opposite.(Reading)
+"I should like to call your attention to the following table comparing for the 10-year period the amount of the Federal deficit and the increase in the public debt, with the amount included therein for capital outlays.
+Sentence 351: It should be understood that this table is not intended to represent values on an earning basis.
+Sentence 352: Nevertheless, under our policy of expanding capital outlays to compensate for variation in private capital expenditures and of making loans to meet emergency needs of our people, the table clearly shows that the greater part of the deficits and the larger part of the increase in the public debt have gone for permanent additions to our national wealth.
+Sentence 353: "
+Now, please underscore that and make a note of it.
+Sentence 354: "Let us all fix that fact in our minds so that there shall be no doubt about it and so that we may have a clear and intelligent idea of what we have been doing.
+Sentence 355: We have not been throwing the taxpayers' money out of the window or into the sea.
+Sentence 356: We have been buying real values with it.
+Sentence 357: Let me repeat: The greater part of the budgetary deficits that have been incurred have gone for permanent, tangible additions to our national wealth.
+Sentence 358: The balance has been an investment in the conservation of our human resources, and I do not regard a penny of it as wasted."
+I said to Herbert
+Sentence 359: [Gaston] to put in something that will drive this home, to put it in so that the press will print it, so he wrote that last paragraph.
+Sentence 360: Now, here is the table: [Referring to the table on page XI of the Budget]
+Sentence 361: You see how it runs.
+Sentence 362: You can study that table.
+Sentence 363: Direct Federal public works, starting in 1931, on the left hand side, were $247,000,000 to $465,000,000 in 1940; $605,000,000 this year.
+Sentence 364: Recoverable loans and investments ran from $263,000,000 (in 1931) up to $234,000,000 this year and $123,000,000 next year.
+Sentence 365: Public roads from $174,000,000 (in 1931) to $232,000,000 this year and $213,000,000 next year.
+Sentence 366: The Civilian Conservation Corps work was $290,000,000 this year, $285,000,000 next year.
+Sentence 367: New construction projects of Works Progress Administration are $734,000,000 in 1939 and $488,000,000 next year.
+Sentence 368: Grants to public bodies for public works, $392,000,000 this year and $366,000,000 next year.
+Sentence 369: Now, those totals in those years ran very, very close, as you will notice, to the two top lines, the deficit, excluding debt retirement, and the increase in gross public debt.
+Sentence 370: In other words, that is the proof of what was said in the two previous paragraphs.
+Sentence 371: Q. Why do you include the stabilization item?
+Sentence 372: THE PRESIDENT: I don't; that is down there so somebody won't say we left it out.
+Sentence 373: It is not, strictly speaking, a recoverable item.
+Sentence 374: Of course, we are going to suggest the renewal of the life of the stabilization fund.
+Sentence 375: In other words, if Congress does not renew that $2,000,000,000 stabilization fund, it becomes an immediate asset of the Government which can be used for any purpose whatsoever.
+Sentence 376: It can be used to reduce the public debt, or build highways, or anything else.
+Sentence 377: But I do want to say this, that there has been a good deal of loose talk about the stabilization fund.
+Sentence 378: I do not think I am telling stories out of school.
+Sentence 379: You know, you read in the papers in the past couple of days about the British stabilization fund being pretty hard hit.
+Sentence 380: Actually, our stabilization fund has operated now for three years and we are rather proud of the fact that it not only is not less than the $2,000,000,000, but it is actually more today than it was in the beginning and, at the same time, it has given our foreign exchange, as you all know, a more stable position through these three years than the foreign exchange of any other nation in the world.
+Sentence 381: In other words, it has been doing what we think is a darned good job for our foreign trade.
+Sentence 382: Q.
+Sentence 383: What is the profit?
+Sentence 384: You can divulge that under the law, if you wish to.
+Sentence 385: THE PRESIDENT: It was secretly told to the Senate Committee last spring and you people got it an hour later, so it is all right.
+Sentence 386: Q.
+Sentence 387: This item of $3,234,000,000 of recoverable loans and investments, does that include the capital stock and surplus of the many agencies which are in the lending business?
+Sentence 388: MR. BELL:
+Sentence 389: Yes.
+Sentence 390: Q.
+Sentence 391: Do you think it would be recoverable without liquidating the affairs of those corporations?
+Sentence 392: MR. BELL:
+Sentence 393: Of course not.
+Sentence 394: THE PRESIDENT: No.
+Sentence 395: Just the same way you get stock in the bank.
+Sentence 396: You cannot get your money back, practically, unless you liquidate the bank or have a market. . .
+Sentence 397: .
+(Reading)
+"But I also hope that those revenues in times of prosperity will provide a surplus which can be applied against the public debt that the Government must incur in lean years because of extraordinary demands upon it.
+Sentence 398: "I believe I am expressing the thought of the most farsighted students of our economic system in saying that it would be unwise either to curtail expenditures sharply or to impose drastic new taxes at this stage of recovery.
+Sentence 399: But in view of the addition to our public expenditures involved in the proposed enlarged national defense program and the program for agricultural parity payments, for which no revenue provision has yet been made, I think we might safely consider moderate tax increases which would approximately meet the increased expenditures on these accounts."
+Sentence 400: And thereby, off the record, hangs a tale.
+Sentence 401: As I remember it, Pat Harrison
+Sentence 402: [Senator Pat Harrison] gave assurances last spring that there would be taxes provided to take care of the additional agricultural parity payments; and nobody has come across with them yet.
+Sentence 403: In other words, they might be called a deferred pledge, as yet unfulfilled.
+Sentence 404: Q. Are those the only new taxes which we are considering?
+Sentence 405: THE PRESIDENT:
+Sentence 406: No.
+Sentence 407: No form of tax but an amount of revenue to offset it to a total of $212,000,000 was promised.
+Sentence 408: Q.
+Sentence 409: That is the only additional—
+THE PRESIDENT:
+Sentence 410: [interposing] That is the only thing that was promised last session.
+Sentence 411: Q. Will you also want the taxes for that national defense?
+Sentence 412: THE PRESIDENT: And national defense. . .
+Sentence 413: .
+Sentence 414: Q. With national defense, $422,000,000?
+Sentence 415: THE PRESIDENT: That is right.
+Sentence 416: In other words, what I am saying in effect is, "Carry out your promise and give me $212,000,000 additional revenue and add to that $210,000,000 for national defense, or a total of $422,000,000."
+Sentence 417: Q. Do you plan to suggest a means?
+Sentence 418: THE PRESIDENT No.
+(Reading)
+"It should be added, however, that it is my firm conviction that such new taxes as may be imposed should be most carefully selected from the standpoint of avoiding repressive effects upon purchasing power.
+Sentence 419: "Sound progress toward a budget that is formally balanced is not to be made by heavily slashing expenditures or drastically increasing taxes.
+Sentence 420: On the contrary, it is to be sought by employing every effective device we may have at our command for promoting a steady recovery, which means steady progress toward the goal of full utilization of our resources.
+Sentence 421: We can contribute very materially toward that end by a wise tax program.
+Sentence 422: "I am recommending the reenactment of the excise taxes—"
+That includes also the 3-cent postage.
+Sentence 423: (Reading)
+"—which will expire in June and July of this year, not because I regard them as ideal components of our tax structure, but because their collection has been perfected, our economy is adjusted to them, and we cannot afford at this time to sacrifice the revenue they represent.
+Sentence 424: If the Congress should at this session adopt new taxes more scientifically planned to care for the defense and agricultural programs, it is quite possible that the existence of these new taxes will enable us in a later year to give consideration to abolishing some of the present excise levies.
+Sentence 425: "The revised estimate of receipts for the fiscal year 1939 as contained in this Budget is $5,520,070,000, and of expenditures, $9,492,329,000, leaving a deficit of $3,972,259,000.
+Sentence 426: "
+Q. At that point, the revised receipts for this current year, there has been an increase of half a billion dollars over your July estimate.
+Sentence 427: Can you tell us what the basis of that increase is? . . .
+Sentence 428: MR. BELL:
+Sentence 429: Better business than was contemplated.
+Sentence 430: THE PRESIDENT: The way to put it is that, suppose beginning about September the Treasury experts began revising their estimates upward and by November they were still a little better and the last word, about ten days ago, they were still better.
+Sentence 431: Q.
+Sentence 432: If the Congress does not meet the $422,000,000, the deficit would not be increased by that amount?
+Sentence 433: THE PRESIDENT: No.
+Sentence 434: This is without any increase.
+Sentence 435: An increase in taxes of $422,000,000 would take that amount off the estimated deficit.
+Sentence 436: Q.
+Sentence 437: It is estimated by the Treasury that that would be raised by excise taxes.
+Sentence 438: Would it make any difference to you what kind of taxes would raise it?
+Sentence 439: THE PRESIDENT: I mentioned that in my Annual Message, the paragraph that related to taxes which, in effect, are a drain on national income, and other taxes which, because of their form, are not a drain on national income.
+Sentence 440: The simplest illustration you can get is the tax you pay on your cigarettes, which puts a direct drain on national income because almost everybody in the country, including the ladies, uses cigarettes and probably ninety-eight per cent of the cigarettes smoked are smoked by comparatively poor people like us.
+Sentence 441: It is a direct drain on national income.
+Sentence 442: On the other hand, estate and inheritance taxes are not direct drains on national income.
+Sentence 443: They fall into the category that does not hit the spending power of the country.
+Sentence 444: Q. Does this tax program—do you have in mind the probability that there will be reciprocal taxation on Federal and state bonds and salaries?
+Sentence 445: THE PRESIDENT:
+Sentence 446: Well, I have not said anything about it.
+Sentence 447: I thought I would hold until a little later, what I am going to say about taxes on all bonds issued by any public body, state, local, municipal or Federal, and also income taxes on all Government employees, Federal, state and local.
+Sentence 448: And, of course, as you know, it is a very simple proposition.
+Sentence 449: Most people in the country are for it.
+Sentence 450: There is a division among those people as to whether they think it is constitutional or not.
+Sentence 451: There is a respectable opinion that it would be constitutional to do it, and other people say it would not.
+Sentence 452: I think that the best way to get a decision is to pass a law and submit it to the Supreme Court.
+Sentence 453: Q.
+Sentence 454: Do you think Justice Holmes was right when he said that members of the Supreme Court should pay a tax?
+Sentence 455: THE PRESIDENT: I could not comment on that out loud but I suggest you read the sixteenth amendment again.
+Sentence 456: That is all you have to do.
+Sentence 457: Q.
+Sentence 458: That would not amount to more than $100,000,000?
+Sentence 459: THE PRESIDENT:
+Sentence 460: But gradually it would pick up over a period of years.
+Sentence 461: Q.
+Sentence 462: The figure I saw was not over $100,000,000, and I think you have over $400,000,000?
+Sentence 463: THE PRESIDENT: I think that is rather low.
+Sentence 464: Q.
+Sentence 465: Those salaries are awfully low?
+Sentence 466: THE PRESIDENT:
+Sentence 467: Yes, but a lot of them come under it.
+Sentence 468: Q. Is this information you are speaking of, is that for our use?
+Sentence 469: THE PRESIDENT: I think you can use it.
+Sentence 470: Don't you think so??
+Sentence 471: MR. BELL:
+Sentence 472: It is in with your story.
+Sentence 473: THE PRESIDENT: It is a repetition of what I said last spring.
+Sentence 474: If you tie it in with your story, it is all right.
+Sentence 475: Q.
+Sentence 476: If the Congress should, at this session, adopt new taxes, will there be any specific recommendation for new taxes?
+Sentence 477: THE PRESIDENT: Probably not in the form of a message.
+Sentence 478: There will be the usual consultations between the committees and the Treasury.
+Sentence 479: Q.
+Sentence 480: You won't have a tax message?
+Sentence 481: THE PRESIDENT:
+Sentence 482: No.
+Q. Does that contemplate lowering the brackets on income taxes?
+Sentence 483: THE PRESIDENT: I suppose they will talk about it up there and talk to the Treasury.
+Sentence 484: Q.
+Sentence 485: You are not going into the detail of the readjustment of the various Departments but, reading it hastily, I got the impression that there is a fairly moderate increase in personnel and buildings.
+Sentence 486: Do you think I have the right impression on that?
+Sentence 487: I am for the Federal establishment.
+Sentence 488: THE PRESIDENT:
+Sentence 489: Yes, you are right, Earl
+Sentence 490: [Mr. Godwin].
+Sentence 491: The reason is this, that, each year, Congress keeps on giving almost every Department, some new job to do.
+Sentence 492: That is the size of it.
+Sentence 493: And the only way to save money is, (1) to appropriate too little money and not do the job we are ordered to do, or (2) cut out the job, cut out the task.
+Sentence 494: Q. Would you or Mr. Bell say it is about an average increase?
+Sentence 495: THE PRESIDENT:
+Sentence 496: Taking it by and large, it is less than an average increase.
+Sentence 497: Q. I have to insert here that you do not favor the processing tax?
+Sentence 498: THE PRESIDENT: It is just like all the other taxes.
+Sentence 499: Do not make any inferences because I have not mentioned any by name.
+Sentence 500: (Reading)
+"The estimated receipts for the fiscal year of 1940 amount to $5,669,320,000, and the expenditures for that year are estimated at $8,995,663,000, resulting in a deficit of $3,326,343,000."On the rest of these, under recommendations, the first is to extend the present taxes; the second is the 3-cent postage, and the third is the C.C.C. I am asking that it
+Sentence 501: [the C.C.C.] be continued at this session beyond its legal death day of June 30, 1940.
+Sentence 502: The reason is that if we wait until the spring of 1940 to extend it, it actually costs the Government money, because the C.C.C. has to make its plans ahead.
+Sentence 503: If the Congress will extend the life this year over the next year or two or make it permanent—it does not make an awful lot of difference which—it will save the Government money.
+Sentence 504: Q.
+Sentence 505: In the gross public debt at the end of the fiscal year 1940 you are coming up to the amount of $44,000,000,000.
+Sentence 506: Isn't that close to the legal limit?
+Sentence 507: THE PRESIDENT:
+Sentence 508: Yes.
+Sentence 509: Q. Will you ask for any more?
+Sentence 510: THE PRESIDENT:
+Sentence 511: Probably there will be a request for the expansion of the legal limit.
+Sentence 512: Q.
+Sentence 513: On page XVI, in the second paragraph there, the second sentence, you say, "Supplemental estimates of appropriations will be submitted to meet the requirements of the Works Progress Administration, the National Youth Administration, and the Farm Security Administration for the fiscal year 1940."
+Sentence 514: Does that mean supplemental estimates beyond and above those contained in this Budget?
+Sentence 515: THE PRESIDENT:
+Sentence 516: No, it does not.
+Sentence 517: What it means is this: that the actual figures for W.P.A.—as last year and the year before—we are not going to submit until we know more about it.
+Sentence 518: That will be about April, as we did last year and the year before.
+Sentence 519: Q.
+Sentence 520: The figure is given?
+Sentence 521: THE PRESIDENT:
+Sentence 522: The figure is given; that is, our estimate at the present time, and, as far as we know, it won't be added to.
+Sentence 523: Q.
+Sentence 524: You are hoping that this will cover?
+Sentence 525: THE PRESIDENT:
+Sentence 526: Yes.
+Sentence 527: Q.
+Sentence 528: On page A90 you have listed at least three Government credit corporations which are due to expire by law on June 30, 1939.
+Sentence 529: They include the Commodity Credit Corporation, the Electric Home and Farm Authority, and the Export-Import Bank of Washington.
+Sentence 530: For that reason no estimate is included in the 1940 Budget.
+Sentence 531: Can you tell us now whether you intend to ask for the continuation of all those agencies after that time?
+Sentence 532: THE PRESIDENT: I think so.
+Sentence 533: Q.
+Sentence 534: All three?
+THE PRESIDENT:
+Sentence 535: Yes.
+Sentence 536: There is an amount in the supplemental that would take care of that if their lives were extended.
+Sentence 537: In other words, administrative expenses.
+Sentence 538: Q. Under the heading, "Appropriations," the last thing in your message, you have it that the total appropriations which will be sought from Congress for 1940 will be $10,190,000,000, whereas the total expenses were to be $9,000,000,000.
+Sentence 539: Can you give us any breakdown of the difference between those items?
+Sentence 540: THE PRESIDENT: Reappropriations.
+Sentence 541: Q. Anything in here for counter-espionage?
+Sentence 542: THE PRESIDENT:
+Sentence 543: Yes, there were some increased items for F.B.I.,Naval Intelligence and the Military Intelligence.
+Sentence 544: Q.
+Sentence 545: The Military increase is $35,000?
+THE.
+Sentence 546: PRESIDENT:
+Sentence 547: Yes
+.MR.
+Sentence 548: BELL:
+Sentence 549: The Navy is a little higher and the F.B.I. is $75,000.
+Sentence 550: Q.
+Sentence 551: What do they total, the increase?
+Sentence 552: THE PRESIDENT: $125,000.
+Sentence 553: MR. BELL: Or $150,000; I do not remember the exact figure.
+Sentence 554: Q. Have you also increased the personnel of the Secret Service?
+Sentence 555: THE PRESIDENT: Not the Secret Service, no.

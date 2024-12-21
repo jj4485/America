@@ -1,0 +1,122 @@
+Sentence 1: 1932 The Presidents News Conference 865
+
+REPORTER.
+Sentence 2: You gave us a great treat last night, Mr. President.
+Sentence 3: Q. And a good news story this morning.
+Sentence 4: THE PRESIDENT.
+Sentence 5: I'm glad you like them.
+Sentence 6: I haven't anything for publication today.
+Sentence 7: I thought there might be something you'd like to know that I can help you with.
+Sentence 8: Q. Have you received any reply from Governor Roosevelt?
+THE PRESIDENT.
+Sentence 9: No. 1
+1
+President-elect Roosevelt's reply, dated November 14, 1932, is printed in the note to Item 395.
+Sentence 10: Q. Does your note establish a precedent--asking for a conference with your successor?
+THE PRESIDENT.
+Sentence 11: I'm sure I have no idea.
+Sentence 12: But I am glad to cooperate in any matter that concerns national solidarity.
+Sentence 13: Q. Have there been any further communications from the Secretary of State?
+THE PRESIDENT.
+Sentence 14: No, nothing at all.
+Sentence 15: I only know of the notes he has received.
+Sentence 16: I understand the foreign governments are publishing their notes tomorrow morning.
+Sentence 17: I don't know whether you realized it last night but that point lookout, where we turned round in a circle, is the end of the dam.
+Sentence 18: When it is completed it will come out at that point, and the road will go from there across the river on top of the dam.
+Sentence 19: You can get some appreciation of how high it is.
+Sentence 20: Q.
+Sentence 21: It is a great tribute to our engineers.
+Sentence 22: THE PRESIDENT.
+Sentence 23: Yes.
+Sentence 24: It is a fine engineering job.
+Sentence 25: A Department of the Interior man named Young designed it, and there is a very able corps of contractors.
+Sentence 26: The four tunnels, through one of which we drove, will carry the whole of the waters of the Colorado River at its highest point without being completely full, that is carrying as much water as the normal flow of Niagara.
+Sentence 27: They are turning the water into one of them tomorrow morning.
+Sentence 28: You saw the method by which they were creeping up on the river by pushing it back and gradually narrowing down the river ?
+Sentence 29: Q. Won't those tunnels be used later for the power end of the project?
+Sentence 30: THE PRESIDENT.
+Sentence 31: Two of them will I think, but they will have a separate steel pipe for power purposes in the tunnel.
+Sentence 32: Q.
+Sentence 33: How far will the water drop to the power plant?
+Sentence 34: THE PRESIDENT.
+Sentence 35: Not at all, or but very few feet.
+Sentence 36: It comes under pressure.
+Sentence 37: The steel tubes will be about 2 1/2 inches thick.
+Sentence 38: It is the greatest piece of construction ever undertaken.
+Sentence 39: Q. Will it take 3 or 4 years yet to complete it?
+Sentence 40: THE PRESIDENT.
+Sentence 41: I imagine about 3 years because they are 7 months ahead of low water in the river, and that will enable them to get the foundations in far enough so that they can go ahead even in high water.
+Sentence 42: Then it is just a straightforward job of mixing cement and pouring it in.
+Sentence 43: Q. Have you anything more on the war debts?
+Sentence 44: THE PRESIDENT.
+Sentence 45: No.
+Q.
+Sentence 46: You mentioned the latter part of next week.
+Sentence 47: Does that mean the present week?
+Sentence 48: THE PRESIDENT.
+Sentence 49: The telegram was sent last night.
+Sentence 50: That means this week.
+Sentence 51: Q. Will this region about here benefit from the Boulder construction?
+Sentence 52: THE PRESIDENT.
+Sentence 53: No, not at all unless the value of irrigated land goes way up.
+Sentence 54: There is a very small territory in Arizona that can be economically added by that water.
+Sentence 55: Probably a million acres could be added if they would spend $200 or $300 an acre, but it may be 100 years before that time arrives.
+Sentence 56: There is a large area surrounding the Salton Sea which will be brought under gradually.
+Sentence 57: But there will be no addition of irrigated land there for a long time because it will be 3 years before the dam is completed, and it will take 5 or 6 years after that to complete the canal from the river to the Imperial Valley as the present canal runs through Mexican territory.
+Sentence 58: That has been one of our legal difficulties-the Mexican controlled canal to the Imperial Valley.
+Sentence 59: But they should get domestic water to Los Angeles long before there is any extension of agricultural land, and power will be available when the dam is complete.
+Sentence 60: Q. Will you start right away on your message to Congress?
+THE PRESIDENT.
+Sentence 61: I haven't given it much thought yet.
+Sentence 62: I'm not just sure when Congress meets.
+Sentence 63: Anyway the budget message is the first to be settled.
+Sentence 64: Q.
+Sentence 65: You are not planning any special program from here on in?
+THE PRESIDENT.
+Sentence 66: No, a straight away run.
+Sentence 67: One reason I wanted to stop at Boulder was to get all the contractors together with our own people.
+Sentence 68: That thing is moving at a rate which affects the budget.
+Sentence 69: We do not want to spend any more than we have to, but the Government does not begin to draw interest on that until it begins to deliver power, and we have a cumulative interest problem to consider.
+Sentence 70: Q.
+Sentence 71: For our own guidance, do you think Governor Roosevelt's visit might come as early as Wednesday?
+THE PRESIDENT.
+Sentence 72: I don't know.
+Sentence 73: I was advised that he was going south the latter part of the week.
+Sentence 74: And in this connection I want you to know that there is absolutely no truth in those stories that the American Government has not a free hand.
+Sentence 75: I want that very clear.
+Sentence 76: Q.
+Sentence 77: We have had that definitely from Secretary Stimson all along.
+Sentence 78: THE PRESIDENT.
+Sentence 79: I am giving you this as background, not for publication.
+Sentence 80: Q.
+Sentence 81: Do you think the moratorium will have to go on for another year?
+Sentence 82: THE PRESIDENT.
+Sentence 83: That is not a question for discussion with me.
+Sentence 84: Anyway the moratorium is up already.
+Sentence 85: Q.
+Sentence 86: It looks as though if they can't pay us we'll have to give them more time.
+Sentence 87: THE PRESIDENT.
+Sentence 88: I am not sure of that either.
+Sentence 89: Q. Do you plan to stop at the livestock show at St. Louis?
+THE PRESIDENT.
+Sentence 90: No, I must get back and complete my message to present to Congress and complete a scheme for reorganization of the Federal Government.
+Sentence 91: Q. Have you authority to do that now?
+Sentence 92: THE PRESIDENT.
+Sentence 93: The law provides that the President has authority to issue Executive orders setting up a new arrangement.
+Sentence 94: Those Executive orders have to lay before Congress for 60-sitting days.
+Sentence 95: Normally that would take until the end of February taking out the holidays.
+Sentence 96: I will get them in early enough.
+Sentence 97: If not acted upon in 60 days, they become effective.
+Sentence 98: Q. Anything more on your plans after March 47
+Sentence 99: You will not be President of the university or anything?
+Sentence 100: THE PRESIDENT.
+Sentence 101: No. Which university?
+Sentence 102: Q. Leland Stanford.
+Sentence 103: THE PRESIDENT.
+Sentence 104: It already has a president and a very good one.
+Sentence 105: There is little for you to find in this country by way of news.
+Sentence 106: I haven't been through here for some years, and I wanted to take the southern route.
+Sentence 107: Q. Are you getting rested?
+THE PRESIDENT.
+Sentence 108: Yes, and I think that is all.
+Sentence 109: You all better get some rest and sleep.

@@ -1,0 +1,228 @@
+Sentence 1: 1947 The Presidents News Conference 388
+
+THE PRESIDENT.
+Sentence 2: Good morning.
+Sentence 3: How are you all?
+Q.
+Sentence 4: How are you?
+Sentence 5: Q.
+Sentence 6: Quite a snowfall.
+Sentence 7: THE PRESIDENT.
+Sentence 8: I was just watching it.
+Sentence 9: They tell me that the streets are as slick as glass.
+Sentence 10: [1.]
+Sentence 11: Q. You didn't take your morning walk this morning, did you?
+THE PRESIDENT.
+Sentence 12: Yes I did!
+Sentence 13: I walked before the snow started.
+Sentence 14: No, I didn't miss it.
+Sentence 15: Q.
+Sentence 16: You must have been early.
+Sentence 17: THE PRESIDENT.
+Sentence 18: Well, I always leave the White House between half past 6 and a quarter to 7.
+Sentence 19: It snowed about 10 minutes after 7.
+Sentence 20: Sure did.
+Sentence 21: I hardly ever miss.
+Sentence 22: Q.
+Sentence 23: What?
+THE PRESIDENT.
+Sentence 24: I hardly ever miss, unless it's pouring down rain.
+Sentence 25: I have no particular announcements to make.
+Sentence 26: If you have any questions, I will try to answer them.
+Sentence 27: [2.]
+Sentence 28: Q. Mr. President, when you visit Puerto Rico, do you plan to discuss any political questions with the leadership there ?
+Sentence 29: THE PRESIDENT.
+Sentence 30: I do not.
+Sentence 31: Q. Do not?
+Sentence 32: THE PRESIDENT.
+Sentence 33: LUST paying an official visit to Puerto Rico to see how they are getting along in their native government.
+Sentence 34: [3.]
+Sentence 35: Q. Mr. President, Mr. Lippmann seems to feel that the reason poison gas was not used in the last war was because everybody had it, and that the same thing would apply to the atomic bomb.
+Sentence 36: THE PRESIDENT.
+Sentence 37: Mr. Lippmann is entitled to his opinion the same as anybody else.
+Sentence 38: I have no comment to make on it.
+Sentence 39: [4.]
+Sentence 40: Q. Mr. President, when will you send up your message on the universal training and selective service?
+Sentence 41: THE PRESIDENT.
+Sentence 42: It will be some time yet before it will be ready.
+Sentence 43: I have that special committee, as you know, getting all the facts together, and as soon as that special committee makes the report, then I shall send up the message.
+Sentence 44: Q. Mr. President, then you plan no message on the draft?
+THE PRESIDENT.
+Sentence 45: That is under consideration, and will--at a later date I will make an announcement on it.
+Sentence 46: [5.]
+Sentence 47: Q. Mr. President, do you plan to send a message on export controls to the Hill in the near future ?
+Sentence 48: THE PRESIDENT.
+Sentence 49: I do not.
+Sentence 50: [6.]
+Sentence 51: Q.
+Sentence 52: Any prospects of announcements on Ambassadors to India and England?
+THE PRESIDENT.
+Sentence 53: As soon as I have made the decision I will make the announcements immediately.
+Sentence 54: [7.]
+Sentence 55: Q. You are still for universal training?
+Sentence 56: THE PRESIDENT.
+Sentence 57: Yes indeed.
+Sentence 58: I have always been for it ever since 1905, and that's a long time.
+Sentence 59: I demonstrated that I was for it because I immediately went into training when I was 21 years old.
+Sentence 60: [8.]
+Sentence 61: Q. Mr. President, has the shortage of boxcars been brought to your attention?
+THE PRESIDENT.
+Sentence 62: Time and again.
+Sentence 63: Time and again.
+Sentence 64: Q.
+Sentence 65: What is the situation, so far as you are concerned?
+Sentence 66: THE PRESIDENT.
+Sentence 67: We are working it out.
+Sentence 68: We have been working on it all the time to the best of our ability.
+Sentence 69: Q.
+Sentence 70: It's a very vital thing.
+Sentence 71: THE PRESIDENT.
+Sentence 72: It's a vital thing.
+Sentence 73: Of course it's vital.
+Sentence 74: We have been working on it all the time--doing everything we can to alleviate it.
+Sentence 75: [9.]
+Sentence 76: Q. Did I understand you to say that you went into training when you were 21?
+Sentence 77: There was no universal--
+THE PRESIDENT.
+Sentence 78: National Guard.
+Sentence 79: Q. National Guard.
+Sentence 80: THE PRESIDENT.
+Sentence 81: When I was 21.
+Sentence 82: [10.]
+Sentence 83: Q. Mr. President, would you give us your opinion on the bill in Congress for permission to study reorganization of the executive department of the Government?
+Sentence 84: THE PRESIDENT.
+Sentence 85: I always give my opinion on bills when they come to my desk for signature, and not before that time.
+Sentence 86: [11.]
+Sentence 87: Q. Mr. President, Representative Landis says that unless you take some immediate action about calling a conference between mine operators and the unions, there is going to be another disastrous strike April I.
+Sentence 88: Have you any comment on that?
+Sentence 89: THE PRESIDENT.
+Sentence 90: NO comment.
+Sentence 91: [12.]
+Sentence 92: Q. Mr. President, what will be the impact on your foreign policy in the event the economy program of the Republicans is carried out in Congress, particularly with reference to occupied countries?
+Sentence 93: THE PRESIDENT.
+Sentence 94: I will comment on that when that situation develops.
+Sentence 95: It has by no means developed yet.
+Sentence 96: [13.]
+Sentence 97: Q. Mr. President, could you comment on this?
+Sentence 98: I understand that Senator Taft thinks that tax reduction should come before debt reduction.
+Sentence 99: What do you think of the principle of that, sir?
+THE PRESIDENT.
+Sentence 100: Well sir, I would prefer not to comment on that.
+Sentence 101: Senator Taft is entitled to his opinion.
+Sentence 102: I will give you my comments when those matters come to my desk.
+Sentence 103: I will give them to you in no uncertain terms.
+Sentence 104: [14.]
+Sentence 105: Q. Mr. President, I ask a lot of questions this morning.
+Sentence 106: THE PRESIDENT.
+Sentence 107: It's all right.
+Sentence 108: Q.
+Sentence 109: But have you noticed that the Treasury cash surplus has reached $1,700 million--a record figure in our history?
+Sentence 110: THE PRESIDENT.
+Sentence 111: Yes.
+Sentence 112: It is going to be much greater than that when we get through collecting all the taxes.
+Sentence 113: Q.
+Sentence 114: Do you think we are going to be able to get the budget you pledged this year?
+Sentence 115: THE PRESIDENT.
+Sentence 116: We are going to come mighty close to it.
+Sentence 117: I don't want to make any comment on it until we have got all the figures in, but we will have a cash balance.
+Sentence 118: But whether the budget will show a balance or not, I don't know.
+Sentence 119: They are two entirely different things.
+Sentence 120: [15.]
+Sentence 121: Q. Mr. President, are you considering any emergency action on rent control, in the event OPA is allowed to die?
+THE PRESIDENT.
+Sentence 122: I have not yet come to the conclusion that OPA is going to die.
+Sentence 123: [16.]
+Sentence 124: Q. Mr. President, are you planning any changes in the Embassy in Cairo, Egypt?
+THE PRESIDENT.
+Sentence 125: No.
+Sentence 126: [17.]
+Sentence 127: Q. Mr. President, when do you expect to send up the unification bill ?
+Sentence 128: THE PRESIDENT.
+Sentence 129: In a very short time.
+Sentence 130: Just as soon as it is ready, I will make it public and send it up.
+Sentence 131: [18.]
+Sentence 132: Q. Mr. President, if the Republicans in Congress don't pass your proposals on the finishing up of the Second War Powers, what effect do you think it will have on the condition of the country?
+Sentence 133: THE PRESIDENT.
+Sentence 134: I think I stated that in the statement in the message at the time.
+Sentence 135: If you will read that message I think you will find just exactly what I think about it.
+Sentence 136: [19.]
+Sentence 137: Q. Is there any way the OPA can be kept alive if it doesn't get the deficiency which you have been requesting?
+Sentence 138: THE PRESIDENT.
+Sentence 139: I will cross that bridge when I get to it.
+Sentence 140: [20.]
+Sentence 141: Q. Mr. President, it has been reported from Tokyo that the Army Commissioner of Reparations has reached conclusions drastically different than those submitted to you by Ambassador Pauley.
+Sentence 142: Has that been brought to your attention?
+Sentence 143: THE PRESIDENT.
+Sentence 144: I hadn't heard about it.
+Sentence 145: I don't know how they could reach any conclusions because they don't know anything about the whole picture.
+Sentence 146: Q.
+Sentence 147: But he remarked on the statement
+THE PRESIDENT.
+Sentence 148: I don't know anything about that.
+Sentence 149: I haven't seen or heard of it.
+Sentence 150: [21.]
+Sentence 151: Q.
+Sentence 152: What do you hear from the Hill on Mr. Lilienthal's chances of confirmation?
+Sentence 153: THE PRESIDENT.
+Sentence 154: I am still behind Mr. Lilienthal 100 percent, and I think he will be confirmed.
+Sentence 155: Q.
+Sentence 156: [Aside] So do I.
+THE PRESIDENT.
+Sentence 157: I hear a comment, and so do I.
+Sentence 158: [Laughter]
+Sentence 159: [22.]
+Sentence 160: Q. Mr. President, you remarked a little while ago that ever since this summer you took long walks.
+Sentence 161: Would you care to tell us this time which way you went?
+Sentence 162: THE PRESIDENT.
+Sentence 163: Well, I got up early enough so that it wasn't snowing when I left.
+Sentence 164: I left the White House about 20 minutes of 7 and got back about a quarter after.
+Sentence 165: I went up 17th to Rhode Island, over to 15th Street and back to the White House just about 2 miles.
+Sentence 166: Q. Thank you, sir.
+Sentence 167: [23.]
+Sentence 168: Q. Mr. President, this morning someone asked you about export controls.
+Sentence 169: You said that you were not going to send a message about it.
+Sentence 170: That was included, I believe, that subject, in the message you sent to Congress on the subject of many controls.
+Sentence 171: THE PRESIDENT.
+Sentence 172: That's right.
+Sentence 173: Q.
+Sentence 174: As far as I can find out, that message has been lost in committee up there.
+Sentence 175: Nobody seems to be doing anything about it on the Hill.
+Sentence 176: THE PRESIDENT.
+Sentence 177: Well, of course, they are busy with other things.
+Sentence 178: They don't have time to look at the emergencies closely.
+Sentence 179: But they will probably get around to it.
+Sentence 180: I hope they will.
+Sentence 181: [24.]
+Sentence 182: Q. Mr. President, there have been some stories out of the War Department to indicate that the administration has definitely made up its mind to ask no extension of the draft.
+Sentence 183: THE PRESIDENT.
+Sentence 184: That matter is under consideration.
+Sentence 185: As soon as a decision has been reached, the announcement will be made on it.
+Sentence 186: [25.]
+Sentence 187: Q. Mr. President, it has been reported the Navy is withdrawing from China.
+Sentence 188: Is that true?
+THE PRESIDENT.
+Sentence 189: I haven't heard about it.
+Sentence 190: [26.]
+Sentence 191: Q. Mr. President, it has been reported that you are against "lameduck" appointments.
+Sentence 192: Is that true?
+THE PRESIDENT.
+Sentence 193: That is a matter on which I don't want to make any comment.
+Sentence 194: The actions will speak for that.
+Sentence 195: Q. Are you contemplating any actions in the near future?
+Sentence 196: THE PRESIDENT.
+Sentence 197: Well, not immediately.
+Sentence 198: Not in the immediate future.
+Sentence 199: Q. Anything about --
+Sentence 200: [inaudible] ?
+THE PRESIDENT.
+Sentence 201: No.
+Sentence 202: Same condition it has been all the time.
+Sentence 203: [27.]
+Sentence 204: Q. Mr. President, you haven't decided on an Ambassador to London, did I hear you say?
+THE PRESIDENT.
+Sentence 205: No sir, I have not.
+Sentence 206: I will make the announcement to you just as soon as the decision is reached.
+Sentence 207: Reporter:
+Sentence 208: Thank you, Mr. President.
+Sentence 209: THE PRESIDENT.
+Sentence 210: You're welcome.

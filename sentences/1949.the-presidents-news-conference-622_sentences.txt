@@ -1,0 +1,203 @@
+Sentence 1: 1949 The Presidents News Conference 622
+
+THE PRESIDENT.
+Sentence 2: [1.]
+Sentence 3: I have no special announcements for you this morning.
+Sentence 4: I made the special announcement last night so you would have plenty of time to mull into it.
+Sentence 5: 1
+If you have any questions, I will try to answer them.
+Sentence 6: 1
+See Item 65.
+Sentence 7: [2.]
+Sentence 8: Q. Mr. President, Senator Taft and Senator Russell, apparently with considerable support from both parties introduced an amendment to cut ERP by 10 percent.
+Sentence 9: Do you favor that?
+Sentence 10: THE PRESIDENT.
+Sentence 11: The ERP should not be cut at all.
+Sentence 12: It was worked out after obtaining the best information possible, and the request was made for the amount that was necessary to run the ERP budget for the coming year.
+Sentence 13: [3.]
+Sentence 14: Q. Mr. President, Senator George is quoted as saying that a tax increase this year would be the only way to get us into a serious depression.
+Sentence 15: It seems that some of the Senators up there--
+THE PRESIDENT.
+Sentence 16: I do not agree at all with Senator George on that.
+Sentence 17: I think he is wrong.
+Sentence 18: I think that the fact that we may have to run a deficit this year would be much more dangerous for the country than to levy taxes necessary to run the Government.
+Sentence 19: [4.]
+Sentence 20: Q. Mr. President, there is another report, sir, that you may soon release the Bikini report.
+Sentence 21: 2
+Is there any truth to that?
+Sentence 22: THE PRESIDENT.
+Sentence 23: There is no foundation in fact for that.
+Sentence 24: 2
+The report of the Joint Chiefs of Staff Evaluation Board on the atomic weapons tests held off Bikini Island in July 1946.
+Sentence 25: See 1948 volume, this series, Item 278
+Sentence 26: [I].
+Sentence 27: [5.]
+Sentence 28: Q. Mr. President, have you decided on the invitation to go to Hartford, Corm., in June to speak at Trinity College?
+Sentence 29: THE PRESIDENT.
+Sentence 30: I have not accepted the invitation.
+Sentence 31: I have been canceling invitations instead of accepting them.
+Sentence 32: I am sorry.
+Sentence 33: I wish I could go.
+Sentence 34: [6.]
+Sentence 35: Q. Mr. president, can you say when the health insurance message would go up?
+THE PRESIDENT.
+Sentence 36: It is in the course of preparation now.
+Sentence 37: As soon as it is ready, I will release it to you.
+Sentence 38: Q.
+Sentence 39: It will be a message?
+THE PRESIDENT.
+Sentence 40: It will be in the form of a message, yes.
+Sentence 41: [7.]
+Sentence 42: Q. Mr. President, there is a report that the Federal Reserve Board intends to further relax Regulation W.
+3
+Do you still intend to ask for extension beyond June 30th?
+THE PRESIDENT.
+Sentence 43: Certainly.
+Sentence 44: I certainly do.
+Sentence 45: There is nothing like that under consideration by the Federal Reserve Board at the present time.
+Sentence 46: 3
+See Item 32 [8].
+Sentence 47: [8.]
+Sentence 48: Q. Is Dr. Nourse resigning?
+THE PRESIDENT.
+Sentence 49: No.
+Sentence 50: He told you that yesterday, didn't he, as he went out the door?
+Sentence 51: [9.]
+Sentence 52: Q. Mr. President, are you passing up invitations which will take you out of Washington during the month of May?
+Sentence 53: In other words, you intend to remain here through the month of May?
+THE PRESIDENT.
+Sentence 54: Yes, that is my intention.
+Sentence 55: I have so much work to do, I can't get to it.
+Sentence 56: [10.]
+Sentence 57: Q. Mr. President, another report up there is that your economic stabilization bill has been shelved.
+Sentence 58: Has that been done with your approval or your knowledge?
+Sentence 59: THE PRESIDENT.
+Sentence 60: If the economic stabilization bill has been shelved, I know nothing about it.
+Sentence 61: I don't think it will be shelved without consultation with me.
+Sentence 62: [11.]
+Sentence 63: Q. Mr. President, Senator Bermudez of Mexico has been here seeking a loan for oil development.
+Sentence 64: I was wondering if you are in favor of such a loan?
+Sentence 65: THE PRESIDENT.
+Sentence 66: I have not gone into it.
+Sentence 67: It has never been put up to me directly, so I can't tell you whether I am in favor of it or not.
+Sentence 68: After it has been properly looked into by the departments, and they decide that it should be done, why of course I will be in favor of it.
+Sentence 69: [12.]
+Sentence 70: Q. Mr. President, do you have any comment on Chairman Vinson's idea that we need another billion and a half for the military budget?
+Sentence 71: THE PRESIDENT.
+Sentence 72: If we needed another billion and a half for the military budget, I would have asked Congress for it when I sent up the Budget Message.
+Sentence 73: [13.]
+Sentence 74: Q. Mr. President, there is a report that you are considering Jonathan Daniels for the new Secretary of the Navy?
+Sentence 75: THE PRESIDENT.
+Sentence 76: I have heard--I saw in the paper this morning that he was being considered for every job in the Government, and I have no comment to make on that.
+Sentence 77: [14.]
+Sentence 78: Q. Mr. President, there is a report that we will send an Ambassador to Spain soon after the United Nations votes to do that?
+Sentence 79: THE PRESIDENT.
+Sentence 80: That's the first time I had heard anything about that.
+Sentence 81: That's another of the "it is said" things on the front page of the Times--Herald Tribune--I forget which--this morning.
+Sentence 82: That's the first time I ever heard anything about it.
+Sentence 83: [15.]
+Sentence 84: Q. Mr. President, Mr. Caffery, our Ambassador to France, has been mentioned as a possibility for Moscow.
+Sentence 85: Are you considering that?
+Sentence 86: THE PRESIDENT.
+Sentence 87: There have been a dozen possibilities for Moscow, but none of them is under serious consideration at the present time.
+Sentence 88: [16.]
+Sentence 89: Q. Mr. President, have you any new choice for Chairman of the Security Resources Board?
+Sentence 90: THE PRESIDENT.
+Sentence 91: No, I have not.
+Sentence 92: I sent my choice to the Congress, and I am still behind him.
+Sentence 93: 4
+4
+Mort C. Wallgren, former Governor of the State of Washington.
+Sentence 94: [17.]
+Sentence 95: Q. Mr. President, in view of the present economic fluctuations which make it appear that inflation may have been stopped, would you be agreeable to deferring action on your economic control program?
+Sentence 96: THE PRESIDENT.
+Sentence 97: I think the economic control program--the request for the economic control program has been one of the main reasons for the temporary heading off of inflation.
+Sentence 98: I think it is just as necessary now as it ever has been.
+Sentence 99: We have been using those powers that we have with circumspection in the public interest.
+Sentence 100: That is what we intend to do with those powers we are asking for now,
+Q.
+Sentence 101: Can you say then, Mr. President, that the request to extend it has had a very good effect?
+Sentence 102: THE PRESIDENT.
+Sentence 103: I think it has.
+Sentence 104: [18.]
+Sentence 105: Q. Mr. President, the leader of the opposition--as they call him in England-Mr. Taft, has had some words to say about the.
+Sentence 106: THE PRESIDENT.
+Sentence 107: I thought Mr. Wherry was the Floor leader of the Senate?[Laughter]
+Q. Well!--I stand corrected.
+Sentence 108: THE PRESIDENT.
+Sentence 109: Go on, Bob.
+5
+[More [laughter]
+5
+Robert G. Nixon of International News Service.
+Sentence 110: Q. Anyway, Senator Taft has had some words to say about the North Atlantic Pact.
+Sentence 111: He has said that he is opposed to ratification of the pact, and he believes that a majority of Senators think the same way with him.
+Sentence 112: Could you comment on that remark?
+Sentence 113: THE PRESIDENT.
+Sentence 114: I have no way of telling anything about what Senator Taft thinks.
+Sentence 115: I think he is wrong about the pact.
+Sentence 116: I think the pact is absolutely necessary, and I think it will be ratified when it comes up before the Senate.
+Sentence 117: [19.]
+Sentence 118: Q. Mr. President, would you care to comment on the remarks of the real estate lobby on the rent control law?
+Sentence 119: THE PRESIDENT.
+Sentence 120: I have a long-winded telegram from the real estate lobby, giving me all sorts of "what for" for signing the bill, so it must be a good bill for that very reason.
+Sentence 121: Q. Are you going to release the telegram, Mr. President?
+THE PRESIDENT.
+Sentence 122: The telegram is not mine to release.
+Sentence 123: It belongs to the sender.
+Sentence 124: If he wants to release it, he is perfectly at liberty to do it, as far as I am concerned.
+Sentence 125: It will confirm my statement of yesterday, if he does release it.
+Sentence 126: [20.]
+Sentence 127: Q. Mr. President, I was just wondering if we could separate the standby wage and price controls from the other parts of the economic program?
+Sentence 128: Has the legislation dealing with standby price and wage controls been shelved temporarily?
+THE PRESIDENT.
+Sentence 129: I don't think so.
+Sentence 130: I don't think any of the present program has been shelved.
+Sentence 131: It is still under consideration.
+Sentence 132: Plenty of time yet for action on it.
+Sentence 133: Yes, Joe ?
+Sentence 134: [21] Joseph A. Fox (Washington Star): Who was the Senator that has got this telegram?
+THE PRESIDENT.
+Sentence 135: Which telegram?
+Sentence 136: Mr. Fox: On real estate.
+Sentence 137: THE PRESIDENT.
+Sentence 138: I got it--I have got it right here.
+Sentence 139: He can give it to you, but I am not going to do it.
+Sentence 140: Q. From a Senator?
+THE PRESIDENT.
+Sentence 141: From the sender.
+Sentence 142: I have no objection to its being published.
+Sentence 143: Q. Was it sent by a Senator, Mr. President?
+Sentence 144: THE PRESIDENT.
+Sentence 145: No, no-it was sent by the head of the real estate lobby here in Washington-- Mr. Nelson.
+Sentence 146: 6
+6
+Herbert U. Nelson, executive vice president of the National Association of Real Estate Boards.
+Sentence 147: Q.
+Sentence 148: What organization?
+Sentence 149: THE PRESIDENT [turning to Mr. Ross].What's the name of the organization?
+Sentence 150: Q. National Association--
+THE PRESIDENT.
+Sentence 151: National Association of Real Estate Boards.
+Sentence 152: Q.
+Sentence 153: You said it would have to be released by the sender?
+THE PRESIDENT.
+Sentence 154: By the man who sent it.
+Sentence 155: [Laughter]
+Q. Oh!
+THE PRESIDENT.
+Sentence 156: That was the--the telegram was to me, and if the sender of that telegram, or the man who sent it, wants to release it, I have no objection, because it confirms what I have in my statement of yesterday.
+Sentence 157: [22.]
+Sentence 158: Q. Mr. President, there have been reports that Joseph Fox is under consideration to be District Commissioner?
+Sentence 159: Have you heard those?
+THE PRESIDENT.
+Sentence 160: The name of Joe Fox was presented to me by a number of eminent real estate--[much laughter]--I have real estate on the brain.
+Sentence 161: Newspapermen, I should say.
+Sentence 162: Q. Fourth estate.
+Sentence 163: Q. Mr. President, is Mr. Fox also a candidate of the real estate lobby?
+Sentence 164: THE PRESIDENT.
+Sentence 165: Well now, I made a slip of the tongue there.
+Sentence 166: We have been talking about real estate--I was thinking about these gentlemen right here before me.
+Sentence 167: White House correspondents.
+Sentence 168: Reporter:
+Sentence 169: Thank you, Mr. President!

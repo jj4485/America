@@ -1,0 +1,179 @@
+Sentence 1: 1945
+Sentence 2: The Presidents News Conference 626
+
+THE PRESIDENT.
+Sentence 3: I didn't have any special announcements to make to you today, but since you haven't had a press conference in the afternoon this week, I thought I had better let you come in and ask some questions.
+Sentence 4: You might have something to say to me.
+Sentence 5: [1.]
+Sentence 6: Q. Well, Mr. President, we have.
+Sentence 7: The White House Correspondents' Association each year makes a small gift to the Warm Springs Foundation through the White House, and the President customarily receives it, and we would appreciate your accepting it.
+Sentence 8: THE PRESIDENT.
+Sentence 9: Well, thank you--thank you.
+Sentence 10: Q. A thousand dollars.
+Sentence 11: THE PRESIDENT.
+Sentence 12: A thousand dollars.
+Sentence 13: From the White House Correspondents' Association to the National Foundation for Infantile Paralysis--a thousand dollars.
+Sentence 14: Well, thank you.
+Sentence 15: On behalf of the Foundation, I thank you.
+Sentence 16: And I will see that that gets into the proper pocket.
+Sentence 17: [Laughter]
+Sentence 18: [2.]
+Sentence 19: Q. Mr. President, there are dispatches coming to us from London which indicate that Foreign Minister Bevin may announce some time today a five-power meeting of foreign ministers and perhaps a three-power atomic conference.
+Sentence 20: THE PRESIDENT.
+Sentence 21: I am not familiar with it.
+Sentence 22: I can't answer it.
+Sentence 23: I don't know.
+Sentence 24: [3.]
+Sentence 25: Q. Mr. President, could you make any comment on the northern Governors' suit to set aside the ICC freight rate decision?
+THE PRESIDENT.
+Sentence 26: Is that the one that breaks up the combination ?
+Sentence 27: Q. Well, that is the suit that involves the class rate ruling of the ICC, rather than the antitrust act.
+Sentence 28: THE PRESIDENT.
+Sentence 29: I am not familiar with it, but I want a freight rate structure in this country that is fair to every section of it.
+Sentence 30: I don't like the structure that has been in effect in the country with different brands in different parts of the United States.
+Sentence 31: I have spent most of my time in the Senate trying to break that.
+Sentence 32: [4.]
+Sentence 33: Q. Mr. President, have you yet selected your American members of the Palestine commission?
+Sentence 34: THE PRESIDENT.
+Sentence 35: No, but they will be announced.
+Sentence 36: I think we will be in a position to announce it Monday.
+Sentence 37: [5.]
+Sentence 38: Q. Mr. President, are you doing anything about the reinstitution of controls on building material?
+THE PRESIDENT.
+Sentence 39: Yes, we are.
+Sentence 40: We are trying to make some arrangement to channel building materials for residence purposes.
+Sentence 41: I thought I would have a special announcement to make to you this afternoon, but we didn't get it ready.
+Sentence 42: Q. Did any event hold that announcement up?
+THE PRESIDENT.
+Sentence 43: No.
+Sentence 44: No.
+Sentence 45: We just weren't ready.
+Sentence 46: Q. Could you explain that word "channel"?
+THE PRESIDENT.
+Sentence 47: Well, see that building materials are used principally for residence purposes.
+Sentence 48: Might use priorities.
+Sentence 49: Probably would be better than channeling.
+Sentence 50: [6.]
+Sentence 51: Q. Mr. President, do you intend to act on the recommendation of the Democratic National Committee that Governor Tugwell of Puerto Rico be removed immediately?
+Sentence 52: THE PRESIDENT.
+Sentence 53: The Democratic Committee has made no such recommendation to me.
+Sentence 54: We didn't know here--neither did the Democratic Committee--until we saw his name in the paper.
+Sentence 55: [7.]
+Sentence 56: Q. Mr. President, can you give us the names of the fact finding board you said you would appoint in the General Motors case?
+THE PRESIDENT.
+Sentence 57: I am not quite ready right now with them.
+Sentence 58: I can announce it in a very short time, but I can't give them to you today.
+Sentence 59: [8.]
+Sentence 60: Q. Mr. President, do you know of any instance where agencies of another power have got hold of any part of the atomic secret we have?
+Sentence 61: THE PRESIDENT.
+Sentence 62: I am not familiar with any specific instance.
+Sentence 63: I have heard rumors to that effect, but rumors you can't give as facts.
+Sentence 64: [9.]
+Sentence 65: Q. Can you give us any comment, Mr. President, on Mr. Murray's observations regarding your labor program?
+THE PRESIDENT.
+Sentence 66: No comment.
+Sentence 67: [10.]
+Sentence 68: Q. Mr. President, do you want to comment on the increasing rate of highway accidents?
+Sentence 69: Is there anything the Government can do about it?
+THE PRESIDENT.
+Sentence 70: Well, let me see.
+Sentence 71: I think in 1935 I succeeded in getting a bill through the Senate to regulate drivers on interstate highways.
+Sentence 72: That bill was passed by the Senate and was killed three times in the House.
+Sentence 73: It had to do with proper examinations for drivers, before they would be allowed to drive on highways in interstate traffic.
+Sentence 74: I still think some sort of regulation is going to have to be made of these drivers, either by State laws such as the ones they have in Massachusetts and I think in four other States in the Union--or five--or else the Federal Government is going to have to take a hand in stopping these accidents.
+Sentence 75: Up to 1935 there had been more highway deaths from accidents than we had lost men in all the wars we ever fought, beginning with the Revolution.
+Sentence 76: There had been a property damage rate of about a billion dollars a year.
+Sentence 77: That is a tremendous price to pay for crackpots to drive automobiles.
+Sentence 78: [11.]
+Sentence 79: Q. Mr. President, what is the next step on the British loan?
+Sentence 80: THE PRESIDENT.
+Sentence 81: It will be sent to the Congress in the form of a message, and then the Congress will have to act upon it.
+Sentence 82: Q. Will it be this week?
+Sentence 83: THE PRESIDENT.
+Sentence 84: It will be some time in the near future.
+Sentence 85: We can't set the date now.
+Sentence 86: [12.]
+Sentence 87: Q. Mr. President, Ambassador Hurley in his testimony before the Foreign Relations Committee accused Under Secretary Acheson of destroying American foreign policy in Iran.
+Sentence 88: Do you think that American foreign policy has been destroyed in the Near East?
+THE PRESIDENT.
+Sentence 89: No.
+Sentence 90: The first I had heard of that view was when Mr. Hurley made the statement to the Senate committee.
+Sentence 91: [13.]
+Sentence 92: Q. Mr. President, have you any plans for starting negotiations with Soviet Russia for a loan?
+Sentence 93: They have asked for $6 billion, I believe.
+Sentence 94: THE PRESIDENT.
+Sentence 95: If they have, it has never been officially given to me.
+Sentence 96: They never asked me for a $6 billion loan, since I have been President.
+Sentence 97: Q. Have there been any moves by the Government, Mr. President, to survey what the total possible loans may have to be, along the lines of Mr. Baruch's statement in a letter to Representative Gore?
+THE PRESIDENT.
+Sentence 98: No.
+Sentence 99: [14.]
+Sentence 100: Q. Mr. President, Congressman Manasco's committee reported a bill on the full employment idea, which pretty much emasculates your program.
+Sentence 101: They have even stricken the words "full employment" and put in the idea of high-level employment.
+Sentence 102: Do you have any comment on that committee's action?
+THE PRESIDENT.
+Sentence 103: No, I haven't; but I hope the House will pass some sort of bill so we can get the conference and probably work out a bill.
+Sentence 104: [15.]
+Sentence 105: Q. Mr. President, do you contemplate any action in the near future in returning the Coast Guard to the Treasury?
+THE PRESIDENT.
+Sentence 106: Yes--yes.
+Sentence 107: I don't know exactly when it will be done, but it will be done sometime soon, as soon as I can get the Secretary of the Treasury and the Secretary of the Navy to agree on a date.
+Sentence 108: [16.]
+Sentence 109: Q. Mr. President, do you have any comment at this time on unification?
+Sentence 110: THE PRESIDENT.
+Sentence 111: No.
+Sentence 112: I will have something to say about that in the very near future.
+Sentence 113: Q. Does that mean a message next week, Mr. President?
+THE PRESIDENT.
+Sentence 114: I hope so.
+Sentence 115: [17.]
+Sentence 116: Q. Can you tell us, Mr. President, anything about the instructions to General Eisen--Marshall at this time?
+Sentence 117: THE PRESIDENT.
+Sentence 118: No. General Marshall has been so busy with other things that I haven't had a chance to discuss the program with him and the Secretary of State.
+Sentence 119: Q. Will General Marshall try getting the two factions in China together again, Mr. President?
+THE PRESIDENT.
+Sentence 120: I hope so.
+Sentence 121: I will give you that when the instructions are published.
+Sentence 122: [18.]
+Sentence 123: Q. Mr. President, have you got any comment on the resignation of Charles Houston from the FEPC?
+Sentence 124: THE PRESIDENT.
+Sentence 125: I wrote a letter on that, which was published in today's papers, which covers the situation thoroughly.
+Sentence 126: 1
+1
+The letter accepting Mr. Houston's resignation, not published herein, was released by the White House on December 7.
+Sentence 127: The letter referred to an apparent contradiction between the law--which required the Government to operate seized properties under the terms and conditions of employment which were in effect at the time of seizure--and a proposed FEPC order concerning the Capital Transit Company In the District of Columbia.
+Sentence 128: [19.]
+Sentence 129: Q. Mr. President, in connection with housing, are you going to take any position on price ceilings on houses, as in the Patman bill?
+Sentence 130: THE PRESIDENT.
+Sentence 131: We hope to.
+Sentence 132: Q. Do you advocate price ceilings?
+Sentence 133: THE PRESIDENT.
+Sentence 134: Some sort of control on real estate prices, I think, is going to be necessary, unless we are going to have real estate inflation.
+Sentence 135: I don't know whether we will be able to do it or not.
+Sentence 136: That is a matter that will have to be worked out after much thought.
+Sentence 137: I don't want to say right now that it will be done, but some sort of arrangement will have to be made to prevent inflation in real estate prices, especially the small residence section.
+Sentence 138: [20.]
+Sentence 139: Q. Mr. President, the Red Cross central committee was supposed to meet December 4th, I think, to name a chairman or rather to get a recommendation from you.
+Sentence 140: Could you tell us anything about your recommendation with regard to that?
+Sentence 141: THE PRESIDENT.
+Sentence 142: They didn't meet, and I didn't make a recommendation.
+Sentence 143: Q.
+Sentence 144: They were scheduled--
+THE PRESIDENT.
+Sentence 145: No, I don't think so.
+Sentence 146: Q. Is there any change there in prospect, so far as you know, sir?
+Sentence 147: THE PRESIDENT.
+Sentence 148: I will announce that on the 12th of December.
+Sentence 149: Q.
+Sentence 150: You mean you are announcing a change?
+Sentence 151: [Laughter]
+THE PRESIDENT.
+Sentence 152: I will announce the chairman of the Red Cross on the 12th of December.
+Sentence 153: [21.]
+Sentence 154: Q. Mr. President, can you tell us anything about the Pacific Northwest light metals plant situation, as a result of your conference with Senator Mitchell today?
+Sentence 155: THE PRESIDENT.
+Sentence 156: Well, Senator Mitchell was here to discuss the continued operation of those light metals plants in the Northwest, and no conclusions were reached.
+Sentence 157: Reporter:
+Sentence 158: Thank you, Mr. President.
+Sentence 159: THE PRESIDENT.
+Sentence 160: You're welcome.

@@ -1,0 +1,170 @@
+Sentence 1: 1950 The Presidents News Conference 608
+
+THE PRESIDENT.
+Sentence 2: I have no special announcements to make.
+Sentence 3: I will try to answer questions.
+Sentence 4: [1.]
+Sentence 5: Q. Mr. President, Senator Humphrey made a speech yesterday, in which he invited the liberal Republicans to join the Democratic Party, and in which he more or less invited the conservative Democrats to get out and go over to the conservative Republicans.
+Sentence 6: What do you think of that political philosophy?
+Sentence 7: THE PRESIDENT.
+Sentence 8: I think the Democrats would like to have all the votes they can get.
+Sentence 9: I don't care about driving anybody out of the Democratic Party.
+Sentence 10: [2.]
+Sentence 11: Q. Mr. President, do you favor any other Cabinet officers appearing informally before Congress and being questioned?
+1
+THE PRESIDENT.
+Sentence 12: Whenever the Congress would like to see them, of course they are all available; and this isn't any precedent that has been set, I think this is the third time it has been done.
+Sentence 13: 1 On May 31 Secretary of State Dean Acheson appeared before approximately 250 Members of the Senate and House of Representatives at an informal session in Coolidge Auditorium in the Library of Congress.
+Sentence 14: The Secretary's address was followed by a question and answer period.
+Sentence 15: (See Department of State Bulletin, vol. 22, p. 931.)
+Sentence 16: Q.
+Sentence 17: Well now, in the future, sir, would you also favor the question period being spent on the radio, which was cut off yesterday?
+Sentence 18: THE PRESIDENT.
+Sentence 19: Well, that is up to the Cabinet officer himself whether he wants to be questioned or not.
+Sentence 20: He doesn't have to be questioned if he doesn't want to be.
+Sentence 21: [3.]
+Sentence 22: Q. Mr. President, did Secretary Sawyer consult with you before asking for the resignation of Mr. Remington?
+2
+THE PRESIDENT.
+Sentence 23: No, that is a departmental affair.
+Sentence 24: 2 William W. Remington resigned from his position as an economist in the Department of Commerce on June 9, 1950.
+Sentence 25: Secretary of Commerce Charles Sawyer requested the resignation on May 27.
+Sentence 26: In 1948 the Department had suspended Mr. Remington after Elizabeth Bentley testified before the House Committee on Un-American Activities that he had Communist affiliations.
+Sentence 27: In February 1949 he was cleared by the President's Loyalty Review Board and reinstated in the Department.
+Sentence 28: He was indicted on June 8, 1950, by a New York grand jury on a charge that he had lied in denying he had ever been a member of the Communist Party.
+Sentence 29: Q.
+Sentence 30: Do you have any comment?
+THE PRESIDENT.
+Sentence 31: No comment.
+Sentence 32: [4.]
+Sentence 33: Q. Mr. President, I apologize for asking a tough question--
+THE PRESIDENT.
+Sentence 34: It's all right.
+Sentence 35: Q.--as
+Sentence 36: I understand it, the import tax on copper becomes effective June 30th unless the present waiver is extended by Congress.
+Sentence 37: It seems to be a matter of some international interest.
+Sentence 38: THE PRESIDENT.
+Sentence 39: I hope the Congress will extend it.
+Sentence 40: Q.
+Sentence 41: You hope the Congress will extend it?
+THE PRESIDENT.
+Sentence 42: I hope the Congress will extend it.
+Sentence 43: Q.
+Sentence 44: In that connection, would you say whether this matter has been discussed by the Chilean Ambassador with you?
+THE PRESIDENT.
+Sentence 45: The Chilean President himself discussed it with me.
+Sentence 46: Q.
+Sentence 47: The Chilean President.
+Sentence 48: [Pause here]
+Sentence 49: [5.]
+Sentence 50: Q. Mr. President, I'll ask one.
+Sentence 51: THE PRESIDENT.
+Sentence 52: All right, Eddies
+3
+--go ahead.
+Sentence 53: 3 Edward T. Folliard of the Washington post.
+Sentence 54: Q. Mr. President, according to a Gallup poll, a majority of Americans expect a war within the next 5 years.
+Sentence 55: I know that you yourself have said that you are not alarmed.
+Sentence 56: I wonder if you would comment on that feeling--
+THE PRESIDENT.
+Sentence 57: I don't agree with that at all.
+Sentence 58: I am doing everything I possibly can to prevent any war of any kind and to make the United Nations operate for a permanent peace in the world.
+Sentence 59: I think we are closer to that now than we have been in the last 5 years.
+Sentence 60: [6.]
+Sentence 61: Q. Mr. President, just to avoid confusion, I understood your hope is that the waiver on the tax would be extended; that is, that the tax will not become effective?
+Sentence 62: Is that so ?
+THE PRESIDENT.
+Sentence 63: That's the idea, yes.
+Sentence 64: The authority of the President to waive the tax is what I would like to see extended.
+Sentence 65: [7.]
+Sentence 66: Q. Mr. President, to clarify the answer in response to Eddie's question, you think we are closer to peace than we have been in
+5
+years?
+Sentence 67: THE PRESIDENT.
+Sentence 68: I do.
+Sentence 69: I thought I made that perfectly plain on that nonpolitical trip across the country.
+Sentence 70: 5 Senator Smith's remarks were made on the floor of the Senate before she read what she called a "Declaration of Conscience" issued by herself and six other Senators.
+Sentence 71: The declaration was critical of Senator Joseph R. McCarthy of Wisconsin.
+Sentence 72: (See Congressional Record, vol. 96, p. 7894.
+Sentence 73: Q.
+Sentence 74: It comes up again.
+Sentence 75: THE PRESIDENT.
+Sentence 76: If you will read my speech at Laramie, Wyo., I think you will get some enlightenment on it.
+Sentence 77: 4
+4
+See Item 119
+Sentence 78: [8.]
+Sentence 79: Q. Mr. President, Senator Margaret Chase Smith made a speech in which she said that she did not want to see the Republican Party in the congressional elections this year ride to victory on what she called the four horsemen of fear, ignorance, bigotry, and smear.
+Sentence 80: 5
+Do you have any comment on that, sir?
+THE PRESIDENT.
+Sentence 81: No. I wouldn't like to make a comment as strong as that about the Republican Party.
+Sentence 82: [Laughter]
+5
+Senator Smith's remarks were made on the floor of the Senate before she read what she called a "Declaration of Conscience" issued by herself and six other Senators.
+Sentence 83: the declaration was critical of Senator Joseph R. McCarthyism of Wisconsin.
+Sentence 84: (See Congressional Record, Vol. 96, p. 7894.
+Sentence 85: [9.]
+Sentence 86: Q. Mr. President, do you intend to act shortly on an Executive order to give the Senate committee investigating crime the power to look into income tax returns?
+Sentence 87: 6
+THE PRESIDENT.
+Sentence 88: The matter has been referred to the Attorney General and the counselor for the President.
+Sentence 89: There is a precedent by which we can go.
+Sentence 90: I had such an order myself when I was running the committee in the Senate.
+Sentence 91: 6
+Sentence 92: See Item 168.
+Sentence 93: Q. Pardon me.
+Sentence 94: you mean the question of whether the income tax returns or information from them can be made available?
+Sentence 95: THE PRESIDENT.
+Sentence 96: What the committee is asking for is information that will contribute to their successful work as a committee to investigate crime, and that would include a great many departments, as well as the Department of Justice.
+Sentence 97: Q. Mr. President, did you have access to the returns themselves, or just to some of the returns?
+Sentence 98: THE PRESIDENT.
+Sentence 99: I had access to the returns themselves.
+Sentence 100: Q.
+Sentence 101: And you think that this committee should have the same access, sir?
+Sentence 102: THE PRESIDENT.
+Sentence 103: Well, I am waiting for an opinion from the Attorney General and my counselor.
+Sentence 104: Q. Mr. President, in order to get this accurate, you would give them every possible--
+THE PRESIDENT.
+Sentence 105: Every possible cooperation.
+Sentence 106: Every possible cooperation.
+Sentence 107: [10.]
+Sentence 108: Q. Mr. President, Charlie Ross
+7
+told us this morning that President Auriol of France was coming over here next year.
+Sentence 109: I believe it will be the first time that a President of France has made such a visit--
+THE PRESIDENT.
+Sentence 110: No, Tony,
+8
+you are wrong.
+Sentence 111: General de Gaulle was here when he was President of France.
+Sentence 112: 7 Charles G. Ross, Secretary to the President
+8
+Anthony H. Leviero of the New York Times.
+Sentence 113: Q. Would you comment on the significance of the visit ?
+Sentence 114: THE PRESIDENT.
+Sentence 115: Well, it is just a friendly gesture on the part of the President of France, the same as the visit of the President of Chile, the President of Mexico, and the President of Brazil.
+Sentence 116: We would be most happy to entertain the President of France, and give him every courtesy that he is entitled to as the head of a great republic.
+Sentence 117: Q. Mr. President, do you plan to return President Auriol's visit?
+THE PRESIDENT.
+Sentence 118: I have no plans in that direction.
+Sentence 119: Little previous, because he won't be here until March next year.
+Sentence 120: Q.
+Sentence 121: We are just planning.
+Sentence 122: [Laughter]
+THE PRESIDENT.
+Sentence 123: I may not be asked, you can't tell.
+Sentence 124: [11.]
+Sentence 125: Q. Mr. President, can you tell us now anything about Mr. Trygve Lie's conversation with you last week?
+Sentence 126: THE PRESIDENT.
+Sentence 127: No, I have no comment on that.
+Sentence 128: [12.]
+Sentence 129: Q. Mr. President, are you planning to appoint General Smith as Chief of the Central Intelligence Agency?
+THE PRESIDENT.
+Sentence 130: Admiral Hillenkoetter is the head of that Agency now, and when Admiral Hillenkoetter gets ready to be moved back into the Navy, I will make the announcement so everybody will know about it.
+Sentence 131: 9
+Reporter:
+Sentence 132: Thank you, Mr. President.
+Sentence 133: 9
+Sentence 134: The appointment of Gen. Walter B. Smith to succeed Rear Adm. Roscoe H. Hillenkoetter as Director of the Central Intelligence Agency was confirmed by the Senate on August 28, 1950.
+Sentence 135: The admiral returned to active sea duty with the Navy on October 7, 1950.
